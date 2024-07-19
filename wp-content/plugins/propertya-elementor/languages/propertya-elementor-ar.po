@@ -1,0 +1,1318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Propertya Elementor Widgets\n"
+"POT-Creation-Date: 2023-01-05 17:55+0500\n"
+"PO-Revision-Date: 2023-01-05 17:56+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sonutheme-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: plugin.php:91
+msgid "Propertya Widgets"
+msgstr "بروبرتي أ الحاجيات"
+
+#: sonutheme-elementor.php:51
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "\"%1$s\" يتطلب تثبيت \"%2$s\" وتنشيطه."
+
+#: sonutheme-elementor.php:52 sonutheme-elementor.php:63
+#: sonutheme-elementor.php:75
+msgid "Elementor Hello World"
+msgstr "مصمم الصفحات"
+
+#: sonutheme-elementor.php:53 sonutheme-elementor.php:64
+msgid "Elementor"
+msgstr "مصمم الصفحات"
+
+#: sonutheme-elementor.php:62 sonutheme-elementor.php:74
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "يتطلب \"%1$s\" إصدار \"%2$s\" %3$s أو أكبر."
+
+#: sonutheme-elementor.php:76
+msgid "PHP"
+msgstr "Php"
+
+#: widgets/about-us.php:13
+msgid "About Us"
+msgstr "معلومات عنا"
+
+#: widgets/about-us.php:43
+msgid "About Us Content"
+msgstr "عن الوكيل"
+
+#: widgets/about-us.php:48 widgets/call-action-1.php:49
+#: widgets/call-action-2.php:49 widgets/call-action-3.php:47
+#: widgets/call-action-4.php:48 widgets/funfacts-1.php:38 widgets/hero-4.php:63
+#: widgets/hero-5.php:64 widgets/hero-6.php:64 widgets/hero-7.php:66
+#: widgets/our-app.php:49
+msgid "Tagline"
+msgstr "(الشعار) الخط"
+
+#: widgets/about-us.php:56 widgets/call-action-1.php:58
+#: widgets/call-action-2.php:58 widgets/call-action-3.php:56
+#: widgets/call-action-4.php:58 widgets/funfacts-1.php:46 widgets/hero-1.php:51
+#: widgets/hero-2.php:73 widgets/hero-3.php:67 widgets/hero-4.php:72
+#: widgets/hero-5.php:74 widgets/hero-6.php:73 widgets/hero-7.php:75
+#: widgets/hero-8.php:64 widgets/our-app.php:58
+msgid "Main Heading"
+msgstr "العنوان الرئيسي"
+
+#: widgets/about-us.php:58 widgets/about-us.php:60 widgets/call-action-1.php:60
+#: widgets/call-action-1.php:63 widgets/call-action-2.php:60
+#: widgets/call-action-2.php:63 widgets/call-action-3.php:58
+#: widgets/call-action-3.php:61 widgets/call-action-4.php:60
+#: widgets/funfacts-1.php:48 widgets/funfacts-1.php:50 widgets/hero-1.php:53
+#: widgets/hero-1.php:55 widgets/hero-2.php:75 widgets/hero-3.php:69
+#: widgets/hero-4.php:74 widgets/hero-5.php:76 widgets/hero-6.php:75
+#: widgets/hero-7.php:77 widgets/hero-8.php:66 widgets/our-app.php:60
+#: widgets/our-app.php:63
+msgid "To highligt heading use color tag eg: {color} Awesome </color>"
+msgstr ""
+"إلى عنوان Highligt استخدم علامة اللون على سبيل المثال: {color} Awesome "
+
+#: widgets/about-us.php:65
+msgid "Phone No"
+msgstr "رقم الهاتف"
+
+#: widgets/about-us.php:68
+msgid "012-345-6789"
+msgstr "012-345-6789"
+
+#: widgets/about-us.php:73 widgets/contactus.php:138
+#: widgets/inquiryform.php:151
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: widgets/about-us.php:76
+msgid "your@email.com"
+msgstr "‏your@email.com"
+
+#: widgets/about-us.php:82 widgets/call-action-1.php:79
+#: widgets/call-action-2.php:81 widgets/call-action-3.php:79
+#: widgets/call-action-4.php:79 widgets/hero-1.php:72 widgets/hero-3.php:90
+#: widgets/hero-7.php:98 widgets/inquiryform.php:91
+msgid "Main Button Title"
+msgstr "العنوان الرئيسي لسمة الصفحة الرئيسية"
+
+#: widgets/about-us.php:84 widgets/call-action-1.php:81
+#: widgets/call-action-1.php:104 widgets/call-action-2.php:83
+#: widgets/call-action-2.php:108 widgets/call-action-3.php:81
+#: widgets/call-action-4.php:81 widgets/call-action-4.php:104
+#: widgets/hero-1.php:74 widgets/hero-1.php:99 widgets/hero-3.php:92
+#: widgets/hero-7.php:100 widgets/hero-7.php:125 widgets/hero-8.php:86
+#: widgets/hero-8.php:96 widgets/inquiryform.php:93 widgets/inquiryform.php:119
+msgid "Type your title here"
+msgstr "اكتب عنوانك هنا"
+
+#: widgets/about-us.php:92 widgets/call-action-1.php:88
+#: widgets/call-action-2.php:91 widgets/call-action-3.php:89
+#: widgets/call-action-4.php:88 widgets/hero-1.php:82 widgets/hero-3.php:100
+#: widgets/hero-7.php:108 widgets/inquiryform.php:102
+msgid "Main Button Link"
+msgstr "عرض الارتباط"
+
+#: widgets/about-us.php:94 widgets/call-action-1.php:90
+#: widgets/call-action-1.php:113 widgets/call-action-2.php:93
+#: widgets/call-action-2.php:118 widgets/call-action-3.php:91
+#: widgets/call-action-4.php:90 widgets/call-action-4.php:113
+#: widgets/hero-1.php:84 widgets/hero-1.php:109 widgets/hero-3.php:102
+#: widgets/hero-7.php:110 widgets/hero-7.php:135 widgets/inquiryform.php:104
+#: widgets/inquiryform.php:130 widgets/our-app.php:82 widgets/our-app.php:96
+msgid "https://your-link.com"
+msgstr "https://themeforest.net/user/scriptsbundle/"
+
+#: widgets/about-us.php:106 widgets/blocks.php:62 widgets/blocks.php:64
+#: widgets/call-action-1.php:43 widgets/call-action-2.php:43
+#: widgets/call-action-2.php:168 widgets/call-action-3.php:41
+#: widgets/hello-world.php:95 widgets/how-it-works.php:102
+#: widgets/how-it-works.php:104 widgets/inline-editing.php:84
+#: widgets/inline-editing.php:109 widgets/inline-editing.php:111
+#: widgets/our-services.php:119 widgets/our-services.php:121
+#: widgets/testimonials.php:52 widgets/testimonials2.php:108
+#: widgets/testimonials3.php:108
+msgid "Content"
+msgstr "صورة خلفية محتوى الصورة"
+
+#: widgets/about-us.php:108
+msgid "Your Content Here"
+msgstr "المحتوى الخاص بك هنا"
+
+#: widgets/about-us.php:116
+msgid "Video Section"
+msgstr "فيديو"
+
+#: widgets/about-us.php:121 widgets/funfacts-1.php:66
+msgid "Youtube Video Link"
+msgstr "رابط فيديو يوتيوب"
+
+#: widgets/about-us.php:129 widgets/locations.php:113
+#: widgets/locations2.php:112
+msgid "First Image"
+msgstr "الصورة الأولى"
+
+#: widgets/about-us.php:139
+msgid "Second Image"
+msgstr "الصورة الثانية"
+
+#: widgets/all-agencies.php:13
+msgid "All Agencies"
+msgstr "كل الوكلاء"
+
+#: widgets/all-agencies.php:42 widgets/all-agents.php:42
+#: widgets/all-listings.php:64 widgets/all-types-2.php:43
+#: widgets/all-types-3.php:43 widgets/all-types.php:55 widgets/blogs.php:57
+#: widgets/contactus.php:45 widgets/how-it-works.php:33
+#: widgets/inquiryform.php:45 widgets/locations.php:38
+#: widgets/locations2.php:37 widgets/our-services.php:33
+#: widgets/packages-classic.php:61 widgets/packages.php:62
+#: widgets/testimonials2.php:33 widgets/testimonials3.php:33
+msgid "Section Heading"
+msgstr "عنوان المقطع"
+
+#: widgets/all-agencies.php:48 widgets/all-agents.php:62
+#: widgets/all-listings.php:84 widgets/all-types-2.php:63
+#: widgets/all-types-3.php:63 widgets/all-types.php:61 widgets/blogs.php:63
+#: widgets/contactus.php:51 widgets/hero-2.php:64 widgets/how-it-works.php:39
+#: widgets/inquiryform.php:51 widgets/locations.php:58
+#: widgets/locations2.php:57 widgets/our-services.php:53
+#: widgets/packages-classic.php:67 widgets/packages.php:82
+#: widgets/testimonials2.php:53 widgets/testimonials3.php:53
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: widgets/all-agencies.php:50 widgets/all-agents.php:64
+#: widgets/all-listings.php:86 widgets/all-types-2.php:65
+#: widgets/all-types-3.php:65 widgets/all-types.php:63
+#: widgets/call-action-1.php:51 widgets/call-action-2.php:51
+#: widgets/call-action-3.php:49 widgets/hero-2.php:66 widgets/hero-4.php:65
+#: widgets/hero-7.php:68 widgets/locations.php:60 widgets/locations2.php:59
+#: widgets/our-app.php:51 widgets/our-services.php:55
+#: widgets/packages-classic.php:69 widgets/packages.php:84
+#: widgets/testimonials2.php:55 widgets/testimonials3.php:55
+msgid "Subtitle Here"
+msgstr "العنوان الفرعي هنا"
+
+#: widgets/all-agencies.php:58 widgets/all-agents.php:72
+#: widgets/all-listings.php:94 widgets/all-types-2.php:73
+#: widgets/all-types-3.php:73 widgets/all-types.php:70 widgets/blogs.php:72
+#: widgets/contactus.php:59 widgets/contactus.php:105
+#: widgets/how-it-works.php:47 widgets/inquiryform.php:59
+#: widgets/locations.php:68 widgets/locations2.php:67
+#: widgets/our-services.php:63 widgets/packages-classic.php:76
+#: widgets/packages.php:91 widgets/testimonials2.php:63
+#: widgets/testimonials3.php:63
+msgid "Main Title"
+msgstr "العنوان الرئيسي"
+
+#: widgets/all-agencies.php:61 widgets/all-agents.php:75
+#: widgets/all-listings.php:97 widgets/all-types-2.php:76
+#: widgets/all-types-3.php:76 widgets/all-types.php:73 widgets/locations.php:71
+#: widgets/locations2.php:70 widgets/our-services.php:66
+#: widgets/packages-classic.php:79 widgets/packages-classic.php:89
+#: widgets/packages.php:94 widgets/testimonials2.php:66
+#: widgets/testimonials3.php:66
+msgid "Main Heading Here"
+msgstr "أعط عنوان بريدك الإلكتروني"
+
+#: widgets/all-agencies.php:62 widgets/all-agents.php:76
+#: widgets/all-listings.php:98 widgets/all-types-2.php:77
+#: widgets/all-types-3.php:77 widgets/all-types.php:74 widgets/blogs.php:75
+#: widgets/call-action-1.php:72 widgets/call-action-2.php:73
+#: widgets/call-action-3.php:71 widgets/call-action-4.php:72
+#: widgets/contactus.php:72 widgets/funfacts-1.php:60 widgets/hero-1.php:65
+#: widgets/hero-2.php:88 widgets/hero-3.php:82 widgets/hero-5.php:88
+#: widgets/hero-7.php:90 widgets/hero-8.php:78 widgets/how-it-works.php:50
+#: widgets/inquiryform.php:72 widgets/inquiryform.php:83
+#: widgets/locations.php:72 widgets/locations2.php:71 widgets/our-app.php:72
+#: widgets/our-services.php:67 widgets/packages-classic.php:80
+#: widgets/packages-classic.php:90 widgets/packages.php:95
+#: widgets/testimonials2.php:67 widgets/testimonials3.php:67
+msgid "Type your description here"
+msgstr "اكتب الوصف هنا"
+
+#: widgets/all-agencies.php:68 widgets/all-agents.php:82
+#: widgets/all-listings.php:104 widgets/all-types-2.php:83
+#: widgets/all-types-3.php:83 widgets/all-types.php:80 widgets/blogs.php:81
+#: widgets/how-it-works.php:56 widgets/locations.php:78
+#: widgets/locations2.php:77 widgets/our-services.php:73
+#: widgets/packages.php:101 widgets/testimonials2.php:73
+#: widgets/testimonials3.php:73
+msgid "Heading Style"
+msgstr "اسلوب العنوان"
+
+#: widgets/all-agencies.php:73 widgets/all-agents.php:87
+#: widgets/all-listings.php:109 widgets/all-types-2.php:88
+#: widgets/all-types-3.php:88 widgets/all-types.php:85 widgets/blogs.php:86
+#: widgets/how-it-works.php:61 widgets/locations.php:83
+#: widgets/locations2.php:82 widgets/our-services.php:78
+#: widgets/packages.php:106 widgets/testimonials2.php:78
+#: widgets/testimonials3.php:78
+msgid "Center"
+msgstr "وسط"
+
+#: widgets/all-agencies.php:74 widgets/all-agents.php:88
+#: widgets/all-listings.php:110 widgets/all-types-2.php:89
+#: widgets/all-types-3.php:89 widgets/all-types.php:86 widgets/blogs.php:87
+#: widgets/how-it-works.php:62 widgets/locations.php:84
+#: widgets/locations2.php:83 widgets/our-services.php:79
+#: widgets/packages.php:107 widgets/testimonials2.php:79
+#: widgets/testimonials3.php:79
+msgid "Left"
+msgstr "يسار"
+
+#: widgets/all-agencies.php:84
+msgid "Agency Settings"
+msgstr "إعدادات الوكالة"
+
+#: widgets/all-agencies.php:91
+msgid "Agency Type"
+msgstr "نوع الوكالة"
+
+#: widgets/all-agencies.php:95 widgets/all-agencies.php:148
+#: widgets/all-agents.php:122 widgets/all-listings.php:143
+#: widgets/blogs.php:104 widgets/hero-2.php:177
+msgid "All"
+msgstr "الكل"
+
+#: widgets/all-agencies.php:96 widgets/all-agents.php:123
+#: widgets/all-listings.php:144
+msgid "Simple"
+msgstr "بسيط"
+
+#: widgets/all-agencies.php:97 widgets/all-agents.php:124
+#: widgets/all-listings.php:145 widgets/hero-2.php:175
+msgid "Featured"
+msgstr "مميز"
+
+#: widgets/all-agencies.php:98 widgets/all-agents.php:125
+#: widgets/hero-2.php:176
+msgid "Trusted"
+msgstr "موثوق؟"
+
+#: widgets/all-agencies.php:106 widgets/all-agents.php:132
+#: widgets/all-listings.php:153
+msgid "OrderBy"
+msgstr "تصنيف حسب"
+
+#: widgets/all-agencies.php:110 widgets/all-agents.php:136
+#: widgets/all-listings.php:157
+msgid "Latest"
+msgstr "أحدث قسم الإعلانات"
+
+#: widgets/all-agencies.php:111 widgets/all-agents.php:137
+#: widgets/all-listings.php:158
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: widgets/all-agencies.php:112 widgets/all-agents.php:138
+#: widgets/all-listings.php:159
+msgid "Random"
+msgstr "مجرد عدد عشوائي التي تم إنشاؤها من قبلك لأمن التطبيق"
+
+#: widgets/all-agencies.php:120 widgets/all-agents.php:145
+#: widgets/all-listings.php:167 widgets/search-builder-home.php:74
+msgid "Layout Type"
+msgstr "النوع"
+
+#: widgets/all-agencies.php:124
+msgid "Agency Grid 1"
+msgstr "شبكة الوكالة 1"
+
+#: widgets/all-agencies.php:125
+msgid "Agency Grid 2"
+msgstr "شبكة الوكالة 2"
+
+#: widgets/all-agencies.php:126
+msgid "Agency Grid 3"
+msgstr "شبكة الوكالة 3"
+
+#: widgets/all-agencies.php:127
+msgid "Agency Grid 4"
+msgstr "شبكة الوكالة 4"
+
+#: widgets/all-agencies.php:128
+msgid "Agency Grid 5"
+msgstr "شبكة الوكالة 5"
+
+#: widgets/all-agencies.php:129
+msgid "Agency Grid 6"
+msgstr "شبكة الوكالة 6"
+
+#: widgets/all-agencies.php:138
+msgid "Number of Agencies"
+msgstr "عدد الوكالات"
+
+#: widgets/all-agencies.php:142 widgets/blogs.php:99
+msgid "Three"
+msgstr "ثلاثة"
+
+#: widgets/all-agencies.php:143 widgets/blogs.php:100
+msgid "Six"
+msgstr "ستة"
+
+#: widgets/all-agencies.php:144
+msgid "Eight"
+msgstr "ثمانية"
+
+#: widgets/all-agencies.php:145 widgets/blogs.php:101
+msgid "Nine"
+msgstr "تسعة"
+
+#: widgets/all-agencies.php:146 widgets/blogs.php:102
+msgid "Twelve"
+msgstr "اثنا عشر"
+
+#: widgets/all-agencies.php:147 widgets/blogs.php:103
+msgid "Fifteen"
+msgstr "خمسة عشر"
+
+#: widgets/all-agents.php:13
+msgid "All Agents"
+msgstr "كل الوكلاء"
+
+#: widgets/all-agents.php:48 widgets/all-listings.php:70
+#: widgets/all-types-2.php:49 widgets/all-types-3.php:49
+#: widgets/locations.php:44 widgets/locations2.php:43
+#: widgets/our-services.php:39 widgets/packages.php:68
+#: widgets/testimonials2.php:39 widgets/testimonials3.php:39
+msgid "Hide Section Heading"
+msgstr "إخفاء عنوان المقطع"
+
+#: widgets/all-agents.php:50 widgets/all-agents.php:106
+#: widgets/all-listings.php:72 widgets/all-listings.php:127
+#: widgets/all-types-2.php:51 widgets/all-types-3.php:51
+#: widgets/how-it-works.php:154 widgets/locations.php:46
+#: widgets/locations2.php:45 widgets/our-services.php:41
+#: widgets/packages.php:70 widgets/testimonials2.php:41
+#: widgets/testimonials3.php:41
+msgid "Yes"
+msgstr "نعم"
+
+#: widgets/all-agents.php:51 widgets/all-agents.php:107
+#: widgets/all-listings.php:73 widgets/all-listings.php:128
+#: widgets/all-types-2.php:52 widgets/all-types-3.php:52 widgets/hero-2.php:148
+#: widgets/how-it-works.php:155 widgets/locations.php:47
+#: widgets/locations2.php:46 widgets/our-services.php:42
+#: widgets/packages.php:71 widgets/testimonials2.php:42
+#: widgets/testimonials3.php:42
+msgid "No"
+msgstr "لا"
+
+#: widgets/all-agents.php:98
+msgid "Agents Settings"
+msgstr "إعدادات الوكلاء"
+
+#: widgets/all-agents.php:104 widgets/all-listings.php:125
+msgid "Hide Load More Button"
+msgstr "الزر \"إخفاء تحميل المزيد\""
+
+#: widgets/all-agents.php:118
+msgid "Agent Type"
+msgstr "نوع العامل"
+
+#: widgets/all-agents.php:149
+msgid "Agent Style 1"
+msgstr "نمط الوكيل 1"
+
+#: widgets/all-agents.php:150
+msgid "Agent Style 2"
+msgstr "نمط الوكيل 2"
+
+#: widgets/all-agents.php:158 widgets/all-listings.php:196
+#: widgets/hero-6.php:213 widgets/search-builder-2.php:145
+#: widgets/search-builder-home.php:169 widgets/search-builder.php:154
+msgid "Column Size"
+msgstr "حجم العمود"
+
+#: widgets/all-agents.php:161 widgets/all-listings.php:199
+msgid "Use 2 columns only when using sidebar."
+msgstr "استخدم أعمدة 2 فقط عند استخدام الشريط الجانبي."
+
+#: widgets/all-agents.php:163
+msgid "4 Columns"
+msgstr "4 اعمدة"
+
+#: widgets/all-agents.php:164 widgets/all-listings.php:201
+msgid "3 Columns"
+msgstr "3 اعمدة"
+
+#: widgets/all-agents.php:165 widgets/all-listings.php:202
+msgid "2 Columns"
+msgstr "الأعمدة"
+
+#: widgets/all-agents.php:172
+msgid "Number of Agents"
+msgstr "عدد الوكلاء"
+
+#: widgets/all-listings.php:13
+msgid "All Listings"
+msgstr "جميع القوائم"
+
+#: widgets/all-listings.php:119
+msgid "Listing Filters"
+msgstr "مرشحات الإدراج"
+
+#: widgets/all-listings.php:139
+msgid "Listing Type"
+msgstr "نوع القائمة"
+
+#: widgets/all-listings.php:171
+msgid "Grid Style 1"
+msgstr "نمط الشبكة 1"
+
+#: widgets/all-listings.php:172
+msgid "Grid Style 2"
+msgstr "نمط الشبكة 2"
+
+#: widgets/all-listings.php:173
+msgid "Grid Style 3"
+msgstr "نمط الشبكة 3"
+
+#: widgets/all-listings.php:174
+msgid "Grid Style 4"
+msgstr "نمط الشبكة 4"
+
+#: widgets/all-listings.php:175
+msgid "Grid Style 5"
+msgstr "نمط الشبكة 5"
+
+#: widgets/all-listings.php:176
+msgid "Grid Style 6"
+msgstr "نمط الشبكة 6"
+
+#: widgets/all-listings.php:177
+msgid "Grid Style 7"
+msgstr "نمط الشبكة 7"
+
+#: widgets/all-listings.php:178
+msgid "Classic List"
+msgstr "القائمة الكلاسيكية"
+
+#: widgets/all-listings.php:186 widgets/hero-3.php:43 widgets/hero-4.php:42
+#: widgets/hero-5.php:42 widgets/hero-6.php:42 widgets/hero-7.php:43
+#: widgets/hero-8.php:42 widgets/search-builder-2.php:43
+#: widgets/search-builder-home.php:43 widgets/search-builder.php:43
+msgid "Offer Type"
+msgstr "نوع العرض"
+
+#: widgets/all-listings.php:222
+msgid "Number of Listings"
+msgstr "عدد القوائم"
+
+#: widgets/all-listings.php:234 widgets/locations.php:103
+#: widgets/locations2.php:102
+msgid "Select Locations"
+msgstr "حدد المواقع"
+
+#: widgets/all-listings.php:239
+msgid "Show properties for a particular location"
+msgstr "عرض خصائص لموقع معين"
+
+#: widgets/all-listings.php:246 widgets/all-types-2.php:106
+#: widgets/all-types-3.php:106 widgets/all-types.php:112 widgets/hero-2.php:171
+#: widgets/hero-3.php:232 widgets/hero-4.php:192 widgets/hero-5.php:214
+#: widgets/hero-6.php:288 widgets/search-builder-2.php:220
+#: widgets/search-builder-home.php:244 widgets/search-builder.php:229
+msgid "Select Type"
+msgstr "حدد النوع"
+
+#: widgets/all-types-2.php:13
+msgid "Types Slider"
+msgstr "أنواع الجسم"
+
+#: widgets/all-types-2.php:99 widgets/all-types-3.php:99
+#: widgets/all-types.php:105
+msgid "Select Property Types"
+msgstr "تحديد انواع العقار"
+
+#: widgets/all-types-2.php:116 widgets/call-action-2.php:130
+#: widgets/our-app.php:108
+msgid "Image"
+msgstr "صوره"
+
+#: widgets/all-types-2.php:121 widgets/call-action-2.php:135
+#: widgets/our-app.php:113
+msgid "Recommended image size 250x300"
+msgstr "حجم الصورة الموصى به 250x300"
+
+#: widgets/all-types-2.php:127 widgets/all-types-3.php:127
+#: widgets/all-types.php:134
+msgid "Select Types"
+msgstr "حدد النوع:"
+
+#: widgets/all-types-3.php:13
+msgid "Types Category"
+msgstr "فئة الأنواع"
+
+#: widgets/all-types-3.php:116 widgets/all-types.php:123 widgets/blocks.php:42
+#: widgets/call-action-2.php:149 widgets/how-it-works.php:82
+#: widgets/our-services.php:99
+msgid "Icon"
+msgstr "أيقونة"
+
+#: widgets/all-types-3.php:121 widgets/all-types.php:128
+#: widgets/our-services.php:104
+msgid "Recommended icon size 128x128"
+msgstr "حجم الرمز الموصى به 128x128"
+
+#: widgets/all-types.php:13
+msgid "All Types"
+msgstr "جميع الأنواع"
+
+#: widgets/all-types.php:94
+msgid "Sub Category Limit"
+msgstr "حد الفئة الفرعية"
+
+#: widgets/blocks.php:13
+msgid "Block Section"
+msgstr "قسم النماذج"
+
+#: widgets/blocks.php:33 widgets/how-it-works.php:72
+#: widgets/our-services.php:89 widgets/partners.php:33
+msgid "Blocks"
+msgstr "كتل"
+
+#: widgets/blocks.php:53 widgets/call-action-2.php:159
+#: widgets/hello-world.php:102 widgets/hero-2.php:159
+#: widgets/how-it-works.php:93 widgets/inline-editing.php:91
+#: widgets/inline-editing.php:93 widgets/our-services.php:110
+msgid "Title"
+msgstr "العنوان"
+
+#: widgets/blocks.php:55 widgets/how-it-works.php:95
+#: widgets/our-services.php:112
+msgid "Grid Title"
+msgstr "عنوان الشبكة"
+
+#: widgets/blocks.php:73 widgets/funfacts-1.php:75 widgets/partners.php:43
+#: widgets/testimonials.php:42 widgets/testimonials2.php:98
+#: widgets/testimonials2.php:173 widgets/testimonials3.php:98
+msgid "Choose Image"
+msgstr "اختر صورة"
+
+#: widgets/blocks.php:84 widgets/call-action-2.php:178
+#: widgets/how-it-works.php:113 widgets/our-services.php:130
+msgid "Block Grids"
+msgstr "شبكات الكتلة"
+
+#: widgets/blogs.php:13
+msgid "Blogs"
+msgstr "المدونات"
+
+#: widgets/blogs.php:95
+msgid "Number of Blog Posts"
+msgstr "عدد مشاركات المدونة"
+
+#: widgets/call-action-1.php:13
+msgid "Call To Action 1"
+msgstr "السماح بالموقع"
+
+#: widgets/call-action-1.php:62 widgets/call-action-1.php:73
+#: widgets/call-action-2.php:62 widgets/call-action-2.php:74
+#: widgets/call-action-3.php:60 widgets/call-action-3.php:72
+#: widgets/call-action-4.php:63 widgets/call-action-4.php:73
+#: widgets/hero-2.php:78 widgets/hero-2.php:89 widgets/hero-3.php:72
+#: widgets/hero-3.php:83 widgets/hero-4.php:77 widgets/hero-5.php:79
+#: widgets/hero-5.php:89 widgets/hero-6.php:66 widgets/hero-6.php:78
+#: widgets/hero-7.php:80 widgets/hero-7.php:91 widgets/hero-8.php:69
+#: widgets/our-app.php:62 widgets/our-app.php:73
+msgid "Content goes here.."
+msgstr "المحتوى يذهب هنا.."
+
+#: widgets/call-action-1.php:69 widgets/call-action-2.php:70
+#: widgets/call-action-3.php:68 widgets/call-action-4.php:69
+#: widgets/contactus.php:69 widgets/funfacts-1.php:57 widgets/hero-1.php:62
+#: widgets/hero-2.php:85 widgets/hero-3.php:79 widgets/hero-5.php:85
+#: widgets/hero-7.php:87 widgets/hero-8.php:75 widgets/inline-editing.php:100
+#: widgets/inline-editing.php:102 widgets/inquiryform.php:69
+#: widgets/inquiryform.php:80 widgets/our-app.php:69
+#: widgets/packages-classic.php:86
+msgid "Description"
+msgstr "الوصف"
+
+#: widgets/call-action-1.php:102 widgets/call-action-2.php:106
+#: widgets/call-action-4.php:102 widgets/hero-1.php:97 widgets/hero-7.php:123
+#: widgets/inquiryform.php:117
+msgid "Secondary Button Title"
+msgstr "عنوان الزر الثانوي"
+
+#: widgets/call-action-1.php:111 widgets/call-action-2.php:116
+#: widgets/call-action-4.php:111 widgets/hero-1.php:107 widgets/hero-7.php:133
+#: widgets/inquiryform.php:128
+msgid "Secondary Button Link"
+msgstr "رابط الزر الثانوي"
+
+#: widgets/call-action-2.php:13
+msgid "Call To Action 2"
+msgstr "دعوة للعمل 2"
+
+#: widgets/call-action-2.php:142
+msgid "Additional Information"
+msgstr "معلومة اضافية"
+
+#: widgets/call-action-2.php:161
+msgid "Title Goes Here.."
+msgstr "العنوان يذهب هنا.."
+
+#: widgets/call-action-2.php:170
+msgid "Content gose here.."
+msgstr "المحتوى يذهب هنا.."
+
+#: widgets/call-action-3.php:13
+msgid "Call To Action 3"
+msgstr "الدعوة إلى العمل-3"
+
+#: widgets/call-action-4.php:13 widgets/hero-8.php:13
+msgid "Hero Section 8"
+msgstr "بطل القسم 8"
+
+#: widgets/call-action-4.php:41 widgets/hero-1.php:45 widgets/hero-2.php:43
+#: widgets/hero-3.php:60 widgets/hero-4.php:57 widgets/hero-5.php:57
+#: widgets/hero-6.php:57 widgets/hero-7.php:60 widgets/hero-8.php:57
+msgid "Hero Content"
+msgstr "محتوى البطل"
+
+#: widgets/call-action-4.php:50 widgets/hero-5.php:66
+msgid "Use %count% if want to show total properties"
+msgstr "استخدم %count% if تريد إظهار إجمالي الخصائص"
+
+#: widgets/call-action-4.php:51 widgets/hero-5.php:67
+msgid "More than %count% properties listed"
+msgstr "أكثر من %cأونت% p مدرجة"
+
+#: widgets/call-action-4.php:62 widgets/hero-2.php:77 widgets/hero-3.php:71
+#: widgets/hero-4.php:76 widgets/hero-5.php:78 widgets/hero-6.php:77
+#: widgets/hero-7.php:79 widgets/hero-8.php:68
+msgid "Highligt heading use color tag eg: {color} Awesome </color>"
+msgstr "عنوان Highligt استخدام علامة اللون على سبيل المثال: {اللون} رهيبة "
+
+#: widgets/contactus.php:13
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: widgets/contactus.php:78 widgets/inquiryform.php:142
+msgid "Form Heading"
+msgstr "عنوان الترويسة"
+
+#: widgets/contactus.php:87 widgets/inquiryform.php:161
+msgid "Select Contact Form"
+msgstr "اختر نموذج الاتصال"
+
+#: widgets/contactus.php:98
+msgid "Additional Info"
+msgstr "معلومات إضافية"
+
+#: widgets/contactus.php:116 widgets/hero-3.php:45 widgets/hero-4.php:44
+#: widgets/hero-5.php:44 widgets/hero-6.php:44 widgets/hero-7.php:45
+#: widgets/hero-8.php:44 widgets/search-builder-2.php:45
+#: widgets/search-builder-home.php:45 widgets/search-builder.php:45
+msgid "Location"
+msgstr "الموقع"
+
+#: widgets/contactus.php:127
+msgid "Contact No"
+msgstr "رقم الاتصال"
+
+#: widgets/funfacts-1.php:13
+msgid "Funfacts 1"
+msgstr "حقائق المرح 1"
+
+#: widgets/funfacts-1.php:33
+msgid "Funfacts Content"
+msgstr "محتوى Funfacts"
+
+#: widgets/funfacts-1.php:88 widgets/funfacts-2.php:34
+#: widgets/how-it-works.php:142
+msgid "Funfacts Counter"
+msgstr "عداد Funfacts"
+
+#: widgets/funfacts-1.php:94 widgets/funfacts-2.php:50
+#: widgets/how-it-works.php:174
+msgid "Number"
+msgstr "رقم"
+
+#: widgets/funfacts-1.php:101 widgets/funfacts-2.php:57
+#: widgets/how-it-works.php:182
+msgid "Text"
+msgstr "نص التطبيقات"
+
+#: widgets/funfacts-1.php:110 widgets/funfacts-2.php:66
+#: widgets/how-it-works.php:192
+msgid "FunFact Counter"
+msgstr "عداد FunFact"
+
+#: widgets/funfacts-2.php:13
+msgid "Minimal Funfacts"
+msgstr "الحد الأدنى من المرح"
+
+#: widgets/funfacts-2.php:41 widgets/how-it-works.php:164
+msgid "Choose Icon"
+msgstr "اختيار أيقونة"
+
+#: widgets/hello-world.php:33
+msgid "Hello World"
+msgstr "مرحبا بالعالم"
+
+#: widgets/hello-world.php:112
+msgid "Style"
+msgstr "النمط"
+
+#: widgets/hello-world.php:120
+msgid "Text Transform"
+msgstr "تحويل النص"
+
+#: widgets/hello-world.php:124
+msgid "None"
+msgstr "لا شيء"
+
+#: widgets/hello-world.php:125
+msgid "UPPERCASE"
+msgstr "الأحرف الكبيرة"
+
+#: widgets/hello-world.php:126
+msgid "lowercase"
+msgstr "الاحرف الصغيره"
+
+#: widgets/hello-world.php:127
+msgid "Capitalize"
+msgstr "حروف رئيسية"
+
+#: widgets/hero-1.php:13
+msgid "Hero Section 1"
+msgstr "Hero Section 1"
+
+#: widgets/hero-2.php:13
+msgid "Hero Section 2"
+msgstr "البطل القسم 2"
+
+#: widgets/hero-2.php:49
+msgid "Shortcode Type"
+msgstr "نوع الرمز القصير"
+
+#: widgets/hero-2.php:53
+msgid "Select shortcode type to display on the frontend."
+msgstr "حدد نوع الرمز القصير لعرضه على الواجهة الأمامية."
+
+#: widgets/hero-2.php:55 widgets/hero-2.php:149
+msgid "Agencies"
+msgstr "الوكالات"
+
+#: widgets/hero-2.php:56 widgets/hero-2.php:150
+msgid "Agents"
+msgstr "الوكلاء"
+
+#: widgets/hero-2.php:57 widgets/hero-6.php:432
+msgid "Properties"
+msgstr "كل العقارات"
+
+#: widgets/hero-2.php:96
+msgid "Front Image"
+msgstr "صورة أمامية للتخزين"
+
+#: widgets/hero-2.php:101 widgets/locations2.php:117
+msgid "Recommended image size 350x230"
+msgstr "حجم الصورة الموصى به 350x230"
+
+#: widgets/hero-2.php:107 widgets/hero-5.php:95
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: widgets/hero-2.php:112
+msgid "Transparent image recommended size 500x786"
+msgstr "صورة شفافة الحجم الموصى به 500x786"
+
+#: widgets/hero-2.php:119
+msgid "Background Image Color"
+msgstr "لون صورة الخلفية"
+
+#: widgets/hero-2.php:136
+msgid "Other"
+msgstr "أخرى"
+
+#: widgets/hero-2.php:144
+msgid "Show Agencies/Agents"
+msgstr "عرض الوكالات / الوكلاء"
+
+#: widgets/hero-2.php:161
+msgid "Top Agencies"
+msgstr "أفضل الوكالات"
+
+#: widgets/hero-2.php:188
+msgid "Limit"
+msgstr "الحد"
+
+#: widgets/hero-2.php:191
+msgid "Number of results to show."
+msgstr "عدد النتائج التي يجب إظهارها."
+
+#: widgets/hero-3.php:13
+msgid "Hero Section 3"
+msgstr "بطل القسم 3"
+
+#: widgets/hero-3.php:41 widgets/hero-4.php:40 widgets/hero-5.php:40
+#: widgets/hero-6.php:40 widgets/hero-7.php:41 widgets/hero-8.php:40
+#: widgets/search-builder-2.php:41 widgets/search-builder-home.php:41
+#: widgets/search-builder.php:41
+msgid "Keyword"
+msgstr "كلمة البحث"
+
+#: widgets/hero-3.php:42 widgets/hero-3.php:231 widgets/hero-4.php:41
+#: widgets/hero-4.php:191 widgets/hero-5.php:41 widgets/hero-5.php:213
+#: widgets/hero-6.php:41 widgets/hero-6.php:287 widgets/hero-7.php:42
+#: widgets/hero-8.php:41 widgets/search-builder-2.php:42
+#: widgets/search-builder-2.php:219 widgets/search-builder-home.php:42
+#: widgets/search-builder-home.php:243 widgets/search-builder.php:42
+#: widgets/search-builder.php:228 widgets/testimonials.php:69
+#: widgets/testimonials2.php:125 widgets/testimonials3.php:125
+msgid "Type"
+msgstr "النوع"
+
+#: widgets/hero-3.php:44 widgets/hero-3.php:151 widgets/hero-4.php:43
+#: widgets/hero-4.php:111 widgets/hero-5.php:43 widgets/hero-5.php:133
+#: widgets/hero-6.php:43 widgets/hero-6.php:185 widgets/hero-7.php:44
+#: widgets/hero-8.php:43 widgets/search-builder-2.php:44
+#: widgets/search-builder-2.php:117 widgets/search-builder-home.php:44
+#: widgets/search-builder-home.php:141 widgets/search-builder.php:44
+#: widgets/search-builder.php:126
+msgid "Label"
+msgstr "ملصق"
+
+#: widgets/hero-3.php:46 widgets/hero-4.php:45 widgets/hero-5.php:45
+#: widgets/hero-6.php:45 widgets/hero-7.php:46 widgets/hero-8.php:45
+#: widgets/search-builder-2.php:46 widgets/search-builder-home.php:46
+#: widgets/search-builder.php:46
+msgid "Currency"
+msgstr "العملة"
+
+#: widgets/hero-3.php:47 widgets/hero-4.php:46 widgets/hero-5.php:46
+#: widgets/hero-6.php:46 widgets/hero-7.php:47 widgets/hero-8.php:46
+#: widgets/search-builder-2.php:47 widgets/search-builder-home.php:47
+#: widgets/search-builder.php:47
+msgid "Bedrooms"
+msgstr "غرف النوم"
+
+#: widgets/hero-3.php:48 widgets/hero-4.php:47 widgets/hero-5.php:47
+#: widgets/hero-6.php:47 widgets/hero-7.php:48 widgets/hero-8.php:47
+#: widgets/search-builder-2.php:48 widgets/search-builder-home.php:48
+#: widgets/search-builder.php:48
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: widgets/hero-3.php:49 widgets/hero-4.php:48 widgets/hero-5.php:48
+#: widgets/hero-6.php:48 widgets/hero-7.php:49 widgets/hero-8.php:48
+#: widgets/search-builder-2.php:49 widgets/search-builder-home.php:49
+#: widgets/search-builder.php:49
+msgid "Price"
+msgstr "السعر"
+
+#: widgets/hero-3.php:50 widgets/hero-4.php:49 widgets/hero-5.php:49
+#: widgets/hero-6.php:49 widgets/hero-7.php:50 widgets/hero-8.php:49
+#: widgets/search-builder-2.php:50 widgets/search-builder-home.php:50
+#: widgets/search-builder.php:50
+msgid "Area"
+msgstr "المنطقة"
+
+#: widgets/hero-3.php:117 widgets/hero-4.php:84 widgets/hero-5.php:106
+#: widgets/search-builder-2.php:59 widgets/search-builder-home.php:59
+#: widgets/search-builder.php:59
+msgid "Filters"
+msgstr "الفلاتر"
+
+#: widgets/hero-3.php:124 widgets/hero-4.php:91 widgets/hero-5.php:113
+#: widgets/hero-6.php:165 widgets/hero-6.php:305 widgets/hero-6.php:358
+#: widgets/search-builder-2.php:65 widgets/search-builder-home.php:65
+#: widgets/search-builder.php:74
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: widgets/hero-3.php:126 widgets/hero-4.php:93 widgets/hero-5.php:115
+#: widgets/hero-6.php:167 widgets/hero-6.php:307 widgets/hero-6.php:360
+#: widgets/search-builder-2.php:67 widgets/search-builder-home.php:67
+#: widgets/search-builder.php:76
+msgid "Search"
+msgstr "بحث..."
+
+#: widgets/hero-3.php:132
+msgid "Filter Box Tagline"
+msgstr "شعار مربع التصفية"
+
+#: widgets/hero-3.php:134
+msgid "Find Your Dream Home"
+msgstr "اعثر على منزل أحلامك"
+
+#: widgets/hero-3.php:142 widgets/hero-4.php:102 widgets/hero-5.php:124
+#: widgets/hero-6.php:176 widgets/search-builder-2.php:108
+#: widgets/search-builder-home.php:132 widgets/search-builder.php:117
+msgid "Filter Type"
+msgstr "نوع الفلتر"
+
+#: widgets/hero-3.php:159 widgets/hero-4.php:119 widgets/hero-5.php:141
+#: widgets/hero-6.php:193 widgets/search-builder-2.php:125
+#: widgets/search-builder-home.php:149 widgets/search-builder.php:134
+msgid "Placeholder"
+msgstr "العنصر النائب"
+
+#: widgets/hero-3.php:179 widgets/hero-4.php:139 widgets/hero-5.php:161
+#: widgets/hero-6.php:235 widgets/search-builder-2.php:167
+#: widgets/search-builder-home.php:191 widgets/search-builder.php:176
+msgid "Min Placeholder"
+msgstr "‫الحد الأدنى للعنصر النائب"
+
+#: widgets/hero-3.php:199 widgets/hero-4.php:159 widgets/hero-5.php:181
+#: widgets/hero-6.php:255 widgets/search-builder-2.php:187
+#: widgets/search-builder-home.php:211 widgets/search-builder.php:196
+msgid "Max Placeholder"
+msgstr "الحد الأقصى للعنصر النائب"
+
+#: widgets/hero-3.php:220 widgets/hero-4.php:180 widgets/hero-5.php:202
+#: widgets/hero-6.php:276 widgets/search-builder-2.php:208
+#: widgets/search-builder-home.php:232 widgets/search-builder.php:217
+msgid "Select Filters"
+msgstr "حدد الفلاتر"
+
+#: widgets/hero-3.php:226 widgets/hero-4.php:186 widgets/hero-5.php:208
+#: widgets/hero-6.php:282 widgets/search-builder-2.php:214
+#: widgets/search-builder-home.php:238 widgets/search-builder.php:223
+msgid "Explore"
+msgstr "استكشاف"
+
+#: widgets/hero-3.php:227 widgets/hero-4.php:187 widgets/hero-5.php:209
+#: widgets/hero-6.php:283 widgets/search-builder-2.php:215
+#: widgets/search-builder-home.php:239 widgets/search-builder.php:224
+msgid "What are you looking for..."
+msgstr "عما تبحث..."
+
+#: widgets/hero-4.php:13
+msgid "Hero Section 4"
+msgstr "بطل القسم 4"
+
+#: widgets/hero-4.php:94 widgets/hero-5.php:116
+msgid "Only two filters are allowed in this widget"
+msgstr "يسمح باثنين فقط من الفلاتر في هذه الأداة"
+
+#: widgets/hero-5.php:13
+msgid "Hero Section 5"
+msgstr "بطل القسم 5"
+
+#: widgets/hero-6.php:13
+msgid "Hero Section 6"
+msgstr "بطل القسم 6"
+
+#: widgets/hero-6.php:85
+msgid "Show Property Tab"
+msgstr "إظهار علامة تبويب الخاصية"
+
+#: widgets/hero-6.php:87 widgets/hero-6.php:111 widgets/hero-6.php:135
+#: widgets/search-builder-2.php:98 widgets/search-builder-home.php:122
+#: widgets/search-builder.php:107
+msgid "Show"
+msgstr "عرض"
+
+#: widgets/hero-6.php:88 widgets/hero-6.php:112 widgets/hero-6.php:136
+#: widgets/search-builder-2.php:99 widgets/search-builder-home.php:123
+#: widgets/search-builder.php:108
+msgid "Hide"
+msgstr "إخفاء"
+
+#: widgets/hero-6.php:97 widgets/hero-6.php:121 widgets/hero-6.php:145
+msgid "Tab Text"
+msgstr "نص التاب"
+
+#: widgets/hero-6.php:109
+msgid "Show Agency Tab"
+msgstr "إظهار علامة التبويب الوكالة"
+
+#: widgets/hero-6.php:133
+msgid "Show Agent Tab"
+msgstr "إظهار علامة التبويب \"الوكيل\""
+
+#: widgets/hero-6.php:158
+msgid "Property Filters"
+msgstr "مرشحات الخصائص"
+
+#: widgets/hero-6.php:298
+msgid "Agency Filters"
+msgstr "مرشحات الوكالة"
+
+#: widgets/hero-6.php:314 widgets/hero-6.php:367
+msgid "Title Field label"
+msgstr "تسمية حقل العنوان"
+
+#: widgets/hero-6.php:317 widgets/hero-6.php:335 widgets/hero-6.php:370
+#: widgets/hero-6.php:388 widgets/hero-6.php:406
+msgid "Title Here"
+msgstr "العنوان هنا"
+
+#: widgets/hero-6.php:323 widgets/hero-6.php:376
+msgid "Title Field Placeholder"
+msgstr "العنصر النائب لحقل العنوان"
+
+#: widgets/hero-6.php:325 widgets/hero-6.php:344 widgets/hero-6.php:378
+#: widgets/hero-6.php:397 widgets/hero-6.php:415
+msgid "Placeholder Here"
+msgstr "العنصر النائب هنا"
+
+#: widgets/hero-6.php:332 widgets/hero-6.php:403
+msgid "Location Field Label"
+msgstr "تسمية حقل الموقع"
+
+#: widgets/hero-6.php:341 widgets/hero-6.php:412
+msgid "Location Field Placeholder"
+msgstr "العنصر النائب لحقل الموقع"
+
+#: widgets/hero-6.php:351
+msgid "Agents Filters"
+msgstr "مرشحات الوكلاء"
+
+#: widgets/hero-6.php:385
+msgid "Agent Type Field Label"
+msgstr "تسمية حقل نوع العامل"
+
+#: widgets/hero-6.php:394
+msgid "Agent Type Field Placeholder"
+msgstr "العنصر النائب للحقل نوع العامل"
+
+#: widgets/hero-6.php:433
+msgid "Find Agencies"
+msgstr "البحث عن وكالات"
+
+#: widgets/hero-6.php:434
+msgid "Find Agents"
+msgstr "البحث عن وكلاء"
+
+#: widgets/hero-7.php:13
+msgid "Hero Section 7"
+msgstr "قسم البطل 7"
+
+#: widgets/hero-8.php:84
+msgid "Placeholder Field"
+msgstr "حقل العنصر النائب"
+
+#: widgets/hero-8.php:88
+msgid "Keyword (e.g office , landmark, project)"
+msgstr "الكلمة الرئيسية (مثل المكتب ، المعلم ، المشروع)"
+
+#: widgets/hero-8.php:94
+msgid "Search Button Text"
+msgstr "نص زر البحث"
+
+#: widgets/hero-8.php:98
+msgid "Search."
+msgstr "بحث..."
+
+#: widgets/how-it-works.php:13
+msgid "How It Works 1"
+msgstr "كيف يعمل 1"
+
+#: widgets/how-it-works.php:149
+msgid "Do you want to show funfacts?"
+msgstr "هل تريد إظهار المرحالحقائق؟"
+
+#: widgets/inline-editing.php:37
+msgid "Inline Editing"
+msgstr "التحرير المضمن"
+
+#: widgets/inquiryform.php:13
+msgid "Inquiry Form"
+msgstr "نموذج الاستفسار"
+
+#: widgets/locations.php:13 widgets/locations.php:94 widgets/locations2.php:93
+msgid "Locations"
+msgstr "المواقع"
+
+#: widgets/locations.php:118
+msgid "Recommended image size 270x430"
+msgstr "حجم الصورة الموصى به 270x430"
+
+#: widgets/locations.php:125 widgets/locations2.php:124
+msgid "Locations Grids"
+msgstr "شبكات المواقع"
+
+#: widgets/locations2.php:13
+msgid "Locations Style 2"
+msgstr "نمط المواقع 2"
+
+#: widgets/modern-search.php:13
+msgid "Search With Filters"
+msgstr "البحث باستخدام الفلاتر"
+
+#: widgets/our-app.php:13
+msgid "Our Apps"
+msgstr "تطبيقاتنا"
+
+#: widgets/our-app.php:43
+msgid "App Content"
+msgstr "محتوى التطبيق"
+
+#: widgets/our-app.php:80
+msgid "IOS Store Link"
+msgstr "رابط تطبيق ISO"
+
+#: widgets/our-app.php:94
+msgid "App Store Link"
+msgstr "رابط تطبيق ISO"
+
+#: widgets/our-services.php:13
+msgid "Our Services"
+msgstr "خدمه العملاء"
+
+#: widgets/packages-classic.php:13
+msgid "Membership Packages Classic"
+msgstr "باقات العضوية الكلاسيكية"
+
+#: widgets/packages-classic.php:96
+msgid "Main Title Color"
+msgstr "لون العنوان الرئيسي"
+
+#: widgets/packages-classic.php:110
+msgid "Description Color"
+msgstr "لون الوصف"
+
+#: widgets/packages-classic.php:126 widgets/packages-classic.php:143
+#: widgets/packages.php:129 widgets/packages.php:146
+msgid "Select Packages"
+msgstr "‫اختيار باقة الاشتراك"
+
+#: widgets/packages-classic.php:133 widgets/packages.php:136
+msgid "Select Package"
+msgstr "‫اختيار باقة الاشتراك"
+
+#: widgets/packages.php:13
+msgid "Membership Packages"
+msgstr "باقات العضوية"
+
+#: widgets/packages.php:114
+msgid "Packages Style"
+msgstr "نمط الحزم 2"
+
+#: widgets/packages.php:119
+msgid "Minimal"
+msgstr "الحد الادنى"
+
+#: widgets/packages.php:120
+msgid "Classic"
+msgstr "كلاسيك"
+
+#: widgets/partners.php:13
+msgid "Partners Section"
+msgstr "قسم المزايا"
+
+#: widgets/partners.php:54 widgets/testimonials2.php:184
+msgid "Ad Partners"
+msgstr "شركاء الإعلان"
+
+#: widgets/search-builder-2.php:13
+msgid "Advanced Search Builder 2"
+msgstr "منشئ البحث المتقدم 2"
+
+#: widgets/search-builder-2.php:74 widgets/search-builder.php:83
+msgid "Button Column Size"
+msgstr "حجم عمود الزر"
+
+#: widgets/search-builder-2.php:96 widgets/search-builder-home.php:120
+#: widgets/search-builder.php:105
+msgid "Hide Field Labels"
+msgstr "إخفاء تسميات الحقول"
+
+#: widgets/search-builder-2.php:224 widgets/search-builder-home.php:248
+msgid "Status"
+msgstr "الحالة"
+
+#: widgets/search-builder-2.php:225 widgets/search-builder-home.php:249
+msgid "Select Offer"
+msgstr "حدد النوع"
+
+#: widgets/search-builder-home.php:13
+msgid "Home Search WIth Ajax"
+msgstr "الصفحة الرئيسية البحث مع Ajax"
+
+#: widgets/search-builder-home.php:97
+msgid "Select Layout Type"
+msgstr "تحديد نوع التخطيط"
+
+#: widgets/search-builder.php:13
+msgid "Advanced Search Builder"
+msgstr "تجار البحث الشريط الجانبي"
+
+#: widgets/search-builder.php:65
+msgid "Section Text"
+msgstr "نص قسم القائمة"
+
+#: widgets/search-builder.php:67
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: widgets/testimonials.php:13 widgets/testimonials.php:33
+#: widgets/testimonials2.php:89 widgets/testimonials3.php:89
+msgid "Testimonials"
+msgstr "الشهادات - التوصيات"
+
+#: widgets/testimonials.php:61 widgets/testimonials2.php:117
+#: widgets/testimonials3.php:117
+msgid "Name"
+msgstr "الاسم"
+
+#: widgets/testimonials.php:78 widgets/testimonials2.php:134
+#: widgets/testimonials3.php:134
+msgid "Testimonials Grids"
+msgstr "شهادات الشبكات"
+
+#: widgets/testimonials2.php:13
+msgid "Testimonials Modern"
+msgstr "شهادات - حديثة"
+
+#: widgets/testimonials2.php:166
+msgid "Our Clients/Partners"
+msgstr "عملاؤنا/شركاؤنا"
+
+#: widgets/testimonials3.php:13
+msgid "Testimonials Classic"
+msgstr "شهادات كلاسيك"
+
+#. Plugin Name of the plugin/theme
+msgid "Propertya Elementor Widgets"
+msgstr "Propertya Elementor Widgets"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.propertya-wp.com/"
+msgstr "https://www.propertya-wp.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Propertya is a premium & responsive WordPress theme designed for Real Estate "
+"companies agencies & independent agents where modern aesthetics are "
+"combined. Propertya theme provides a complete property management system "
+"where users can seta complete online property marketplace for users and "
+"members, offering them their separate profile page, dashboards, and "
+"accepting different payment gateways."
+msgstr ""
+"بروبرتي هو موضوع ووردبريس متميز وسريع الاستجابة مصمم لوكالات الشركات "
+"العقارية والوكلاء المستقلين حيث يتم الجمع بين الجماليات الحديثة. يوفر موضوع "
+"بروبرتي نظاما كاملا لإدارة الممتلكات حيث يمكن للمستخدمين تعيين سوق عقارات "
+"كامل عبر الإنترنت للمستخدمين والأعضاء، ويقدم لهم صفحة ملفهم الشخصي المنفصلة، "
+"ولوحات المعلومات، وقبول بوابات الدفع المختلفة."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "http://scriptsbundle.com/"

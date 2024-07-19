@@ -1,0 +1,2548 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Propertya Framework\n"
+"POT-Creation-Date: 2023-01-05 17:58+0500\n"
+"PO-Revision-Date: 2023-01-05 17:59+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: functions.php:25
+msgid "Page Settings"
+msgstr "للخريطة الافتراضية."
+
+#: functions.php:50
+msgid "Breadcrumb"
+msgstr "شريط التسلسل"
+
+#: functions.php:53
+msgid "Hide breadcrumb?"
+msgstr "شريط التسلسل"
+
+#: functions.php:58
+msgid "Transparent Header"
+msgstr "شعار شفاف"
+
+#: functions.php:61
+msgid "Mark Header As Transparent?"
+msgstr "وضع علامة على الرأس على أنه شفاف؟"
+
+#: functions.php:62
+msgid "Transparent Header will only work on home pages only"
+msgstr "سوف رأس شفافة تعمل فقط على الصفحات الرئيسية فقط"
+
+#: functions.php:67
+msgid "Transparent Menu Color"
+msgstr "لون قائمة توببار"
+
+#: functions.php:70
+msgid "Select primary color"
+msgstr "إختر لون"
+
+#: inc/actions/actions.php:11 inc/actions/actions.php:139
+#: inc/actions/actions.php:463 inc/actions/actions.php:673
+#: inc/actions/actions.php:978 inc/classes/profile/agency-update.php:17
+#: inc/classes/profile/agency-update.php:104
+#: inc/classes/profile/agency-update.php:160
+#: inc/classes/profile/agency-update.php:370
+#: inc/classes/profile/agency-update.php:468
+#: inc/classes/registration/registration.php:20
+#: inc/classes/registration/registration.php:391
+#: inc/classes/registration/registration.php:440
+#: inc/classes/registration/registration.php:492
+#: inc/classes/registration/registration.php:533
+#: inc/classes/submission/submission.php:44 inc/dashboard.php:487
+#: inc/emails.php:126 inc/emails.php:181 inc/emails.php:319 inc/emails.php:371
+#: inc/emails.php:516
+msgid "Invalid security token sent."
+msgstr "رمز أمان غير صالح."
+
+#: inc/actions/actions.php:16 inc/actions/actions.php:147
+#: inc/actions/actions.php:468 inc/actions/actions.php:983
+msgid "You need to log in."
+msgstr "يجب أن تسجل الدخول"
+
+#: inc/actions/actions.php:21 inc/actions/actions.php:154
+#: inc/actions/actions.php:473 inc/actions/actions.php:988
+#: inc/classes/profile/agency-update.php:12
+#: inc/classes/profile/agency-update.php:99
+#: inc/classes/profile/agency-update.php:155
+#: inc/classes/profile/agency-update.php:213
+#: inc/classes/profile/agency-update.php:286
+#: inc/classes/profile/agency-update.php:365
+#: inc/classes/profile/agency-update.php:463
+#: inc/classes/registration/registration.php:15
+#: inc/classes/registration/registration.php:230
+#: inc/classes/registration/registration.php:435
+#: inc/classes/registration/registration.php:487
+#: inc/classes/registration/registration.php:528
+#: inc/classes/submission/submission.php:39
+#: inc/classes/submission/submission.php:423
+#: inc/classes/submission/submission.php:521
+#: inc/classes/submission/submission.php:609
+#: inc/classes/submission/submission.php:644
+#: inc/classes/submission/submission.php:678
+#: inc/classes/submission/submission.php:744 inc/dashboard.php:157
+#: inc/dashboard.php:190 inc/dashboard.php:235 inc/dashboard.php:453
+#: inc/dashboard.php:492 inc/emails.php:121 inc/emails.php:176
+#: inc/emails.php:314 inc/emails.php:366 inc/emails.php:511 inc/emails.php:563
+#: inc/emails.php:647 inc/emails.php:710 inc/emails.php:794
+#: plugin-files/classes/payments.php:168 plugin-files/classes/payments.php:236
+#: plugin-files/classes/payments.php:375 plugin-files/classes/payments.php:571
+msgid "Disable for Demo."
+msgstr "تعطيل الديمو"
+
+#: inc/actions/actions.php:31
+msgid "You have already reacted to this review."
+msgstr "اكتب ردا على هذا التعليق"
+
+#: inc/actions/actions.php:123 inc/actions/actions.php:185
+#: inc/actions/actions.php:485 inc/actions/actions.php:696
+#: inc/actions/actions.php:736 inc/actions/actions.php:1019
+#: inc/classes/registration/registration.php:83
+#: inc/classes/registration/registration.php:311 inc/emails.php:159
+#: inc/emails.php:282 inc/emails.php:349 inc/emails.php:480 inc/emails.php:545
+#: inc/emails.php:621 inc/emails.php:769 plugin-files/classes/payments.php:356
+msgid ""
+"There was an error while processing your request. Please, reload the page "
+"and try again."
+msgstr "حدث خطأ أثناء معالجة طلبك. الرجاء إعادة تحميل الصفحة ثم حاول مرة أخرى."
+
+#: inc/actions/actions.php:163
+msgid "You have bookmark this listing already."
+msgstr "لقد قمت بإضافته مسبقاً."
+
+#: inc/actions/actions.php:179
+msgid "Added to your favorites."
+msgstr "لا توجد مفضلات"
+
+#: inc/actions/actions.php:480
+msgid "Submitted review removed successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/actions/actions.php:722
+msgid "Compare"
+msgstr "مقارنة"
+
+#: inc/actions/actions.php:723 inc/classes/search/agency-search.php:17
+#: inc/classes/search/agent-search.php:17
+#: inc/classes/search/listing-search.php:17
+#: inc/classes/search/listing-search.php:744
+msgid "Clear All"
+msgstr "محو الكل"
+
+#: inc/actions/actions.php:1005
+msgid "Package has been added."
+msgstr "تمت إضافة الحزمة."
+
+#: inc/actions/actions.php:1014
+msgid "Package has been added to your cart."
+msgstr "تمت إضافة الحزمة إلى سلة التسوق الخاصة بك."
+
+#: inc/classes/profile/agency-update.php:77
+#: inc/classes/profile/agency-update.php:440
+#: inc/classes/profile/agency-update.php:515
+msgid "Account settings updated successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/classes/profile/agency-update.php:82
+#: inc/classes/profile/agency-update.php:138
+#: inc/classes/profile/agency-update.php:445
+#: inc/classes/profile/agency-update.php:520
+msgid "Something went wrong, please try again."
+msgstr "حدث خطأ مع API المساعد."
+
+#: inc/classes/profile/agency-update.php:119
+msgid ""
+"Your password has been changed successfully\n"
+"."
+msgstr ""
+"تم تغيير كلمة المرور بنجاح\n"
+"."
+
+#: inc/classes/profile/agency-update.php:125
+msgid "The old password you have entered is incorrect."
+msgstr "كلمة المرور القديمة التي أدخلتها غير صحيحة."
+
+#: inc/classes/profile/agency-update.php:131
+msgid ""
+"The password and confirm password do not match\n"
+"."
+msgstr ""
+"كلمة المرور وكلمة المرور تأكيد لا تتطابق\n"
+"."
+
+#: inc/classes/profile/agency-update.php:167
+msgid "You can not delete your account as Admin."
+msgstr "المشرف لا يمكن حذف حسابه من هنا."
+
+#: inc/classes/profile/agency-update.php:198
+msgid "Your account has been deleted."
+msgstr "شكرا. تم استلام طلبك."
+
+#: inc/classes/profile/agency-update.php:253
+#: inc/classes/profile/agency-update.php:328
+msgid "Image uploaded successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/classes/profile/agency-update.php:258
+#: inc/classes/profile/agency-update.php:333
+#: inc/classes/submission/submission.php:717
+msgid ""
+"An unexpected error occurred while uploading your image, please try again "
+"later."
+msgstr "حدث خطأ غير متوقع أثناء تحميل الصورة، يرجى المحاولة مرة أخرى لاحقا."
+
+#: inc/classes/profile/agency-update.php:264
+#: inc/classes/profile/agency-update.php:339
+#: inc/classes/submission/submission.php:454
+#: inc/classes/submission/submission.php:723
+msgid "Sorry, only JPG, JPEG, and PNG files are allowed."
+msgstr "عذراً، فقط الملفات من نوع  JPG، JPEG، PNG, GIF هي المسموح بها."
+
+#: inc/classes/profile/agency-update.php:270
+#: inc/classes/profile/agency-update.php:345
+#: inc/classes/submission/submission.php:729
+msgid "Please select an image to upload."
+msgstr "يرجى اختيار أكثر من قائمة واحدة للمقارنة."
+
+#: inc/classes/propertya_fields.php:401
+msgid "Select Template"
+msgstr "حدد النوع"
+
+#: inc/classes/propertya_fields.php:404
+msgid "Select An Option"
+msgstr "حدد خيارا"
+
+#: inc/classes/propertya_fields.php:405
+msgid "No Template"
+msgstr "قالب البريد"
+
+#: inc/classes/propertya_fields.php:408
+msgid "You can assign this template each level category."
+msgstr "يمكنك تعيين هذا القالب كل فئة مستوى."
+
+#: inc/classes/propertya_fields.php:443 inc/classes/propertya_fields.php:447
+msgid "Propertya Category Template"
+msgstr "قالب فئة الملكية"
+
+#: inc/classes/propertya_fields.php:464
+msgid "Display in search"
+msgstr "اسم العرض"
+
+#: inc/classes/propertya_fields.php:465
+msgid "Enable/Disable this field to show in search page."
+msgstr "تمكين/تعطيل هذا الحقل للعرض في صفحة البحث."
+
+#: inc/classes/registration/registration.php:34
+msgid "Please enter a username."
+msgstr "يرجى إدخال رقم المكتب."
+
+#: inc/classes/registration/registration.php:38
+#: inc/classes/registration/registration.php:545
+msgid "Display name is required."
+msgstr "اسم المستخدم مطلوب."
+
+#: inc/classes/registration/registration.php:42
+#: inc/classes/registration/registration.php:541
+msgid "User type is required."
+msgstr "نوع الوكيل مطلوب."
+
+#: inc/classes/registration/registration.php:46
+#: inc/classes/registration/registration.php:406
+#: inc/classes/registration/registration.php:502
+msgid "Please choose a password with at least 3-12 characters."
+msgstr "الرجاء اختيار كلمة مرور بأحرف 3-12 على الأقل."
+
+#: inc/classes/registration/registration.php:50
+#: inc/classes/registration/registration.php:410
+msgid "Please enter a valid email address."
+msgstr "يرجى إدخال رقم جوال صحيح."
+
+#: inc/classes/registration/registration.php:89
+msgid "This email is already registered, please choose another one."
+msgstr "هذا البريد الإلكتروني مسجل بالفعل ، يرجى اختيار بريد آخر."
+
+#: inc/classes/registration/registration.php:156
+msgid "Agent registered successfully."
+msgstr "تم تسجيل الوكيل بنجاح."
+
+#: inc/classes/registration/registration.php:171
+msgid "A verification link has been sent to your email account."
+msgstr "تم إرسال رابط تحقق إلى حساب بريدك الإلكتروني."
+
+#: inc/classes/registration/registration.php:205
+msgid "Please verify your email first"
+msgstr "يرجى التحقق من بريدك الإلكتروني أولا"
+
+#: inc/classes/registration/registration.php:211
+msgid "Wrong username or password."
+msgstr "اسم المستخدم أو كلمة المرور خاطئة."
+
+#: inc/classes/registration/registration.php:273
+msgid "Request timeout."
+msgstr "طلب"
+
+#: inc/classes/registration/registration.php:329
+#: inc/classes/registration/registration.php:511
+#: inc/classes/registration/registration.php:564
+msgid "Something went wrong. Please try again later."
+msgstr "حدث خطأ مع API المساعد."
+
+#: inc/classes/registration/registration.php:364
+msgid "Logged in successfully redirecting..."
+msgstr "تم تسجيل الدخول بنجاح إعادة توجيه..."
+
+#: inc/classes/registration/registration.php:368
+msgid "User registered successfully redirecting..."
+msgstr "تم تسجيل المستخدم بنجاح إعادة توجيه..."
+
+#: inc/classes/registration/registration.php:402
+#: inc/classes/registration/registration.php:448
+msgid "Please type your e-mail address."
+msgstr "لم تعط عنوان بريد إلكتروني صحيح."
+
+#: inc/classes/registration/registration.php:414
+#: inc/classes/registration/registration.php:457
+msgid "There is no user registered with that email address."
+msgstr "لا يوجد لدينا مستخدم مسجل بذلك البريد الإلكتروني."
+
+#: inc/classes/registration/registration.php:453
+msgid "Please enter a valid e-mail address."
+msgstr "يرجى إدخال رقم جوال صحيح."
+
+#: inc/classes/registration/registration.php:468
+msgid "Check your e-mail for the confirmation link."
+msgstr "تحقق من بريدك الإلكتروني للحصول على رابط  التأكيد."
+
+#: inc/classes/registration/registration.php:506
+msgid ""
+"Your password has been changed. You can now log in with your new credentials."
+msgstr ""
+"تم تغيير كلمة المرور الخاصة بك. يمكنك الآن تسجيل الدخول باستخدام بيانات "
+"الاعتماد الجديدة."
+
+#: inc/classes/registration/registration.php:559
+msgid "Redirecting please wait..."
+msgstr "إعادة توجيه..."
+
+#: inc/classes/search/agency-search.php:17
+#: inc/classes/search/agent-search.php:17
+#: inc/classes/search/listing-search.php:17
+#: inc/classes/search/listing-search.php:744
+msgid "Filters"
+msgstr "الفلاتر"
+
+#: inc/classes/submission/submission.php:86
+msgid "The Title field is required."
+msgstr "حقل العنوان مطلوب."
+
+#: inc/classes/submission/submission.php:91
+#: inc/classes/submission/submission.php:105
+msgid "Ad Posted Successfully."
+msgstr "تم نشر الإعلان بنجاح."
+
+#: inc/classes/submission/submission.php:97
+msgid "Ad Updated Successfully."
+msgstr "تم تحديث الإعلان بنجاح."
+
+#: inc/classes/submission/submission.php:466
+#: inc/classes/submission/submission.php:563
+msgid "Sorry, this file type is not permitted for security reason."
+msgstr "عذراً، نوع الملف هذا غير مسموح به لأسباب أمنية."
+
+#: inc/classes/submission/submission.php:552
+msgid "Sorry, only JPG, JPEG ,PDF , DOC and DOCX files are allowed."
+msgstr "عذرا ، يسمح فقط بملفات JPG و JPEG و PDF و DOC و DOCX."
+
+#: inc/classes/submission/submission.php:692
+msgid "Sorry, there was an error in uploading the file."
+msgstr "عذرا ، حدث خطأ في تحميل الملف."
+
+#: inc/classes/widgets/widgets.php:93
+msgid "Recent Blog Posts"
+msgstr "لثل"
+
+#: inc/classes/widgets/widgets.php:104 inc/classes/widgets/widgets.php:228
+#: inc/classes/widgets/widgets.php:366 inc/classes/widgets/widgets.php:483
+msgid "Title:"
+msgstr "العنوان:"
+
+#: inc/classes/widgets/widgets.php:110 inc/classes/widgets/widgets.php:236
+#: inc/classes/widgets/widgets.php:381 inc/classes/widgets/widgets.php:489
+msgid "How many posts to diplay:"
+msgstr "كم عدد المقالات للإظهار:"
+
+#: inc/classes/widgets/widgets.php:217 inc/classes/widgets/widgets.php:347
+msgid "Trusted Agencies"
+msgstr "الوكالات الموثوق بها"
+
+#: inc/classes/widgets/widgets.php:372
+msgid "Select Listing Type:"
+msgstr "تحديد نوع التخطيط"
+
+#: inc/classes/widgets/widgets.php:375
+msgid "Simple"
+msgstr "بسيط"
+
+#: inc/classes/widgets/widgets.php:376
+msgid "Featured"
+msgstr "مميز"
+
+#: inc/classes/widgets/widgets.php:471
+msgid "Most Viewed Agencies"
+msgstr "الأكثر مشاهدة"
+
+#: inc/dashboard.php:150 inc/dashboard.php:183 inc/dashboard.php:228
+#: inc/dashboard.php:446 inc/dashboard.php:496
+msgid "An error occurred, please try again later."
+msgstr "حدث خطأ، الرجاء المحاولة مرة أخرى لاحقاً."
+
+#: inc/dashboard.php:163
+msgid "Property removed successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/dashboard.php:168 inc/dashboard.php:202 inc/dashboard.php:249
+#: inc/dashboard.php:471 inc/dashboard.php:509
+msgid "Something went wrong please try later."
+msgstr "حدث خطأ مع API المساعد."
+
+#: inc/dashboard.php:212
+msgid "Property expired successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/dashboard.php:262
+msgid "Property reactive successfully."
+msgstr "خاصية رد الفعل بنجاح."
+
+#: inc/dashboard.php:466
+msgid "Agent deleted successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/dashboard.php:504
+msgid "Remove from favorites."
+msgstr "لا توجد مفضلات"
+
+#: inc/emails.php:139 inc/emails.php:201 inc/emails.php:329 inc/emails.php:409
+#: inc/emails.php:525
+msgid "Please fill in the required fields."
+msgstr "العناصر التي تحمل علامة * هي حقول مطلوبة."
+
+#: inc/emails.php:154 inc/emails.php:344 inc/emails.php:540
+msgid "Your mail has been sent successfully."
+msgstr "تم إرسال البريد بنجاح."
+
+#: inc/emails.php:207
+msgid "Listing author can't post a review..."
+msgstr "لا يمكن لمؤلف القائمة نشر مراجعة..."
+
+#: inc/emails.php:225
+msgid "You have already posted a review on this listing."
+msgstr "لقد نشرت تعليقا على"
+
+#: inc/emails.php:271 inc/emails.php:469
+msgid "Review posted successfully."
+msgstr "%1$s تم التثبيت بنجاح."
+
+#: inc/emails.php:276 inc/emails.php:474
+msgid "Review posted successfully & waiting for admin approval."
+msgstr "بانتظار موافقة مدير الموقع."
+
+#: inc/emails.php:288 inc/emails.php:486
+msgid "Agency & agents can't post a review."
+msgstr "السماح للوكالات والوكلاء بنشر المراجعات."
+
+#: inc/emails.php:295 inc/emails.php:492 inc/emails.php:628 inc/emails.php:692
+#: inc/emails.php:776 inc/emails.php:844
+msgid "You must be logged in to post a comment."
+msgstr "يجب تسجيل الدخول لتتمكن من الدفع."
+
+#: inc/emails.php:415
+msgid "Author can't review his profile..."
+msgstr "لا يمكن للمؤلف مراجعة ملفه الشخصي..."
+
+#: inc/emails.php:433
+msgid "You have already posted a review."
+msgstr "لقد نشرت تعليقا على"
+
+#: inc/emails.php:578 inc/emails.php:726
+msgid "The message field should not be left blank."
+msgstr "يجب عدم ترك حقل الرسالة فارغا."
+
+#: inc/emails.php:593 inc/emails.php:687 inc/emails.php:741 inc/emails.php:839
+msgid "Reply updated successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: inc/emails.php:616 inc/emails.php:764
+msgid "Reply posted successfully."
+msgstr "%1$s تم التثبيت بنجاح."
+
+#: inc/emails.php:665
+msgid "Please choose a star."
+msgstr "الرجاء اختيار نجمة."
+
+#: inc/emails.php:669 inc/emails.php:819
+msgid "Please fill in the title fields."
+msgstr "يرجى ملء حقول العنوان."
+
+#: inc/emails.php:673 inc/emails.php:823
+msgid "Please fill in the message fields."
+msgstr "الرجاء تعبئة حقول الرسالة."
+
+#: inc/emails.php:956
+msgid "Image Sorting updated successfully."
+msgstr "تم تحديث فرز الصور بنجاح."
+
+#: inc/emails.php:959
+msgid "Something Went Wrong.No sortation applied"
+msgstr "حدث شيء ما Wrong.No تطبيق الفرز"
+
+#: inc/utilities.php:12 inc/utilities.php:384 inc/utilities.php:417
+#: inc/utilities.php:1628 plugin-files/cpt/users.php:40
+#: plugin-files/metaboxes/packages.php:70
+#: plugin-files/metaboxes/submit-property.php:204
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: inc/utilities.php:259
+msgid "image not found"
+msgstr "لم يتم العثور علي الصورة"
+
+#: inc/utilities.php:557 inc/utilities.php:596
+msgid "Prev"
+msgstr "السابق"
+
+#: inc/utilities.php:558 inc/utilities.php:597
+msgid "Next"
+msgstr "التالي"
+
+#: inc/utilities.php:803 inc/utilities.php:810
+msgid "Never Expire"
+msgstr "نص الخيار لا تنتهي صلاحيته أبدا"
+
+#: inc/utilities.php:815
+msgid "N/A"
+msgstr "غير مطابق"
+
+#: inc/utilities.php:1375
+msgid "Score is being calculated and is not currently available."
+msgstr "يتم احتساب النتيجة وهي غير متوفرة حاليا."
+
+#: inc/utilities.php:1376
+msgid "Invalid latitude/longitude."
+msgstr "خطوط الطول/العرض غير صالحة."
+
+#: inc/utilities.php:1377
+msgid "Your WSAPIKEY is invalid."
+msgstr "WSAPIKEY الخاص بك غير صالح."
+
+#: inc/utilities.php:1378
+msgid "Your daily API quota has been exceeded."
+msgstr "تم تجاوز حصة واجهة برمجة التطبيقات اليومية."
+
+#: inc/utilities.php:1379
+msgid "Your IP address has been blocked."
+msgstr "تم حظر عنوان IP الخاص بك."
+
+#: inc/utilities.php:1385 libs/yelp/yelp.php:87
+msgid "Whoops!."
+msgstr "يا للهول!"
+
+#: inc/utilities.php:1468
+msgid "File Size"
+msgstr "حجم الملف"
+
+#: inc/utilities.php:1579
+msgid "Sorry!!! No Record Found"
+msgstr "معذرة!!! لم يتم العثور على سجل"
+
+#: inc/utilities.php:1595
+msgid "  Go to Home"
+msgstr "  انتقل إلى الصفحة الرئيسية"
+
+#: inc/utilities.php:1775
+msgid "Activation email sent."
+msgstr "تم إرسال بريد إلكتروني للتفعيل."
+
+#: inc/utilities.php:1780
+msgid "Activation email is not sent. Please contact admin"
+msgstr "لا يتم إرسال البريد الإلكتروني للتنشيط. يرجى الاتصال بالمسؤول"
+
+#: index.php:182
+msgid "Timepicker"
+msgstr "منتقي الوقت"
+
+#: index.php:183
+msgid "Sunday"
+msgstr "الأحد"
+
+#: index.php:184
+msgid "Monday"
+msgstr "الإثنين"
+
+#: index.php:185
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: index.php:186
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: index.php:187
+msgid "Thursday"
+msgstr "الخميس"
+
+#: index.php:188
+msgid "Friday"
+msgstr "الجمعة"
+
+#: index.php:189
+msgid "Saturday"
+msgstr "السبت"
+
+#: index.php:190
+msgid "Sun"
+msgstr "الأحد"
+
+#: index.php:191
+msgid "Mon"
+msgstr "الإثنين"
+
+#: index.php:192
+msgid "Tue"
+msgstr "الثلاثاء"
+
+#: index.php:193
+msgid "Wed"
+msgstr "الاربعاء"
+
+#: index.php:194
+msgid "Thu"
+msgstr "الخميس"
+
+#: index.php:195
+msgid "Fri"
+msgstr "الجمعة"
+
+#: index.php:196
+msgid "Sat"
+msgstr "السبت"
+
+#: index.php:197
+msgid "Su"
+msgstr "الأحد"
+
+#: index.php:198
+msgid "Mo"
+msgstr "الإثنين"
+
+#: index.php:199
+msgid "Tu"
+msgstr "الثلاثاء"
+
+#: index.php:200
+msgid "We"
+msgstr "الأربعاء"
+
+#: index.php:201
+msgid "Th"
+msgstr "خميس"
+
+#: index.php:202
+msgid "Fr"
+msgstr "الجمعة"
+
+#: index.php:203
+msgid "Sa"
+msgstr "سبت"
+
+#: index.php:204
+msgid "January"
+msgstr "يناير"
+
+#: index.php:205
+msgid "February"
+msgstr "فبراير"
+
+#: index.php:206
+msgid "March"
+msgstr "مارس"
+
+#: index.php:207
+msgid "April"
+msgstr "ابريل"
+
+#: index.php:208 index.php:220
+msgid "May"
+msgstr ""
+"عملية التثبيت بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى الانتظار ."
+
+#: index.php:209
+msgid "June"
+msgstr "يونيو"
+
+#: index.php:210 index.php:222
+msgid "July"
+msgstr "يوليو"
+
+#: index.php:211
+msgid "August"
+msgstr "أغسطس"
+
+#: index.php:212
+msgid "September"
+msgstr "سبتمبر"
+
+#: index.php:213
+msgid "October"
+msgstr "أكتوبر"
+
+#: index.php:214
+msgid "November"
+msgstr "نوفمبر"
+
+#: index.php:215
+msgid "December"
+msgstr "ديسمبر"
+
+#: index.php:216
+msgid "Jan"
+msgstr "يناير"
+
+#: index.php:217
+msgid "Feb"
+msgstr "فبراير"
+
+#: index.php:218
+msgid "Mar"
+msgstr "مارس"
+
+#: index.php:219
+msgid "Apr"
+msgstr "أبريل"
+
+#: index.php:221
+msgid "Jun"
+msgstr "يونيو"
+
+#: index.php:223
+msgid "Aug"
+msgstr "أغسطس"
+
+#: index.php:224
+msgid "Sep"
+msgstr "سبتمبر"
+
+#: index.php:225
+msgid "Oct"
+msgstr "أكتوبر"
+
+#: index.php:226
+msgid "Nov"
+msgstr "نوفمبر"
+
+#: index.php:227
+msgid "Dec"
+msgstr "ديسمبر"
+
+#: index.php:228
+msgid "Today"
+msgstr "اليوم"
+
+#: index.php:229
+msgid "Clear"
+msgstr "مسح"
+
+#: index.php:230
+msgid "dateFormat"
+msgstr "dateFormat"
+
+#: index.php:237
+msgid "Are you sure you want to remove this?"
+msgstr "هل أنت متأكد أنك تريد إزالة هذا الاختلاف؟"
+
+#: index.php:238
+msgid "Select Gallery Images"
+msgstr "اختيار الصور"
+
+#: index.php:239 index.php:431
+msgid "Select Attachments"
+msgstr "تحديد تنسيقات المرفقات"
+
+#: index.php:292
+msgid "Key is expired."
+msgstr "نوع الوكيل مطلوب."
+
+#: index.php:296
+msgid "Key is not valid."
+msgstr "المفتاح غير صالح."
+
+#: index.php:303
+msgid "Choose your password."
+msgstr "نسيت كلمة المرور؟"
+
+#: index.php:358
+msgid "No result for "
+msgstr "لم يتم العثور على نتائج."
+
+#: index.php:359 index.php:426
+msgid "Confirmation!"
+msgstr "אישור!"
+
+#: index.php:360 index.php:427
+msgid "Are you sure you want to do this?"
+msgstr "هل أنت متأكد أنك تريد القيام بهذا؟"
+
+#: index.php:361 index.php:381
+msgid "Congratulations!"
+msgstr "تهانينا!"
+
+#: index.php:362
+msgid "Click to reveal!"
+msgstr "انقر للكشف!"
+
+#: index.php:364 index.php:428 plugin-files/metaboxes/agency.php:431
+#: plugin-files/metaboxes/agency.php:444 plugin-files/metaboxes/agents.php:444
+#: plugin-files/metaboxes/agents.php:457 plugin-files/metaboxes/buyers.php:316
+#: plugin-files/metaboxes/packages.php:71
+#: plugin-files/metaboxes/submit-property.php:1519
+msgid "Yes"
+msgstr "نعم"
+
+#: index.php:365 index.php:429
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: index.php:366 index.php:380
+msgid "Whoops!"
+msgstr "يا للهول!"
+
+#: index.php:367 index.php:433
+msgid "Form submission failed!"
+msgstr "هناك اخطاء في التقديم .. برجاء مراجعتها!"
+
+#: index.php:368
+msgid "Permission denied by user."
+msgstr "تم رفض الإذن من قبل المستخدم."
+
+#: index.php:369
+msgid "Location position unavailable."
+msgstr "عنوان قسم الموقع"
+
+#: index.php:370
+msgid "Request timeout. Please refresh the page and try again."
+msgstr "طلب مهلة. الرجاء تحديث الصفحة والمحاولة مرة أخرى."
+
+#: index.php:371
+msgid "Unknown error. Please refresh the page and try again."
+msgstr "خطأ غير معروف. الرجاء تحديث الصفحة والمحاولة مرة أخرى."
+
+#: index.php:372
+msgid "Browser doesn't support geolocation!."
+msgstr "المتصفح لا يدعم تحديد الموقع الجغرافي!."
+
+#: index.php:387
+msgid "Sorry, you are not allowed to access this page."
+msgstr "عذرا، لا يسمح لك بالوصول إلى هذه الصفحة."
+
+#: index.php:430
+msgid "Select or Upload Media"
+msgstr "تحديد الوسائط أو تحميلها"
+
+#: index.php:432
+msgid "Use this media"
+msgstr "استخدم هذه الوسائط"
+
+#: index.php:455
+msgid "Select Floor Plan Images"
+msgstr "حدد صور مخطط الطابق"
+
+#: index.php:456
+msgid "Select Plan Image"
+msgstr "حدد صورة الخطة"
+
+#: index.php:457
+msgid "Delete Plan Image"
+msgstr "صورة العنصر النائب للوكيل"
+
+#: libs/razorpay/checkout.js:1
+msgid "not a function"
+msgstr "ليست دالة"
+
+#: libs/razorpay/checkout.js:1
+msgid "promise resolved by itself"
+msgstr "وعد حل من تلقاء نفسه"
+
+#: libs/razorpay/checkout.js:1
+msgid "Promise.all accepts an array"
+msgstr "Promise.all يقبل صفيف"
+
+#: plugin-files/classes/payments.php:25 plugin-files/classes/payments.php:657
+#: plugin-files/classes/payments.php:675
+msgid "Submission Fee"
+msgstr "رسوم التقديم"
+
+#: plugin-files/classes/payments.php:218 plugin-files/classes/payments.php:341
+#: plugin-files/classes/payments.php:457
+msgid "Pay Per Listing"
+msgstr "لكل قائمة"
+
+#: plugin-files/classes/payments.php:344 plugin-files/classes/payments.php:522
+msgid "Transaction completed successfully redirecting please wait..."
+msgstr "اكتملت المعاملة بنجاح إعادة التوجيه يرجى الانتظار ..."
+
+#: plugin-files/classes/payments.php:647
+msgid "Featured Listing Price"
+msgstr "سعر الإدراج المميز"
+
+#: plugin-files/classes/payments.php:664
+#: plugin-files/metaboxes/packages.php:102
+msgid "Featured Listing"
+msgstr "مميز"
+
+#: plugin-files/cpt/agencies.php:23 plugin-files/cpt/agencies.php:24
+#: plugin-files/metaboxes/agents.php:240
+msgid "Agencies"
+msgstr "الوكالات"
+
+#: plugin-files/cpt/agencies.php:25
+msgid "Add New Agency"
+msgstr "أضافة وكالة جديدة"
+
+#: plugin-files/cpt/agencies.php:26 plugin-files/cpt/agent.php:26
+#: plugin-files/cpt/buyer.php:26 plugin-files/cpt/packages.php:26
+#: plugin-files/cpt/property.php:27 plugin-files/cpt/property.php:174
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: plugin-files/cpt/agencies.php:27
+msgid "Edit Agency"
+msgstr "تعديل وكالة"
+
+#: plugin-files/cpt/agencies.php:28
+msgid "New Agency"
+msgstr "وكالة جديدة"
+
+#: plugin-files/cpt/agencies.php:29
+msgid "View Agency"
+msgstr "عرض الوكالة"
+
+#: plugin-files/cpt/agencies.php:30
+msgid "Search Agency"
+msgstr "البحث عن وكالة"
+
+#: plugin-files/cpt/agencies.php:31
+msgid "No Agency found"
+msgstr "لم يتم العثور على وكالة"
+
+#: plugin-files/cpt/agencies.php:32
+msgid "No Agency found in Trash"
+msgstr "لم يتم العثور على وكالة في سلة المهملات"
+
+#: plugin-files/cpt/agencies.php:36 plugin-files/metaboxes/agency.php:327
+msgid "Agency"
+msgstr "وكالة"
+
+#: plugin-files/cpt/agencies.php:56 plugin-files/cpt/agencies.php:57
+#: plugin-files/cpt/agent.php:71 plugin-files/cpt/agent.php:72
+#: plugin-files/cpt/property.php:171 plugin-files/cpt/property.php:172
+msgid "Locations"
+msgstr "المواقع"
+
+#: plugin-files/cpt/agencies.php:58 plugin-files/cpt/agencies.php:59
+#: plugin-files/cpt/agent.php:73 plugin-files/cpt/agent.php:74
+#: plugin-files/cpt/property.php:173
+msgid "Add New Location"
+msgstr "السماح بالموقع"
+
+#: plugin-files/cpt/agencies.php:60 plugin-files/cpt/agent.php:75
+#: plugin-files/cpt/property.php:175
+msgid "Edit Location"
+msgstr " الموقع"
+
+#: plugin-files/cpt/agencies.php:61 plugin-files/cpt/agent.php:76
+#: plugin-files/cpt/property.php:176
+msgid "New Location"
+msgstr " الموقع"
+
+#: plugin-files/cpt/agencies.php:62 plugin-files/cpt/agent.php:77
+#: plugin-files/cpt/property.php:177
+msgid "View Location"
+msgstr " الموقع"
+
+#: plugin-files/cpt/agencies.php:63 plugin-files/cpt/agent.php:78
+#: plugin-files/cpt/property.php:178
+msgid "Search Location"
+msgstr "موقع الوكيل"
+
+#: plugin-files/cpt/agencies.php:64 plugin-files/cpt/agent.php:79
+#: plugin-files/cpt/property.php:179
+msgid "No Location Found"
+msgstr "خط طول موقعك"
+
+#: plugin-files/cpt/agencies.php:65 plugin-files/cpt/agent.php:80
+#: plugin-files/cpt/property.php:180
+msgid "No Location found in Trash"
+msgstr "لم يتم العثور على مواقع في سلة المهملات"
+
+#: plugin-files/cpt/agent.php:23 plugin-files/cpt/agent.php:24
+#: plugin-files/cpt/agent.php:36 plugin-files/metaboxes/agency.php:314
+#: plugin-files/metaboxes/agency.php:329 plugin-files/metaboxes/agents.php:362
+#: plugin-files/metaboxes/buyers.php:236
+#: plugin-files/metaboxes/submit-property.php:294
+msgid "Agents"
+msgstr "الوكلاء"
+
+#: plugin-files/cpt/agent.php:25
+msgid "Add New Agent"
+msgstr "اضف وكيل جديد"
+
+#: plugin-files/cpt/agent.php:27
+msgid "Edit Agent"
+msgstr "تعديل الوكيل"
+
+#: plugin-files/cpt/agent.php:28
+msgid "New Agent"
+msgstr "وكيل جديد"
+
+#: plugin-files/cpt/agent.php:29
+msgid "View Agent"
+msgstr "مشاهدة وكيل"
+
+#: plugin-files/cpt/agent.php:30
+msgid "Search Agent"
+msgstr "البحث عن وكيل"
+
+#: plugin-files/cpt/agent.php:31
+msgid "No Agent found"
+msgstr "لا يوجد أعضاء"
+
+#: plugin-files/cpt/agent.php:32
+msgid "No Agent found in Trash"
+msgstr "لا يوجد أعضاء في المهملات"
+
+#: plugin-files/cpt/agent.php:57
+msgid "Types"
+msgstr "الأنواع"
+
+#: plugin-files/cpt/agent.php:58
+msgid "Add New Agent Type"
+msgstr "إضافة نوع وكيل جديد"
+
+#: plugin-files/cpt/agent.php:59
+msgid "New Agent Type"
+msgstr "نوع الوكيل الجديد"
+
+#: plugin-files/cpt/buyer.php:23 plugin-files/cpt/buyer.php:24
+#: plugin-files/cpt/buyer.php:36
+msgid "Buyers"
+msgstr "عملاء بيع"
+
+#: plugin-files/cpt/buyer.php:25
+msgid "Add New Buyer"
+msgstr "اضف وكيل جديد"
+
+#: plugin-files/cpt/buyer.php:27
+msgid "Edit Buyer"
+msgstr "تحرير المشتري"
+
+#: plugin-files/cpt/buyer.php:28
+msgid "New Buyer"
+msgstr "مشتر جديد"
+
+#: plugin-files/cpt/buyer.php:29
+msgid "View Buyer"
+msgstr "مشاهدة المزيد"
+
+#: plugin-files/cpt/buyer.php:30
+msgid "Search Buyer"
+msgstr "البحث عن:"
+
+#: plugin-files/cpt/buyer.php:31
+msgid "No Buyer found"
+msgstr "لم يتم العثور على طلب."
+
+#: plugin-files/cpt/buyer.php:32
+msgid "No Buyer found in Trash"
+msgstr "لم يتم العثور على مشتر في المهملات"
+
+#: plugin-files/cpt/invoice.php:23 plugin-files/cpt/invoice.php:24
+#: plugin-files/cpt/invoice.php:34
+msgid "Invoices"
+msgstr "الفواتير"
+
+#: plugin-files/cpt/invoice.php:26
+msgid "New Invoices"
+msgstr "الفواتير"
+
+#: plugin-files/cpt/invoice.php:27
+msgid "View Invoices"
+msgstr "الفواتير"
+
+#: plugin-files/cpt/invoice.php:28
+msgid "Search Invoices"
+msgstr "الفواتير"
+
+#: plugin-files/cpt/invoice.php:29
+msgid "No Invoices found"
+msgstr "الفواتير"
+
+#: plugin-files/cpt/invoice.php:30
+msgid "No Invoices found in Trash"
+msgstr "لم يتم العثور على فواتير في المهملات"
+
+#: plugin-files/cpt/packages.php:23 plugin-files/cpt/packages.php:24
+#: plugin-files/cpt/packages.php:36
+msgid "Packages"
+msgstr "الباقات"
+
+#: plugin-files/cpt/packages.php:25
+msgid "Add New Package"
+msgstr "عرض الباقات"
+
+#: plugin-files/cpt/packages.php:27
+msgid "Edit Package"
+msgstr "عرض الباقات"
+
+#: plugin-files/cpt/packages.php:28
+msgid "New Package"
+msgstr "عرض الباقات"
+
+#: plugin-files/cpt/packages.php:29
+msgid "View Package"
+msgstr "عرض الباقات"
+
+#: plugin-files/cpt/packages.php:30
+msgid "Search Package"
+msgstr "صفحات البحث"
+
+#: plugin-files/cpt/packages.php:31
+msgid "No Package found"
+msgstr "عفوا! لا يمكن العثور علي هذه الصفحة"
+
+#: plugin-files/cpt/packages.php:32
+msgid "No Package found in Trash"
+msgstr "لا توجد حزمة في المهملات"
+
+#: plugin-files/cpt/property.php:24 plugin-files/cpt/property.php:37
+#: plugin-files/metaboxes/agency.php:313 plugin-files/metaboxes/agency.php:328
+msgid "Properties"
+msgstr "كل العقارات"
+
+#: plugin-files/cpt/property.php:25
+#: plugin-files/metaboxes/submit-property.php:18
+msgid "Property"
+msgstr "عقار"
+
+#: plugin-files/cpt/property.php:26
+msgid "Add New Property"
+msgstr "أضافة عقار جديد"
+
+#: plugin-files/cpt/property.php:28
+msgid "Edit Property"
+msgstr "تعديل العقار"
+
+#: plugin-files/cpt/property.php:29
+msgid "New Property"
+msgstr "عقار جديد"
+
+#: plugin-files/cpt/property.php:30
+msgid "View Property"
+msgstr "عرض العقار"
+
+#: plugin-files/cpt/property.php:31
+msgid "Search Property"
+msgstr "البحث عن عقار "
+
+#: plugin-files/cpt/property.php:32
+msgid "No Property found"
+msgstr "لم يتم العثور على أي عقارات"
+
+#: plugin-files/cpt/property.php:33
+msgid "No Property found in Trash"
+msgstr "لا يتم العثور علي عقارات في سلة المهملات"
+
+#: plugin-files/cpt/property.php:71
+#: plugin-files/metaboxes/submit-property.php:1378
+#: plugin-files/metaboxes/submit-property.php:1393
+msgid "Type"
+msgstr "النوع"
+
+#: plugin-files/cpt/property.php:72
+msgid "Add New Type"
+msgstr "إضافة نوع جديد"
+
+#: plugin-files/cpt/property.php:73
+msgid "New Type"
+msgstr "نوع جديد"
+
+#: plugin-files/cpt/property.php:86 plugin-files/metaboxes/invoice.php:12
+msgid "Status"
+msgstr "الحالة"
+
+#: plugin-files/cpt/property.php:87
+msgid "Add New Status"
+msgstr "إضافة حالة  جديدة"
+
+#: plugin-files/cpt/property.php:88
+msgid "New Status"
+msgstr "حالة جديدة"
+
+#: plugin-files/cpt/property.php:101
+msgid "Features"
+msgstr "الميزات"
+
+#: plugin-files/cpt/property.php:102
+msgid "Add New Feature"
+msgstr "اضف وكيل جديد"
+
+#: plugin-files/cpt/property.php:103
+msgid "New Feature"
+msgstr "مميز"
+
+#: plugin-files/cpt/property.php:115
+msgid "Labels"
+msgstr "التسميات"
+
+#: plugin-files/cpt/property.php:116
+msgid "Add New Label"
+msgstr "إضافة ملصق"
+
+#: plugin-files/cpt/property.php:117
+msgid "New Label"
+msgstr "ملصق جديد"
+
+#: plugin-files/cpt/property.php:129 plugin-files/cpt/property.php:157
+#: plugin-files/metaboxes/submit-property.php:1380
+#: plugin-files/metaboxes/submit-property.php:1394
+msgid "Currency"
+msgstr "العملة"
+
+#: plugin-files/cpt/property.php:130 plugin-files/cpt/property.php:158
+msgid "Add New Currency"
+msgstr "إضافة عملة جديدة"
+
+#: plugin-files/cpt/property.php:131 plugin-files/cpt/property.php:159
+msgid "New Currency"
+msgstr "أضف عملة جديدة"
+
+#: plugin-files/cpt/property.php:204
+msgctxt "property"
+msgid "Expired"
+msgstr "منتهي"
+
+#: plugin-files/cpt/property.php:209
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] "منتهية <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: plugin-files/cpt/property.php:221 plugin-files/cpt/property.php:226
+#: plugin-files/cpt/property.php:260
+msgid "Expired"
+msgstr "منتهي"
+
+#: plugin-files/cpt/users.php:8
+msgid "Package Information"
+msgstr "معلومات أساسية"
+
+#: plugin-files/cpt/users.php:11
+msgid "Package Name"
+msgstr "تنبيه الحزمة"
+
+#: plugin-files/cpt/users.php:57
+msgid "User selected package"
+msgstr "‫اختيار باقة الاشتراك"
+
+#: plugin-files/metaboxes/agency.php:16
+msgid "Agency Related Information"
+msgstr "معلومات أساسية"
+
+#: plugin-files/metaboxes/agency.php:73 plugin-files/metaboxes/agents.php:77
+#: plugin-files/metaboxes/buyers.php:56
+#: plugin-files/shortcodes/shortcode.php:2282
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: plugin-files/metaboxes/agency.php:75
+msgid ""
+"Enter email address messages from contact form on property details page, "
+"will be sent on this email address."
+msgstr ""
+"أدخل رسائل عنوان البريد الإلكتروني من نموذج الاتصال على صفحة تفاصيل "
+"الممتلكات، وسيتم إرسالها على عنوان البريد الإلكتروني هذا."
+
+#: plugin-files/metaboxes/agency.php:80 plugin-files/metaboxes/agents.php:111
+#: plugin-files/metaboxes/buyers.php:63
+msgid "Mobile Number"
+msgstr "رقم الطلب"
+
+#: plugin-files/metaboxes/agency.php:87 plugin-files/metaboxes/agents.php:118
+#: plugin-files/metaboxes/buyers.php:72
+msgid "WhatsApp Number"
+msgstr "شماره واتساپ"
+
+#: plugin-files/metaboxes/agency.php:93 plugin-files/metaboxes/agents.php:124
+msgid "Office Number"
+msgstr "رقم المكتب"
+
+#: plugin-files/metaboxes/agency.php:99 plugin-files/metaboxes/agents.php:130
+msgid "Fax Number "
+msgstr "رقم الفاكس"
+
+#: plugin-files/metaboxes/agency.php:105
+msgid "Agency License"
+msgstr "رخصة وكالة"
+
+#: plugin-files/metaboxes/agency.php:111
+msgid "Tax Number "
+msgstr "رقم الضريبة"
+
+#: plugin-files/metaboxes/agency.php:117 plugin-files/metaboxes/agents.php:136
+msgid "Website Url "
+msgstr "رابط الموقع"
+
+#: plugin-files/metaboxes/agency.php:123
+msgid "Agency Location"
+msgstr "موقع الوكالة"
+
+#: plugin-files/metaboxes/agency.php:124 plugin-files/metaboxes/agents.php:103
+#: plugin-files/metaboxes/submit-property.php:380
+msgid "Select Location"
+msgstr "اختر الموقع الجغرافى"
+
+#: plugin-files/metaboxes/agency.php:132 plugin-files/metaboxes/agents.php:148
+msgid "Office Hours"
+msgstr "رقم المكتب"
+
+#: plugin-files/metaboxes/agency.php:134 plugin-files/metaboxes/agents.php:150
+msgid "Eg: Monday - Friday, 9 AM - 9 PM"
+msgstr "على سبيل المثال: الاثنين - الجمعة، 9 صباحا - 9 مساء"
+
+#: plugin-files/metaboxes/agency.php:142 plugin-files/metaboxes/agents.php:157
+#: plugin-files/metaboxes/buyers.php:78
+msgid "Facebook URL"
+msgstr "رابط الفيسبوك"
+
+#: plugin-files/metaboxes/agency.php:148 plugin-files/metaboxes/agents.php:163
+#: plugin-files/metaboxes/buyers.php:84
+msgid "Twitter URL"
+msgstr "رابط تويتر"
+
+#: plugin-files/metaboxes/agency.php:154 plugin-files/metaboxes/agents.php:169
+#: plugin-files/metaboxes/buyers.php:90
+msgid "LinkedIn URL "
+msgstr "رابط لينك أن"
+
+#: plugin-files/metaboxes/agency.php:160 plugin-files/metaboxes/agents.php:175
+#: plugin-files/metaboxes/buyers.php:96
+msgid "Instagram URL "
+msgstr "رابط انستجرام"
+
+#: plugin-files/metaboxes/agency.php:166 plugin-files/metaboxes/agents.php:181
+msgid "Youtube URL"
+msgstr "رابط يوتيوب"
+
+#: plugin-files/metaboxes/agency.php:172 plugin-files/metaboxes/agents.php:187
+#: plugin-files/metaboxes/buyers.php:103
+msgid "Pinterest URL"
+msgstr "رابط بن ترست"
+
+#: plugin-files/metaboxes/agency.php:179 plugin-files/metaboxes/agents.php:195
+#: plugin-files/metaboxes/buyers.php:111
+msgid "Address"
+msgstr "العنوان"
+
+#: plugin-files/metaboxes/agency.php:191
+msgid "if you dont add address then map will not show on property detail page."
+msgstr "إذا لم تقم بإضافة عنوان، فلن تظهر الخريطة على صفحة تفاصيل الخاصية."
+
+#: plugin-files/metaboxes/agency.php:206 plugin-files/metaboxes/agents.php:220
+#: plugin-files/metaboxes/buyers.php:136
+#: plugin-files/metaboxes/submit-property.php:334
+msgid "Coordinates"
+msgstr "الإحداثيات"
+
+#: plugin-files/metaboxes/agency.php:208 plugin-files/metaboxes/agents.php:222
+#: plugin-files/metaboxes/buyers.php:138
+#: plugin-files/metaboxes/submit-property.php:336
+msgid "Your location Latitude"
+msgstr "موقعك Latitude"
+
+#: plugin-files/metaboxes/agency.php:215 plugin-files/metaboxes/agents.php:229
+#: plugin-files/metaboxes/buyers.php:145
+#: plugin-files/metaboxes/submit-property.php:343
+msgid "Your location Longitude"
+msgstr "خط طول موقعك"
+
+#: plugin-files/metaboxes/agency.php:311 plugin-files/metaboxes/agency.php:326
+msgid "Agency ID"
+msgstr "معرف العميل"
+
+#: plugin-files/metaboxes/agency.php:312 plugin-files/metaboxes/agency.php:321
+#: plugin-files/metaboxes/agents.php:346 plugin-files/metaboxes/agents.php:354
+#: plugin-files/metaboxes/buyers.php:220 plugin-files/metaboxes/buyers.php:228
+#: plugin-files/metaboxes/submit-property.php:1381
+#: plugin-files/metaboxes/submit-property.php:1389
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: plugin-files/metaboxes/agency.php:315 plugin-files/metaboxes/agency.php:333
+#: plugin-files/metaboxes/agents.php:348 plugin-files/metaboxes/agents.php:366
+#: plugin-files/metaboxes/buyers.php:222 plugin-files/metaboxes/buyers.php:240
+msgid "Mobile No"
+msgstr "الجوال"
+
+#: plugin-files/metaboxes/agency.php:404
+msgid "Agency Information"
+msgstr "معلومات عن الوكالة"
+
+#: plugin-files/metaboxes/agency.php:428
+msgid "Do you want to make this agency featured!"
+msgstr "هل تريد أن تجعل هذه الوكالة مميزة!"
+
+#: plugin-files/metaboxes/agency.php:434 plugin-files/metaboxes/agency.php:447
+#: plugin-files/metaboxes/agents.php:447 plugin-files/metaboxes/agents.php:460
+#: plugin-files/metaboxes/buyers.php:319 plugin-files/metaboxes/packages.php:72
+#: plugin-files/metaboxes/submit-property.php:1515
+msgid "No"
+msgstr "لا"
+
+#: plugin-files/metaboxes/agency.php:441
+msgid "Do you want to make this agency trusted?"
+msgstr "هل تريد أن تجعل هذه الوكالة موثوقة؟"
+
+#: plugin-files/metaboxes/agency.php:452 plugin-files/metaboxes/agents.php:464
+#: plugin-files/metaboxes/buyers.php:328
+msgid "Badge Text"
+msgstr "نص الحزم"
+
+#: plugin-files/metaboxes/agency.php:454 plugin-files/metaboxes/agents.php:466
+msgid "Eg : Trusted Seller"
+msgstr "على سبيل المثال : البائع الموثوق به"
+
+#: plugin-files/metaboxes/agency.php:457 plugin-files/metaboxes/agents.php:469
+#: plugin-files/metaboxes/buyers.php:333
+msgid "Badge Color"
+msgstr "لون الحدود"
+
+#: plugin-files/metaboxes/agency.php:459 plugin-files/metaboxes/agents.php:471
+#: plugin-files/metaboxes/buyers.php:335
+msgid "The hex color of the badge field."
+msgstr "لون سداسي ال عشري لحقل الشارة."
+
+#: plugin-files/metaboxes/agents.php:17 plugin-files/metaboxes/agents.php:417
+msgid "Agent Information"
+msgstr "معلومات الوكيل"
+
+#: plugin-files/metaboxes/agents.php:79 plugin-files/metaboxes/buyers.php:58
+msgid ""
+"Messages from contact form on property details page, will be sent on this "
+"email address."
+msgstr ""
+"سيتم إرسال رسائل من نموذج الاتصال على صفحة تفاصيل الممتلكات، على عنوان "
+"البريد الإلكتروني هذا."
+
+#: plugin-files/metaboxes/agents.php:84
+msgid "Position"
+msgstr "الموضع"
+
+#: plugin-files/metaboxes/agents.php:86
+msgid "Eg: Founder & CEO."
+msgstr "على سبيل المثال: المؤسس والرئيس التنفيذي."
+
+#: plugin-files/metaboxes/agents.php:93 plugin-files/metaboxes/agents.php:94
+msgid "Agent Type"
+msgstr "نوع العامل"
+
+#: plugin-files/metaboxes/agents.php:102
+msgid "Agent Location"
+msgstr "موقع الوكيل"
+
+#: plugin-files/metaboxes/agents.php:142
+msgid "Skype"
+msgstr "سكايب"
+
+#: plugin-files/metaboxes/agents.php:207 plugin-files/metaboxes/buyers.php:123
+msgid "Map will shown on agent detail page."
+msgstr "ستظهر الخريطة في صفحة تفاصيل العامل."
+
+#: plugin-files/metaboxes/agents.php:241
+msgid "Assign Agency"
+msgstr "تعيين وكالة"
+
+#: plugin-files/metaboxes/agents.php:345 plugin-files/metaboxes/agents.php:359
+msgid "Agent ID"
+msgstr "معرف الوكيل"
+
+#: plugin-files/metaboxes/agents.php:347 plugin-files/metaboxes/agents.php:361
+#: plugin-files/metaboxes/buyers.php:221 plugin-files/metaboxes/buyers.php:235
+msgid "Listings"
+msgstr "الإعلانات"
+
+#: plugin-files/metaboxes/agents.php:360 plugin-files/metaboxes/buyers.php:234
+msgid "Agent"
+msgstr "الوكلاء"
+
+#: plugin-files/metaboxes/agents.php:441 plugin-files/metaboxes/buyers.php:313
+msgid "Do you want to make this agent featured!"
+msgstr "هل تريد أن تجعل هذا الوكيل المميز!"
+
+#: plugin-files/metaboxes/agents.php:454
+msgid "Do you want to make this agent trusted?"
+msgstr "هل تريد أن تجعل هذا الوكيل موثوقا به؟"
+
+#: plugin-files/metaboxes/buyers.php:17 plugin-files/metaboxes/buyers.php:291
+msgid "Buyer Information"
+msgstr "معلومات أساسية"
+
+#: plugin-files/metaboxes/buyers.php:219 plugin-files/metaboxes/buyers.php:233
+msgid "Buyer ID"
+msgstr "معرف المشتري"
+
+#: plugin-files/metaboxes/buyers.php:326
+msgid "Do you want to add additional badge for agent?"
+msgstr "هل تريد إضافة شارة إضافية للوكيل؟"
+
+#: plugin-files/metaboxes/buyers.php:330
+msgid "Eg : Verified"
+msgstr "Eg : تم التحقق منه"
+
+#: plugin-files/metaboxes/invoice.php:8
+msgid "Transaction ID"
+msgstr "معرف المعاملة"
+
+#: plugin-files/metaboxes/invoice.php:9
+#: plugin-files/metaboxes/submit-property.php:1379
+#: plugin-files/metaboxes/submit-property.php:1395
+msgid "Price"
+msgstr "السعر"
+
+#: plugin-files/metaboxes/invoice.php:10
+msgid "Billing Type"
+msgstr "نوع الفوترة"
+
+#: plugin-files/metaboxes/invoice.php:11
+msgid "Method"
+msgstr "الطريقة"
+
+#: plugin-files/metaboxes/invoice.php:13
+msgid "Property ID"
+msgstr "رقم العقار"
+
+#: plugin-files/metaboxes/invoice.php:14
+msgid "Purchase Date"
+msgstr "تاريخ الشراء"
+
+#: plugin-files/metaboxes/invoice.php:51 plugin-files/metaboxes/packages.php:61
+msgid "Paid"
+msgstr "مدفوع"
+
+#: plugin-files/metaboxes/invoice.php:60
+msgid "View Listing"
+msgstr "عرض التفاصيل"
+
+#: plugin-files/metaboxes/packages.php:16
+msgid "For Packages"
+msgstr "الباقات."
+
+#: plugin-files/metaboxes/packages.php:49
+msgid "Package Tagline"
+msgstr "تنبيه الحزمة"
+
+#: plugin-files/metaboxes/packages.php:51
+msgid "Most Trending Listings Pack"
+msgstr "في إنتظار الموافقة قبل النشر "
+
+#: plugin-files/metaboxes/packages.php:57
+msgid "Package Type"
+msgstr "نوع الحزمة"
+
+#: plugin-files/metaboxes/packages.php:58
+msgid "Select package type whether it's a paid package or free"
+msgstr "حدد نوع الحزمة سواء كانت حزمه مدفوعة الأجر أو مجانية"
+
+#: plugin-files/metaboxes/packages.php:60
+msgid "Free"
+msgstr "مجاني"
+
+#: plugin-files/metaboxes/packages.php:67
+msgid "Make Package Featured"
+msgstr "انقر هنا لجعل هذا الإعلان مميزا."
+
+#: plugin-files/metaboxes/packages.php:68
+msgid "Do you want to highlight this package."
+msgstr "هل تريد تمييز هذه الحزمة."
+
+#: plugin-files/metaboxes/packages.php:78
+msgid "Package Duration ( Days )"
+msgstr "مدة الباقة ( أيام )"
+
+#: plugin-files/metaboxes/packages.php:79
+msgid "Expiry in days, -1 means never expired it."
+msgstr "انتهاء الصلاحية بالأيام--1 يعني أبدا انتهت."
+
+#: plugin-files/metaboxes/packages.php:81
+#: plugin-files/metaboxes/packages.php:97
+msgid "Number of days eg 60."
+msgstr "عدد الأيام علي سبيل المثال 60."
+
+#: plugin-files/metaboxes/packages.php:86
+msgid "Total Listings"
+msgstr "مجموع القوائم : %s "
+
+#: plugin-files/metaboxes/packages.php:87
+msgid "Total number of listings allowed in this package."
+msgstr "عدد القوائم المعروضة لكل صفحة."
+
+#: plugin-files/metaboxes/packages.php:89
+msgid "eg 10"
+msgstr "علي سبيل المثال 10"
+
+#: plugin-files/metaboxes/packages.php:94
+msgid "Total Listings Expiry ( Days )"
+msgstr "مجموع القوائم : %s "
+
+#: plugin-files/metaboxes/packages.php:95
+#: plugin-files/metaboxes/submit-property.php:1525
+msgid "Expiry in days, -1 means never expired."
+msgstr "انتهاء الصلاحية بالأيام--1 يعني أبدا انتهت."
+
+#: plugin-files/metaboxes/packages.php:103
+msgid "Total number of featured listings."
+msgstr "العدد الإجمالي للقوائم المميزة."
+
+#: plugin-files/metaboxes/packages.php:105
+msgid "eg 5"
+msgstr "علي سبيل المثال 5"
+
+#: plugin-files/metaboxes/packages.php:110
+#: plugin-files/metaboxes/submit-property.php:1523
+msgid "Featured For"
+msgstr "عنوان الإعلانات المميزة"
+
+#: plugin-files/metaboxes/packages.php:111
+msgid "Expiry in days, -1 means never expired unless used it."
+msgstr "انتهاء الصلاحية بالأيام--1 يعني أبدا انتهت صلاحيتها الا إذا استخدمت."
+
+#: plugin-files/metaboxes/packages.php:113
+msgid "number of days eg 7"
+msgstr "عدد الأيام"
+
+#: plugin-files/metaboxes/submit-property.php:148
+msgid "General Information"
+msgstr "معلومات عامة"
+
+#: plugin-files/metaboxes/submit-property.php:151
+msgid "Map Settings"
+msgstr "للخريطة الافتراضية."
+
+#: plugin-files/metaboxes/submit-property.php:154
+#: plugin-files/metaboxes/submit-property.php:352
+msgid "Property Gallery"
+msgstr "معرض العقار"
+
+#: plugin-files/metaboxes/submit-property.php:157
+msgid "Property Settings"
+msgstr "إعدادات العقار"
+
+#: plugin-files/metaboxes/submit-property.php:160
+#: plugin-files/metaboxes/submit-property.php:405
+msgid "Floor Plans"
+msgstr "مخططات العقار"
+
+#: plugin-files/metaboxes/submit-property.php:163
+#: plugin-files/metaboxes/submit-property.php:587
+msgid "Additional Fields"
+msgstr "وظائف إضافية"
+
+#: plugin-files/metaboxes/submit-property.php:166
+#: plugin-files/metaboxes/submit-property.php:652
+msgid "Attachments"
+msgstr "المرفقات"
+
+#: plugin-files/metaboxes/submit-property.php:169
+msgid "Property Video"
+msgstr "فيديو العقار"
+
+#: plugin-files/metaboxes/submit-property.php:178
+#: plugin-files/metaboxes/submit-property.php:179
+msgid "Property Type"
+msgstr "نوع العقار"
+
+#: plugin-files/metaboxes/submit-property.php:186
+#: plugin-files/metaboxes/submit-property.php:187
+msgid "Offer Type"
+msgstr "نوع العرض"
+
+#: plugin-files/metaboxes/submit-property.php:194
+msgid "Label"
+msgstr "ملصق"
+
+#: plugin-files/metaboxes/submit-property.php:195
+msgid "Select Label"
+msgstr "حدد تسمية"
+
+#: plugin-files/metaboxes/submit-property.php:202
+msgid "Currency Type"
+msgstr "اختر نوع عملة نشاطك التجاري"
+
+#: plugin-files/metaboxes/submit-property.php:203
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+#: plugin-files/metaboxes/submit-property.php:211
+msgid "Sale or Rent Price ( Only digits )"
+msgstr "سعر البيع أو الايجار (ارقام فقط)"
+
+#: plugin-files/metaboxes/submit-property.php:213
+msgid "Eg: 75000"
+msgstr "مثال: 75000"
+
+#: plugin-files/metaboxes/submit-property.php:218
+msgid "Second Price (Optional)"
+msgstr "السعر الثاني "
+
+#: plugin-files/metaboxes/submit-property.php:220
+msgid "Eg: 3500"
+msgstr "على سبيل المثال: 3500"
+
+#: plugin-files/metaboxes/submit-property.php:225
+msgid "After Price Label"
+msgstr "السعر النهائي"
+
+#: plugin-files/metaboxes/submit-property.php:227
+#: plugin-files/metaboxes/submit-property.php:443
+#: plugin-files/metaboxes/submit-property.php:529
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: Per Month"
+msgstr "علي سبيل المثال: شهر "
+
+#: plugin-files/metaboxes/submit-property.php:232
+msgid "Area Size ( Only digits )"
+msgstr "مساحة المنطقة (ارقام فقط) "
+
+#: plugin-files/metaboxes/submit-property.php:234
+#: plugin-files/metaboxes/submit-property.php:436
+#: plugin-files/metaboxes/submit-property.php:522
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: 2500"
+msgstr "على سبيل المثال: 2500"
+
+#: plugin-files/metaboxes/submit-property.php:239
+msgid "Area Size Prefix"
+msgstr "بادئة حجم المنطقة"
+
+#: plugin-files/metaboxes/submit-property.php:241
+#: plugin-files/metaboxes/submit-property.php:257
+msgid "Eg: Sq Ft"
+msgstr "مثال: قدم مربع"
+
+#: plugin-files/metaboxes/submit-property.php:248
+msgid "Land Area ( Only digits )"
+msgstr "مساحة الارض (ارقام فقط) "
+
+#: plugin-files/metaboxes/submit-property.php:250
+msgid "Eg: 1300"
+msgstr "على سبيل المثال: 1300"
+
+#: plugin-files/metaboxes/submit-property.php:255
+msgid "Land Area Prefix"
+msgstr "بادئة مساحة الأرض"
+
+#: plugin-files/metaboxes/submit-property.php:264
+#: plugin-files/metaboxes/submit-property.php:462
+#: plugin-files/metaboxes/submit-property.php:548
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Bedrooms"
+msgstr "غرف النوم"
+
+#: plugin-files/metaboxes/submit-property.php:266
+msgid "Eg: 3"
+msgstr "مثال: 3"
+
+#: plugin-files/metaboxes/submit-property.php:271
+#: plugin-files/metaboxes/submit-property.php:469
+#: plugin-files/metaboxes/submit-property.php:555
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: plugin-files/metaboxes/submit-property.php:273
+#: plugin-files/metaboxes/submit-property.php:471
+#: plugin-files/metaboxes/submit-property.php:557
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: 2"
+msgstr "على سبيل المثال: 2"
+
+#: plugin-files/metaboxes/submit-property.php:279
+msgid "Garages"
+msgstr "كراجات"
+
+#: plugin-files/metaboxes/submit-property.php:281
+msgid "Eg: 1"
+msgstr "علي سبيل المثال: 1"
+
+#: plugin-files/metaboxes/submit-property.php:286
+msgid "Year Built"
+msgstr "سنة البناء"
+
+#: plugin-files/metaboxes/submit-property.php:295
+msgid "Assign Agent"
+msgstr "تخصيص وكيل"
+
+#: plugin-files/metaboxes/submit-property.php:307
+#: plugin-files/metaboxes/submit-property.php:379
+msgid "Location"
+msgstr " الموقع"
+
+#: plugin-files/metaboxes/submit-property.php:319
+msgid "if donnot add address then map will not show on property detail page."
+msgstr "إذا لم تضيف عنوان لن تظهر الخريطة على صفحة تفاصيل العقار."
+
+#: plugin-files/metaboxes/submit-property.php:355
+msgid "+ Add Media"
+msgstr "+ إضافة وسائل الإعلام"
+
+#: plugin-files/metaboxes/submit-property.php:356
+msgid "Recommended Image Size is 750x450"
+msgstr "الحجم الموصى به 990x215"
+
+#: plugin-files/metaboxes/submit-property.php:365
+msgid "Property Ref. No"
+msgstr "مرجع العقار لا"
+
+#: plugin-files/metaboxes/submit-property.php:367
+msgid "Property ID will help to search property directly."
+msgstr "سوف يساعد كود العقار في البحث عن الممتلكات مباشرة."
+
+#: plugin-files/metaboxes/submit-property.php:372
+msgid "Zip or Postal Code"
+msgstr "الرمز البريدي أو الرمز البريدي "
+
+#: plugin-files/metaboxes/submit-property.php:374
+msgid "Your Zip code here."
+msgstr "الرمز البريدي الخاص بك هنا."
+
+#: plugin-files/metaboxes/submit-property.php:383
+msgid "Select your location"
+msgstr "اختر موقعك"
+
+#: plugin-files/metaboxes/submit-property.php:389
+msgid "My Listing View?"
+msgstr "عرض قائمتي؟"
+
+#: plugin-files/metaboxes/submit-property.php:392
+msgid "Yes (Anyone can view my listing)"
+msgstr "نعم (يمكن لأي شخص عرض قائمتي)"
+
+#: plugin-files/metaboxes/submit-property.php:395
+msgid "No (Only logged in user can can view)"
+msgstr "لا (يمكن للمستخدم الذي قام بتسجيل الدخول فقط العرض)"
+
+#: plugin-files/metaboxes/submit-property.php:406
+msgid "Enable Floor Plans"
+msgstr "تمكين مخططات الطوابق"
+
+#: plugin-files/metaboxes/submit-property.php:410
+msgid ""
+"Enable/Disable floor plans. <strong>Floor Plans will only shown when enabled."
+"</strong>"
+msgstr ""
+"تمكين / تعطيل مخططات الطوابق. <strong>لن تظهر مخططات الطوابق إلا عند تمكينها."
+"</strong>"
+
+#: plugin-files/metaboxes/submit-property.php:427
+#: plugin-files/metaboxes/submit-property.php:513
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Floor Name"
+msgstr "اسم الطابق"
+
+#: plugin-files/metaboxes/submit-property.php:429
+#: plugin-files/metaboxes/submit-property.php:515
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Ground Floor"
+msgstr "الطابق الأرضي"
+
+#: plugin-files/metaboxes/submit-property.php:434
+#: plugin-files/metaboxes/submit-property.php:520
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Floor Price ( Only digits )"
+msgstr "السعر (أرقام فقط)"
+
+#: plugin-files/metaboxes/submit-property.php:441
+#: plugin-files/metaboxes/submit-property.php:527
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Price Postfix"
+msgstr "نص يسبق السعر"
+
+#: plugin-files/metaboxes/submit-property.php:448
+#: plugin-files/metaboxes/submit-property.php:534
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Floor Size ( Only digits )"
+msgstr "الحجم (أرقام فقط)"
+
+#: plugin-files/metaboxes/submit-property.php:450
+#: plugin-files/metaboxes/submit-property.php:536
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: 1500"
+msgstr "علي سبيل المثال : 1500"
+
+#: plugin-files/metaboxes/submit-property.php:455
+#: plugin-files/metaboxes/submit-property.php:541
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Size Postfix"
+msgstr "نص يسبق الحجم"
+
+#: plugin-files/metaboxes/submit-property.php:457
+#: plugin-files/metaboxes/submit-property.php:543
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: Sq ft"
+msgstr "مثال: قدم مربع"
+
+#: plugin-files/metaboxes/submit-property.php:464
+#: plugin-files/metaboxes/submit-property.php:550
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Eg: 4"
+msgstr "علي سبيل المثال : 4"
+
+#: plugin-files/metaboxes/submit-property.php:476
+#: plugin-files/metaboxes/submit-property.php:562
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Description"
+msgstr "الوصف"
+
+#: plugin-files/metaboxes/submit-property.php:483
+#: plugin-files/metaboxes/submit-property.php:569
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "+ Floor Image"
+msgstr "+ صورة الكلمة"
+
+#: plugin-files/metaboxes/submit-property.php:568
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "Floor Plan Image"
+msgstr "صورة مخطط  الطابق"
+
+#: plugin-files/metaboxes/submit-property.php:571
+#: plugin-files/metaboxes/submit-property.php:961
+msgid "The recommended minimum width is 770px and height is flexible."
+msgstr "الحد الأدنى للعرض الموصى به هو 770 بكسل والارتفاع مرن."
+
+#: plugin-files/metaboxes/submit-property.php:580
+#: plugin-files/metaboxes/submit-property.php:646
+msgid "+ Add More"
+msgstr "+ إضافة المزيد"
+
+#: plugin-files/metaboxes/submit-property.php:588
+msgid "Enable Additional Fields"
+msgstr "تمكين حقول إضافية"
+
+#: plugin-files/metaboxes/submit-property.php:592
+msgid ""
+"Enable/Disable additional fields. <strong>Additional Fields will only shown "
+"when enabled.</strong>"
+msgstr ""
+"تمكين / تعطيل الحقول الإضافية. <strong>لن تظهر الحقول الإضافية إلا عند "
+"تمكينها.</strong>"
+
+#: plugin-files/metaboxes/submit-property.php:607
+#: plugin-files/metaboxes/submit-property.php:629
+#: plugin-files/metaboxes/submit-property.php:972
+msgid "Title"
+msgstr "العنوان"
+
+#: plugin-files/metaboxes/submit-property.php:613
+#: plugin-files/metaboxes/submit-property.php:635
+#: plugin-files/metaboxes/submit-property.php:972
+msgid "Value"
+msgstr "القيمة"
+
+#: plugin-files/metaboxes/submit-property.php:655
+msgid "+ Add Attachments"
+msgstr "+ إضافة مرفقات"
+
+#: plugin-files/metaboxes/submit-property.php:656
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"يمكنك إرفاق ملفات PDF، صور خريطة أو وثائق أخرى لتوفير مزيد من التفاصيل "
+"المتعلقة بالملكية. "
+
+#: plugin-files/metaboxes/submit-property.php:665
+msgid "Video URL"
+msgstr "رابط الفيديو"
+
+#: plugin-files/metaboxes/submit-property.php:667
+msgid "Enter video link/url. Supported format: YouTube, Vimeo, SWF and MOV"
+msgstr ""
+"أدخل رابط الفيديو / عنوان url. التنسيق المدعوم: يوتيوب ، فيميو ، SWF و MOV"
+
+#: plugin-files/metaboxes/submit-property.php:672
+msgid "360 Virtual Tour"
+msgstr "تضمين فيديو Embed"
+
+#: plugin-files/metaboxes/submit-property.php:674
+msgid "Provide iframe embed code for the 360 virtual tour."
+msgstr "قم بتوفير رمز تضمين iframe للجولة الافتراضية 360."
+
+#: plugin-files/metaboxes/submit-property.php:1377
+#: plugin-files/metaboxes/submit-property.php:1388
+msgid "Ref. No"
+msgstr "المرجع #: "
+
+#: plugin-files/metaboxes/submit-property.php:1382
+#: plugin-files/metaboxes/submit-property.php:1399
+msgid "Expiry"
+msgstr "انقضاء"
+
+#: plugin-files/metaboxes/submit-property.php:1489
+msgid "Mark Listing As Featured"
+msgstr "انقر هنا لجعل هذا الإعلان مميزا."
+
+#: plugin-files/metaboxes/submit-property.php:1511
+msgid "Do you want to make this listing as featured!"
+msgstr "هل تريد ان تجعل هذه القائمة كما ظهرت!"
+
+#: plugin-files/metaboxes/submit-property.php:1526
+msgid "Eg 20."
+msgstr "على سبيل المثال 20."
+
+#: plugin-files/metaboxes/terms-meta-agent-types.php:18
+#: plugin-files/metaboxes/terms-meta-agent-types.php:31
+#: plugin-files/metaboxes/terms-meta-label.php:18
+#: plugin-files/metaboxes/terms-meta-label.php:31
+msgid "Label Color"
+msgstr "لون الخانة"
+
+#: plugin-files/metaboxes/terms-meta-agent-types.php:20
+#: plugin-files/metaboxes/terms-meta-agent-types.php:35
+#: plugin-files/metaboxes/terms-meta-label.php:20
+#: plugin-files/metaboxes/terms-meta-label.php:35
+#: plugin-files/metaboxes/terms-meta-status.php:20
+#: plugin-files/metaboxes/terms-meta-status.php:35
+msgid "The hex color of the label field."
+msgstr "لون سداسي عشري حقل التسمية."
+
+#: plugin-files/metaboxes/terms-meta-agent-types.php:62
+#: plugin-files/metaboxes/terms-meta-agent-types.php:85
+#: plugin-files/metaboxes/terms-meta-label.php:67
+#: plugin-files/metaboxes/terms-meta-label.php:90
+#: plugin-files/metaboxes/terms-meta-status.php:67
+#: plugin-files/metaboxes/terms-meta-status.php:90
+msgid "Background"
+msgstr "صورة الخلفية"
+
+#: plugin-files/metaboxes/terms-meta-currency.php:17
+#: plugin-files/metaboxes/terms-meta-currency.php:36
+msgid "Currency Code"
+msgstr "رمز العملة الافتراضي"
+
+#: plugin-files/metaboxes/terms-meta-currency.php:18
+#: plugin-files/metaboxes/terms-meta-currency.php:39
+msgid "AUD"
+msgstr "AUD"
+
+#: plugin-files/metaboxes/terms-meta-currency.php:22
+#: plugin-files/metaboxes/terms-meta-currency.php:45
+msgid "Currency Symbol"
+msgstr "رمز العملة"
+
+#: plugin-files/metaboxes/terms-meta-currency.php:23
+#: plugin-files/metaboxes/terms-meta-currency.php:48
+msgid "$"
+msgstr "$"
+
+#: plugin-files/metaboxes/terms-meta-status.php:18
+#: plugin-files/metaboxes/terms-meta-status.php:31
+msgid "Status Label Color"
+msgstr "لون تسمية الحالة"
+
+#: plugin-files/metaboxes/terms-meta.php:56
+#: plugin-files/metaboxes/terms-meta.php:69
+msgid "Image"
+msgstr "صوره"
+
+#: plugin-files/metaboxes/terms-meta.php:60
+#: plugin-files/metaboxes/terms-meta.php:80
+msgid "Add Image"
+msgstr "صوره"
+
+#: plugin-files/metaboxes/terms-meta.php:61
+#: plugin-files/metaboxes/terms-meta.php:81
+msgid "Remove Image"
+msgstr "صورة الغلاف"
+
+#: plugin-files/shortcodes/shortcode.php:157
+#: plugin-files/shortcodes/shortcode.php:167
+#: plugin-files/shortcodes/shortcode.php:183
+#: plugin-files/shortcodes/shortcode.php:332
+#: plugin-files/shortcodes/shortcode.php:342
+#: plugin-files/shortcodes/shortcode.php:358
+#: plugin-files/shortcodes/shortcode.php:533
+#: plugin-files/shortcodes/shortcode.php:548
+#: plugin-files/shortcodes/shortcode.php:569
+msgid "Any"
+msgstr "اي"
+
+#: plugin-files/shortcodes/shortcode.php:792
+msgid "Views : "
+msgstr "المشاهدات : %s"
+
+#: plugin-files/shortcodes/shortcode.php:828
+msgid "Explore"
+msgstr "استكشاف"
+
+#: plugin-files/shortcodes/shortcode.php:832
+msgid "What are you looking for..."
+msgstr "عن ماذا تبحث..."
+
+#: plugin-files/shortcodes/shortcode.php:838
+msgid "Search"
+msgstr "بحث..."
+
+#: plugin-files/shortcodes/shortcode.php:1436
+msgid "Select Distance"
+msgstr "حدد المسافة"
+
+#: plugin-files/shortcodes/shortcode.php:1441
+msgid "KM"
+msgstr "اختر المسافة في (كم)"
+
+#: plugin-files/shortcodes/shortcode.php:1522
+#: plugin-files/shortcodes/shortcode.php:1863
+#: plugin-files/shortcodes/shortcode.php:1902
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: plugin-files/shortcodes/shortcode.php:1575
+msgid "Read More"
+msgstr "المزيد"
+
+#: plugin-files/shortcodes/shortcode.php:2061
+#: plugin-files/shortcodes/shortcode.php:2112
+#: plugin-files/shortcodes/shortcode.php:2341
+#: plugin-files/shortcodes/shortcode.php:2383
+#, php-format
+msgid "%s Properties"
+msgstr "كل العقارات"
+
+#: plugin-files/shortcodes/shortcode.php:2065
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+#: plugin-files/shortcodes/shortcode.php:2275
+msgid "Contact No"
+msgstr "رقم الاتصال"
+
+#: plugin-files/shortcodes/shortcode.php:2435
+#: plugin-files/shortcodes/shortcode.php:2444
+msgid "Get It On"
+msgstr "احصل على جهاز التحكم عن بعد"
+
+#: plugin-files/shortcodes/shortcode.php:2435
+msgid "Apple Store"
+msgstr "متجر آبل"
+
+#: plugin-files/shortcodes/shortcode.php:2444
+msgid "Play Store"
+msgstr "متجر جوجل بلاي"
+
+#: plugin-files/shortcodes/shortcode.php:2801
+msgid "Phone"
+msgstr "الهاتف"
+
+#: plugin-files/shortcodes/shortcode.php:2805
+#: plugin-files/shortcodes/shortcode.php:3096
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: plugin-files/shortcodes/shortcode.php:2902
+#, php-format
+msgid "<span class=\"clr-yal\"> %d </span> Results Found "
+msgstr "<span class=\"clr-yal\"> %d </span> النتائج التي تم العثور عليها "
+
+#: plugin-files/shortcodes/shortcode.php:2909
+msgid "Short by"
+msgstr "باختصار من قبل"
+
+#: plugin-files/shortcodes/shortcode.php:2912
+msgid "Newest To Oldest"
+msgstr "ابتدا جدیدتر"
+
+#: plugin-files/shortcodes/shortcode.php:2913
+msgid "Oldest To New"
+msgstr "الأقدم إلى الجديد"
+
+#: plugin-files/shortcodes/shortcode.php:2914
+msgid "Alphabetically [a-z]"
+msgstr "أبجديا [a-z]"
+
+#: plugin-files/shortcodes/shortcode.php:2915
+msgid "Alphabetically [z-a]"
+msgstr "أبجديا [z-a]"
+
+#: plugin-files/shortcodes/shortcode.php:3247
+#: plugin-files/shortcodes/shortcode.php:3422
+msgid "Already Used"
+msgstr "هل لديك حساب بالفعل ؟ الدخول هنا"
+
+#: plugin-files/shortcodes/shortcode.php:3251
+#: plugin-files/shortcodes/shortcode.php:3257
+#: plugin-files/shortcodes/shortcode.php:3426
+#: plugin-files/shortcodes/shortcode.php:3432
+msgid "Choose plan"
+msgstr "اختر نوع الاشتراك"
+
+#: redux-extensions/extensions-init.php:77
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+"أفضل إذا ما استخدمت علي تثبيت وورد الجديدة وهذا الموضوع يتطلب PHP الإصدار "
+"7.0 +"
+
+#: redux-extensions/extensions-init.php:78
+msgid "Images are for demo purpose only."
+msgstr "تصاویر باید انتخاب شود"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:236
+msgid "Demo Already Imported"
+msgstr "سبق وتم إستيراد بينات الديمو"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:262
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:264
+msgid "Demo Importer"
+msgstr "الوضع التجريبي"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:269
+msgid "Works best to import on a new install of WordPress"
+msgstr "يعمل بشكل أفضل للاستيراد على تثبيت جديد من وردبريس"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "لا توجد أخطاء أثناء قراءة ملف WXR"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "التفاصيل ظاهره بالأعلى. المستورد سوف يحاول مره أخرى الآن بقارئ مختلف"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "لا يبدو أن هذا الملف من النوع WXR, أو أن رقم الإصدار مفقود/غيرصالح"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"الملف المستورد والمتعلق بخيارات التصميم لا يمكن العثور عليه. الرجاء المحاولة "
+"مرة آخرى."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr "لا يمكن العثور على قطعة الاستيراد. الرجاء المحاولة مرة آخرى."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "الشريط الجانبي غير موجود في المظهر (باستخدام غير نشط)"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr "الموقع لا يدعم الودجات"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr "البريد الكتروني موجود بالفعل."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr "تم الاستيراد"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr "إعلانات غير نشطة"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr "بلا عنوان"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "تم تحديث تقييمك"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "الملف غير موجود، يرجى المحاولة مرة أخرى."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "الكل"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "لديك كوبون؟"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "تذكر تحديث كلمات السر وأدوار المستخدمين المستوردة."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"ملف التصدير غير موجود في <code>%s</code>. يبدو أن هذه المشكله هي مشكلة "
+"صلاحيات"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"ملف WXR هذا (الإصدار %s) يمكن أن يكون غير مدعوم بواسطة هذا الإصدار من "
+"المستورد. فضلا قم بالتحديث"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "فشل في استيراد %s.. سيتم تحويل المقالات للمستخدم الحالي."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "تعيين المؤلف"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"لجعل لجعل العمل اسهل بالنسبة لك لتحرير وحفظ المحتوى الذي تم استيراده، قد "
+"ترغب في إعادة تعيين مالك المحتوى الذي يتم استيراده إلى مستخدم موجود في هذا "
+"الموقع. على سبيل المثال، قد ترغب في استيراد جميع المدخلات كمدخلات <code> "
+"المشرف </code>"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"إذا تم إنشاء مستخدم جديد بواسطة ووردبريس، كلمة مرور جديدة سيتم إنشائها "
+"عشوائيا وسيتم تعيين المستخدم الجديد ك&#8217;s. التغيير اليدوي %s.لتفاصيل "
+"المستخدم الجديد &#8217;s سيكون ضروريا."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "استيراد المرفقات"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "تحميل و استيراد الملفات المرفقه"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr "إرسال"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "استيراد المؤلف:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "أو إنشاء مستخدم جديد مع اسم الدخول:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "كمستخدم جديد:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "تعيين مشاركات لمستخدم حالي:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "او تعيين مشاركات لمستخدم حالي:"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- تحديد -"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "فشل إنشاء مستخدم جديد ل %s يمكن أن تعزى مناصبهم للمستخدم الحالي."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "فشل في استيراد التصنيف %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "فشل في استيراد سمات المقال %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "فشل تثبيت %1$s."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "فشل في إستيراد &#8220;%s&#8221;: نوع محتوى خاطئ %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; موجود بالفعل."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "فشل في استيراد %s &#8220;%s&#8221;"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "عنصر القائمة تخطي بسبب سبيكة القائمة المفقودة"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "عنصر القائمة تخطي بسبب سبيكة القائمة ؟؟؟ صالحة: %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr "تمكين"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr "النوع"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr "الخادم لم يستجب"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "السيرفر قام بالرد كخطأ كالتالي:  %1$d %2$s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr "حجم الملف غير صحيح"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr "حجم الملفات المحمله صفر"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "الملف كبير جدا, أقصى حجم هو  %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr "ورد"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"نسخة جديدة متاحة من هذا المستورد Genius Icon. يرجى تحديث الإصدار إلى %s "
+"لضمان التوافق مع ملفات التصدير الجديدة."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"مرحبا! تحميل الخاص بك WordPress تمديد RSS ملف (WXR) وسنقوم باستيراد المقال، "
+"صفحة، التعليقات، حقول مخصصة، والفئات، والعلامات في هذا الموقع."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "اختار a WXR (.xml) ليتم رفعه ثم اضغط رفع واستيراد."
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr "عرض الغرض"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr "تم إستيراد الديمو"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr "يرجى الانتظار ..."
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr "إعادة الاستيراد"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr "لم يتم تقديم أية بيانات تجريبية"
+
+#. Plugin Name of the plugin/theme
+msgid "Propertya Framework"
+msgstr "إطار عمل بروبرتي"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr "https://themeforest.net/user/scriptsbundle/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "هذا البرنامج المساعد ضروري لموضوع المناسبة funcationality."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"

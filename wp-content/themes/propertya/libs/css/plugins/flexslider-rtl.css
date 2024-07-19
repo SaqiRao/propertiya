@@ -1,0 +1,48 @@
+.rtl .flexslider {
+    direction: rtl !important;
+}
+.rtl .carousel li {
+    margin-right: 5px
+}
+.rtl .flex-direction-nav {
+    *height: 0
+}
+.rtl .flex-direction-nav a:before {
+    content: '\f002'
+}
+.rtl .flex-direction-nav a.flex-next:before {
+    content: '\f001'
+}
+.rtl .flex-direction-nav .flex-prev {
+    left: auto;
+    right: -50px
+}
+.rtl .flex-direction-nav .flex-next {
+    right: auto;
+    left: -50px;
+    text-align: left
+}
+.rtl .flexslider:hover .flex-direction-nav .flex-prev {
+    opacity: .7;
+    left: auto;
+    right: 10px
+}
+.rtl .flexslider:hover .flex-direction-nav .flex-next {
+    opacity: .7;
+    right: auto;
+    left: 10px
+}
+.rtl .flex-pauseplay a {
+    left: auto;
+    right: 10px
+}
+@media screen and (max-width:860px) {
+    .rtl .flex-direction-nav .flex-prev {
+        left: auto;
+        right: 10px
+    }
+    .rtl .flex-direction-nav .flex-next {
+        right: auto;
+        left: 10px
+    }
+}

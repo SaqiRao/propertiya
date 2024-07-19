@@ -1,0 +1,6676 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Propertya\n"
+"POT-Creation-Date: 2023-01-05 17:48+0500\n"
+"PO-Revision-Date: 2023-01-05 17:53+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:9
+msgid "404"
+msgstr "404"
+
+#: 404.php:10
+msgid "Oops! Page Not Found"
+msgstr "عفوا! لم يتم العثور علي الصفحة"
+
+#: 404.php:11
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "عذرا، ولكن الصفحة التي تبحث عنها غير موجودة."
+
+#: 404.php:12
+msgid "  Go to Home"
+msgstr "  انتقل إلى الصفحة الرئيسية"
+
+#: comments.php:9
+msgid "Comments"
+msgstr "التعليقات"
+
+#: comments.php:16
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:25
+#: template-parts/generic-sections/sidebar/contact/contact.php:13
+#: template-parts/listing-detial/schedule/schedule.php:47
+#: template-parts/listing-detial/sidebar/contact.php:39
+#: template-parts/listing-detial/style-type/classic.php:254
+msgid "Your Name"
+msgstr "اسمك"
+
+#: comments.php:32
+msgid "Your Email"
+msgstr "ضع ايميلك"
+
+#: comments.php:39 inc/options.php:1037
+msgid "Your Comment"
+msgstr "تعليقك"
+
+#: comments.php:46
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"انت مسجل دخول بأسم <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"تسجيل "
+"خروج\">تسجيل الخروج?</a>"
+
+#: comments.php:49
+msgid "Post Comment"
+msgstr "أضف تعليقا"
+
+#: comments.php:59
+msgid "Leave Your Comment"
+msgstr "اترك تعليق"
+
+#: functions.php:245
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "في"
+
+#: inc/classes/agency/agency.php:22 inc/classes/agency/agency.php:90
+#: inc/classes/agency/agency.php:158 inc/classes/agency/agency.php:211
+#: inc/classes/agency/agency.php:254 inc/classes/agency/agency.php:314
+#: inc/classes/agency/agency.php:360 inc/classes/agency/agency.php:424
+#: inc/classes/agency/agency.php:510 inc/classes/agency/agency.php:575
+#: inc/classes/agents/agents.php:43 inc/classes/agents/agents.php:174
+#: inc/localization.php:49
+#: template-parts/agency-detial/style-type/classic.php:93
+#: template-parts/agent-detial/style-type/classic.php:61
+#: template-parts/buyer-detial/style-type/classic.php:61
+#: template-parts/dashboard/my-properties/expired.php:132
+#: template-parts/dashboard/my-properties/favourites.php:119
+#: template-parts/dashboard/my-properties/featured.php:142
+#: template-parts/dashboard/my-properties/publish.php:142
+#: template-parts/listing-detial/sidebar/profile.php:35
+msgid "Featured"
+msgstr "مميز"
+
+#: inc/classes/agency/agency.php:30 inc/classes/agency/agency.php:96
+#: inc/classes/agency/agency.php:219 inc/classes/agency/agency.php:262
+#: inc/classes/agency/agency.php:322
+#: template-parts/listing-detial/sidebar/profile.php:58
+msgid "Most Recommended"
+msgstr "الأكثر الموصى بها"
+
+#: inc/classes/agency/agency.php:70 inc/classes/agency/agency.php:137
+#: inc/classes/agency/agency.php:291
+msgid "View Profile"
+msgstr "عرض الصفحة الشخصية"
+
+#: inc/classes/agency/agency.php:185 inc/classes/agency/agency.php:557
+#: inc/classes/agency/agency.php:600
+#, php-format
+msgid "Views : %s"
+msgstr "المشاهدات : %s"
+
+#: inc/classes/agency/agency.php:276 inc/classes/agency/agency.php:337
+#, php-format
+msgid "%s Listings"
+msgstr "قوائم %s"
+
+#: inc/classes/agency/agency.php:355
+#, php-format
+msgid "(%s Reviews)"
+msgstr "(%s تقييمات)"
+
+#: inc/classes/agency/agency.php:387 inc/classes/agents/agents.php:83
+#, php-format
+msgid "%s Properties"
+msgstr "كل العقارات"
+
+#: inc/classes/agency/agency.php:428 inc/classes/agency/agency.php:514
+#, php-format
+msgid "Total Listings : %s "
+msgstr "مجموع القوائم : %s "
+
+#: inc/classes/agency/agency.php:470
+msgid "Mobile"
+msgstr "الجوال"
+
+#: inc/classes/agency/agency.php:476 inc/localization.php:68
+#: template-parts/generic-sections/sidebar/contact/contact.php:19
+#: template-parts/listing-detial/schedule/schedule.php:63
+#: template-parts/listing-detial/sidebar/contact.php:45
+#: template-parts/listing-detial/style-type/classic.php:259
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: inc/classes/agency/agency.php:483
+msgid "Office"
+msgstr "المكتب"
+
+#: inc/classes/agency/agency.php:490
+msgid "Fax"
+msgstr "فاكس"
+
+#: inc/classes/agency/agency.php:497
+msgid "WhatsApp"
+msgstr "واتس اب"
+
+#: inc/classes/agency/agency.php:504 inc/localization.php:118
+#: inc/localization.php:154 inc/options.php:370 inc/options.php:520
+msgid "Working Hours"
+msgstr "ساعات"
+
+#: inc/classes/agency/agency.php:556
+#, php-format
+msgid "Listings : %s"
+msgstr "القوائم : %s"
+
+#: inc/classes/listings/listings.php:844 inc/classes/listings/listings.php:995
+#: inc/classes/listings/listings.php:1341
+#, php-format
+msgid "%s (%d Reviews)"
+msgstr "%s (%d تعليقات)"
+
+#: inc/classes/listings/listings.php:1240
+#: inc/classes/listings/listings.php:1903 inc/localization.php:153
+#: template-parts/agency-detial/style-type/classic.php:136
+#: template-parts/agent-detial/style-type/classic.php:116
+#: template-parts/buyer-detial/style-type/classic.php:116
+#: template-parts/listing-detial/location/location.php:19
+msgid "Get Directions"
+msgstr "احصل على الاتجاهات"
+
+#: inc/classes/listings/listings.php:1276
+#: inc/classes/listings/listings.php:1939
+#, php-format
+msgid "Listed on %s"
+msgstr "مدرجة في %s"
+
+#: inc/classes/listings/listings.php:1422
+msgid "Posted by"
+msgstr "نشر بواسطة"
+
+#: inc/classes/listings/listings.php:1617
+msgid "Listed by"
+msgstr "نوع المعروض"
+
+#: inc/classes/listings/listings.php:1673
+#: template-parts/dashboard/content-area/dashboard.php:381
+#: template-parts/listing-detial/sidebar/stats.php:17
+#, php-format
+msgid "%s Views"
+msgstr "%s مشاهدات"
+
+#: inc/localization.php:11
+msgid "Keyword"
+msgstr "كلمة البحث"
+
+#: inc/localization.php:12 inc/options.php:4275 inc/options.php:4357
+#: inc/options.php:4497 inc/options.php:4498
+msgid "Property Type"
+msgstr "نوع العقار"
+
+#: inc/localization.php:13 inc/localization.php:134 inc/options.php:4545
+msgid "Property Status"
+msgstr "حالة العقار"
+
+#: inc/localization.php:14 inc/options.php:4276 inc/options.php:4358
+#: inc/options.php:4521 inc/options.php:4522
+msgid "Offer Type"
+msgstr "نوع العرض"
+
+#: inc/localization.php:15 inc/options.php:4277 inc/options.php:4359
+#: inc/options.php:4544 inc/options.php:4567 inc/options.php:4593
+msgid "Label"
+msgstr "ملصق"
+
+#: inc/localization.php:16 inc/options.php:4278 inc/options.php:4360
+#: inc/options.php:4568
+msgid "Currency Type"
+msgstr "اختر نوع عملة نشاطك التجاري"
+
+#: inc/localization.php:17 inc/options.php:4279 inc/options.php:4361
+msgid "Property Price"
+msgstr "سعر العقار"
+
+#: inc/localization.php:18 inc/options.php:4280 inc/options.php:4362
+msgid "Second Price (Optional)"
+msgstr "السعر الثاني "
+
+#: inc/localization.php:19 inc/options.php:4629
+msgid "Before Price Label"
+msgstr "السعر يبداء من "
+
+#: inc/localization.php:20 inc/options.php:4281 inc/options.php:4363
+#: inc/options.php:4617 inc/options.php:4618
+msgid "After Price Label"
+msgstr "السعر النهائي"
+
+#: inc/localization.php:21 inc/options.php:4282 inc/options.php:4364
+#: inc/options.php:4653 inc/options.php:4654
+msgid "Area Size"
+msgstr "المساحه"
+
+#: inc/localization.php:22 inc/options.php:2093 inc/options.php:4283
+#: inc/options.php:4365
+msgid "Area Size Prefix "
+msgstr "بادئة حجم المنطقة "
+
+#: inc/localization.php:23 inc/options.php:4284 inc/options.php:4366
+#: inc/options.php:4712 inc/options.php:4713
+msgid "Land Area"
+msgstr "المساحة الكلية"
+
+#: inc/localization.php:24 inc/options.php:2087 inc/options.php:4285
+#: inc/options.php:4367 inc/options.php:4745
+msgid "Land Area Prefix"
+msgstr "بادئة مساحة الأرض"
+
+#: inc/localization.php:25 inc/localization.php:26 inc/options.php:4286
+#: inc/options.php:4368 inc/options.php:4772 inc/options.php:5023
+msgid "Bedrooms"
+msgstr "غرف النوم"
+
+#: inc/localization.php:27 inc/options.php:4287 inc/options.php:4369
+#: inc/options.php:4784 inc/options.php:5035
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: inc/localization.php:28 inc/options.php:4288 inc/options.php:4370
+#: inc/options.php:4796
+msgid "Garages"
+msgstr "كراجات"
+
+#: inc/localization.php:29 inc/options.php:4289 inc/options.php:4371
+msgid "Year Built"
+msgstr "سنة البناء"
+
+#: inc/localization.php:30 inc/options.php:4290 inc/options.php:4372
+#: inc/options.php:5150
+msgid "Amenities and Features"
+msgstr "الميزات و المرافق"
+
+#: inc/localization.php:31 inc/options.php:4291 inc/options.php:4373
+msgid "Video URL"
+msgstr "رابط الفيديو"
+
+#: inc/localization.php:32 inc/options.php:4292 inc/options.php:4374
+msgid "360 Virtual Tour Iframe"
+msgstr "360 جولة افتراضية Iframe"
+
+#: inc/localization.php:33 inc/options.php:4293 inc/options.php:4375
+msgid "Description Box"
+msgstr "مربع الوصف"
+
+#: inc/localization.php:34 inc/options.php:4294 inc/options.php:4376
+msgid "Gallery"
+msgstr "المعرض"
+
+#: inc/localization.php:35 inc/options.php:4295 inc/options.php:4377
+msgid "Zipcode"
+msgstr "الرمز البريدي"
+
+#: inc/localization.php:36 inc/options.php:4296 inc/options.php:4378
+msgid "Street Address"
+msgstr "عنوان الشارع"
+
+#: inc/localization.php:37 inc/options.php:4297 inc/options.php:4379
+msgid "Map"
+msgstr "لا توجد خريطة"
+
+#: inc/localization.php:38 inc/localization.php:101 inc/options.php:4380
+#: inc/options.php:4905
+msgid "Coordinates"
+msgstr "الإحداثيات"
+
+#: inc/localization.php:39 inc/options.php:4298 inc/options.php:4381
+msgid "Location (Country / State / Town)"
+msgstr "الموقع (البلد / الولاية / البلدة)"
+
+#: inc/localization.php:40 inc/options.php:1939 inc/options.php:1971
+#: inc/options.php:2028 inc/options.php:4299 inc/options.php:5162
+msgid "Floor Plans"
+msgstr "مخططات العقار"
+
+#: inc/localization.php:41 inc/options.php:4300
+msgid "Additional Fields"
+msgstr "وظائف إضافية"
+
+#: inc/localization.php:42 inc/options.php:1940 inc/options.php:1972
+#: inc/options.php:2034 inc/options.php:4301 inc/options.php:4384
+#: inc/options.php:5174
+msgid "Attachments"
+msgstr "المرفقات"
+
+#: inc/localization.php:43 inc/localization.php:179
+msgid "Dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: inc/localization.php:44 inc/localization.php:107
+msgid "My Profile"
+msgstr "ملفي الشخصي"
+
+#: inc/localization.php:45
+msgid "My Properties"
+msgstr "عقاراتي"
+
+#: inc/localization.php:46
+msgid "Add New Property"
+msgstr "أضافة عقار جديد"
+
+#: inc/localization.php:47
+msgid "Published"
+msgstr "منشور"
+
+#: inc/localization.php:48
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: inc/localization.php:50 inc/options.php:1429 inc/theme_functions.php:310
+msgid "Expired"
+msgstr "منتهي"
+
+#: inc/localization.php:51
+msgid "Search listing"
+msgstr "بحث العقار"
+
+#: inc/localization.php:52
+msgid "Action"
+msgstr "الإجراء"
+
+#: inc/localization.php:53 inc/localization.php:133
+#: template-parts/listing-detial/floorplans/plans.php:56
+#: woocommerce/cart/cart.php:74
+msgid "Price"
+msgstr "السعر"
+
+#: inc/localization.php:54 inc/options.php:4528
+msgid "Listed In"
+msgstr "نوع المعروض"
+
+#: inc/localization.php:55 template-parts/dashboard/my-properties/order.php:122
+msgid "Listing"
+msgstr "قائمة"
+
+#: inc/localization.php:56
+msgid "Published Properties"
+msgstr "العقارات المنشورة"
+
+#: inc/localization.php:57
+msgid "Expired Properties"
+msgstr "عقارات منتهية الصلاحية"
+
+#: inc/localization.php:58
+msgid "Pending Properties"
+msgstr "العقارات المعلقة"
+
+#: inc/localization.php:59
+msgid "Featured Properties"
+msgstr "عقارات مميزة"
+
+#: inc/localization.php:60
+msgid " Approval Required!"
+msgstr "الموافقة علي الإعلان"
+
+#: inc/localization.php:61
+msgid "Waiting for admin approval. "
+msgstr "في انتظار موافقة المشرف."
+
+#: inc/localization.php:62 inc/localization.php:78 inc/options.php:635
+#: inc/options.php:679
+msgid "Agents"
+msgstr "الوكلاء"
+
+#: inc/localization.php:63
+msgid "Agent Name"
+msgstr "أسم الوكيل "
+
+#: inc/localization.php:64 inc/localization.php:151
+msgid "Display Name"
+msgstr "اسم العرض"
+
+#: inc/localization.php:65
+msgid "Add New Agent"
+msgstr "اضف وكيل جديد"
+
+#: inc/localization.php:66
+msgid "View All Agent"
+msgstr "عرض كل عامل"
+
+#: inc/localization.php:67
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: inc/localization.php:69 inc/options.php:514
+msgid "Agent Type"
+msgstr "نوع العامل"
+
+#: inc/localization.php:70
+msgid "Agent type is required."
+msgstr "نوع العامل مطلوب."
+
+#: inc/localization.php:71 inc/localization.php:81 inc/options.php:460
+#: inc/options.php:513 inc/options.php:574
+msgid "Mobile Number"
+msgstr "رقم الطلب"
+
+#: inc/localization.php:72
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: inc/localization.php:73
+msgid "Username is required."
+msgstr "اسم المستخدم مطلوب."
+
+#: inc/localization.php:74 inc/localization.php:197
+msgid "You have not given a correct e-mail address."
+msgstr "لم تقم إعطاء عنوان بريد إلكتروني صحيح."
+
+#: inc/localization.php:75
+msgid "Please choose a password with at least 3-12 characters."
+msgstr "الرجاء اختيار كلمة مرور بأحرف 3-12 على الأقل."
+
+#: inc/localization.php:76
+msgid "Send the new user an email about their account."
+msgstr "أرسل للمستخدم الجديد بريدا إلكترونيا حول حسابه."
+
+#: inc/localization.php:77
+msgid "Search agents..."
+msgstr "وكلاء البحث..."
+
+#: inc/localization.php:79
+msgid "Agency Name"
+msgstr "اسم الوكالة"
+
+#: inc/localization.php:80
+msgid "Expire On"
+msgstr " تنتهي "
+
+#: inc/localization.php:82 inc/options.php:461 inc/options.php:516
+#: inc/options.php:575
+msgid "WhatsApp Number"
+msgstr "شماره واتساپ"
+
+#: inc/localization.php:83 inc/options.php:462 inc/options.php:517
+msgid "Office Number"
+msgstr "رقم المكتب"
+
+#: inc/localization.php:84 inc/options.php:463 inc/options.php:518
+msgid "Fax Number"
+msgstr "رقم الفاكس"
+
+#: inc/localization.php:85
+msgid "License Number"
+msgstr "رقم الترخيص"
+
+#: inc/localization.php:86 inc/options.php:464
+msgid "Agency License"
+msgstr "رخصة وكالة"
+
+#: inc/localization.php:87 inc/options.php:465
+msgid "Tax Number"
+msgstr "رقم الضريبة"
+
+#: inc/localization.php:88 inc/options.php:466 inc/options.php:519
+msgid "Website Url"
+msgstr "رابط الموقع"
+
+#: inc/localization.php:89 inc/localization.php:103 inc/options.php:467
+#: inc/options.php:515
+msgid "Agency Location"
+msgstr "موقع الوكالة"
+
+#: inc/localization.php:90 inc/options.php:468
+msgid "About Agency"
+msgstr "عن الوكالة"
+
+#: inc/localization.php:91 inc/options.php:523 inc/options.php:576
+msgid "About Agent"
+msgstr "عن الوكيل"
+
+#: inc/localization.php:92
+msgid "About Yourself"
+msgstr "عن نفسك"
+
+#: inc/localization.php:93
+msgid "Your Location"
+msgstr "موقعك"
+
+#: inc/localization.php:94 inc/options.php:469 inc/options.php:524
+#: inc/options.php:577
+msgid "Facebook URL"
+msgstr "رابط الفيسبوك"
+
+#: inc/localization.php:95 inc/options.php:470 inc/options.php:525
+#: inc/options.php:578
+msgid "Twitter URL"
+msgstr "رابط تويتر"
+
+#: inc/localization.php:96 inc/options.php:471 inc/options.php:526
+#: inc/options.php:579
+msgid "LinkedIn URL"
+msgstr "رابط لينك أن"
+
+#: inc/localization.php:97 inc/options.php:472 inc/options.php:527
+#: inc/options.php:580
+msgid "Instagram URL"
+msgstr "رابط انستجرام"
+
+#: inc/localization.php:98 inc/options.php:528
+msgid "Youtube URL"
+msgstr "رابط يوتيوب"
+
+#: inc/localization.php:99 inc/options.php:473 inc/options.php:529
+#: inc/options.php:581
+msgid "Pinterest URL"
+msgstr "رابط بن ترست"
+
+#: inc/localization.php:100 inc/options.php:474 inc/options.php:530
+#: inc/options.php:582 inc/options.php:1937 inc/options.php:1969
+#: inc/options.php:2016 inc/options.php:4892 inc/theme_utilities.php:805
+msgid "Address"
+msgstr "العنوان"
+
+#: inc/localization.php:102
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: inc/localization.php:104
+msgid "Agent Location"
+msgstr "موقع الوكيل"
+
+#: inc/localization.php:105 inc/options.php:5930
+msgid "Social Media"
+msgstr "الشبكات الإجتماعية"
+
+#: inc/localization.php:106
+msgid "Account Settings"
+msgstr "اعدادات الحساب"
+
+#: inc/localization.php:108
+msgid "Featured Image"
+msgstr "صورة مميزة"
+
+#: inc/localization.php:109
+msgid "Edit Password"
+msgstr "تحرير كلمة المرور"
+
+#: inc/localization.php:110
+msgid "Current Password"
+msgstr "كلمة السر الحالية"
+
+#: inc/localization.php:111
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: inc/localization.php:112
+msgid "Confirm Password"
+msgstr "كلمه السر تاكيد كلمه السر غير متطابقة"
+
+#: inc/localization.php:113 template-parts/authorization/password-reset.php:22
+msgid "Change My Password"
+msgstr "تغيير كلمه المرور"
+
+#: inc/localization.php:114
+msgid "Account Deletion"
+msgstr "حذف الحساب"
+
+#: inc/localization.php:115
+msgid ""
+"If you want to delete your account your all data will be removed from this "
+"site."
+msgstr "إذا كنت تريد حذف حسابك ، فستتم إزالة جميع بياناتك من هذا الموقع."
+
+#: inc/localization.php:116
+msgid "Delete My Account"
+msgstr "حذف حسابي"
+
+#: inc/localization.php:117 inc/options.php:521
+msgid "Skype"
+msgstr "سكايب"
+
+#: inc/localization.php:119 inc/nav.php:204 inc/nav.php:207
+#: inc/theme_functions.php:1041
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/localization.php:120
+msgid "Page"
+msgstr "صفحة"
+
+#: inc/localization.php:121
+msgid "of"
+msgstr "من"
+
+#: inc/localization.php:122
+msgid "User Type"
+msgstr "نوع المستخدم"
+
+#: inc/localization.php:123 inc/localization.php:213
+msgid "All fields are required."
+msgstr "جميع الحقول مطلوبة"
+
+#: inc/localization.php:124 template-parts/dashboard/sidebar/sidebar.php:95
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: inc/localization.php:125
+msgid "Sign Up"
+msgstr "التسجيل"
+
+#: inc/localization.php:126 inc/theme_utilities.php:261
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+#: inc/localization.php:127
+msgid "Or Register With"
+msgstr "تسجيل"
+
+#: inc/localization.php:128
+msgid "Or Login With"
+msgstr "أو تسجيل الدخول مع"
+
+#: inc/localization.php:129
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: inc/localization.php:130
+msgid "Google"
+msgstr "جوجل"
+
+#: inc/localization.php:131
+msgid "Facebook"
+msgstr "فيسبوك "
+
+#: inc/localization.php:132
+msgid "details"
+msgstr "التفاصيل "
+
+#: inc/localization.php:135 inc/localization.php:155 inc/localization.php:171
+#: template-parts/search/property-search/search-with-modern.php:238
+#: template-parts/search/property-search/search-with-modern.php:239
+#: template-parts/search/property-search/search-with-sidebar.php:230
+#: template-parts/search/property-search/search-with-sidebar.php:231
+msgid "Property ID"
+msgstr "رقم العقار"
+
+#: inc/localization.php:136
+msgid "Property Size"
+msgstr "مساحة العقار"
+
+#: inc/localization.php:137
+msgid "Additional details"
+msgstr "تفاصيل الطلب"
+
+#: inc/localization.php:138
+msgid "Review Title"
+msgstr "مراجعة العنوان"
+
+#: inc/localization.php:139
+msgid "Your Review"
+msgstr "تقييمك"
+
+#: inc/localization.php:140 inc/options.php:647 inc/options.php:686
+#: inc/options.php:2076
+msgid "Write a Review"
+msgstr "اكتب تقييم "
+
+#: inc/localization.php:141
+msgid "Rating"
+msgstr "تقييم"
+
+#: inc/localization.php:142
+msgid "Beds"
+msgstr "غرف النوم"
+
+#: inc/localization.php:143
+msgid "Baths"
+msgstr "الحمامات"
+
+#: inc/localization.php:144
+#: template-parts/listing-detial/floorplans/plans.php:29
+msgid "Size"
+msgstr "الحجم"
+
+#: inc/localization.php:145
+msgid "Favourite"
+msgstr "الإعلانات المفضلة"
+
+#: inc/localization.php:146
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: inc/localization.php:147
+msgid "Favorites Properties"
+msgstr "العقارات  المفضلة"
+
+#: inc/localization.php:148 template-parts/compare/compare-listings.php:57
+msgid "Compare"
+msgstr "مقارنة"
+
+#: inc/localization.php:149
+msgid "Member Since"
+msgstr "عضو منذ"
+
+#: inc/localization.php:150
+msgid "Featured Listings "
+msgstr "الإعلانات المميزة"
+
+#: inc/localization.php:152
+msgid "Agency Agent or Buyer display name"
+msgstr "وكيل الوكالة أو اسم عرض المشتري"
+
+#: inc/localization.php:156
+msgid "Near Me"
+msgstr "بالقرب مني"
+
+#: inc/localization.php:157
+msgid "Verified Listing"
+msgstr "مكان موثوق"
+
+#: inc/localization.php:158
+msgid "Total Published"
+msgstr "إجمالي المنشورة"
+
+#: inc/localization.php:159
+msgid "Total Pending"
+msgstr "مجموع المطالبات المعلقة"
+
+#: inc/localization.php:160
+msgid "Total Featured"
+msgstr "إجمالي المميز"
+
+#: inc/localization.php:161
+msgid "Total Expired"
+msgstr "إجمالي منتهي الصلاحية"
+
+#: inc/localization.php:162 inc/options.php:856 inc/options.php:902
+#: inc/options.php:947 template-parts/agency-detial/style-type/classic.php:150
+#: template-parts/agent-detial/style-type/classic.php:130
+#: template-parts/buyer-detial/style-type/classic.php:130
+msgid "Views"
+msgstr "مشاهدات"
+
+#: inc/localization.php:163
+msgid "Property Reviews"
+msgstr "تقييم العقار"
+
+#: inc/localization.php:164
+msgid "Profile Reviews"
+msgstr "مراجعات الملف الشخصي"
+
+#: inc/localization.php:165
+msgid "Submitted Reviews"
+msgstr "التعليقات المقدمة بنجاح."
+
+#: inc/localization.php:166
+msgid "Received Reviews"
+msgstr "التقييمات"
+
+#: inc/localization.php:167
+msgid "Invoices"
+msgstr "الفواتير"
+
+#: inc/localization.php:168 tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "الحالة"
+
+#: inc/localization.php:169
+msgid "Transaction ID"
+msgstr "معرف المعاملة"
+
+#: inc/localization.php:170 woocommerce/cart/cart-totals.php:101
+#: woocommerce/order/order-details.php:52
+msgid "Total"
+msgstr "المجموع"
+
+#: inc/localization.php:172
+msgid "Orders History"
+msgstr "سجل الطلبات"
+
+#: inc/localization.php:173
+msgid "Method"
+msgstr "الطريقة"
+
+#: inc/localization.php:174
+msgid "Total Average"
+msgstr "المتوسط الإجمالي"
+
+#: inc/localization.php:175
+msgid "Total Reviews"
+msgstr "مجموع الرؤیات"
+
+#: inc/localization.php:176
+msgid "Total Stars"
+msgstr "مجموع النجوم"
+
+#: inc/localization.php:177
+#: template-parts/dashboard/content-area/dashboard.php:276
+#: template-parts/generic-sections/sidebar/score/score.php:58
+msgid "Recommendations"
+msgstr "التوصيات"
+
+#: inc/localization.php:178
+msgid "Welcome back,"
+msgstr "مرحبًا بك مرة أخرى،"
+
+#: inc/localization.php:180
+msgid "Recent Activities"
+msgstr "أحدث النشاطات"
+
+#: inc/localization.php:195
+msgid "Name field is required."
+msgstr "حقل الاسم مطلوب"
+
+#: inc/localization.php:196
+msgid "Please enter a valid mobile number."
+msgstr "الرجاء إدخال رقم جوال صالح."
+
+#: inc/localization.php:198
+msgid "Please enter a WhatsApp number."
+msgstr "يرجى إدخال رقم WhatsApp."
+
+#: inc/localization.php:199
+msgid "Please enter a office number."
+msgstr "الرجاء إدخال رقم مكتب."
+
+#: inc/localization.php:200
+msgid "Fax number is required."
+msgstr "رقم الفاكس مطلوب."
+
+#: inc/localization.php:201
+msgid "License is required."
+msgstr "الترخيص مطلوب."
+
+#: inc/localization.php:202
+msgid "Tax number is required."
+msgstr "رقم الضريبة مطلوب."
+
+#: inc/localization.php:203
+msgid "Please enter a valid Website URL."
+msgstr "الرجاء إدخال عنوان URL صالح للموقع"
+
+#: inc/localization.php:204
+msgid "Location is required."
+msgstr "حقل الموقع مطلوب"
+
+#: inc/localization.php:205
+msgid "About field is required."
+msgstr "حول الحقل مطلوب."
+
+#: inc/localization.php:206
+msgid "Please enter a valid Facebook URL."
+msgstr "الرجاء إدخال عنوان URL صالح على فيسبوك."
+
+#: inc/localization.php:207
+msgid "Please enter a valid Twitter URL."
+msgstr "الرجاء إدخال عنوان URL صالح على تويتر."
+
+#: inc/localization.php:208
+msgid "Please enter a valid LinkedIn URL."
+msgstr "الرجاء إدخال عنوان URL صالح ل LinkedIn."
+
+#: inc/localization.php:209
+msgid "Please enter a valid Instagram URL."
+msgstr "الرجاء إدخال عنوان URL صالح على Instagram."
+
+#: inc/localization.php:210
+msgid "Please enter a valid Youtube URL."
+msgstr "الرجاء إدخال عنوان YOUTUBE صالح."
+
+#: inc/localization.php:211
+msgid "Please enter a valid Pinterest URL."
+msgstr "الرجاء إدخال عنوان URL صالح بينتيريست."
+
+#: inc/localization.php:212
+msgid "Address field is required."
+msgstr "حقل العنوان مطلوب."
+
+#: inc/localization.php:214
+msgid "Type fields is required."
+msgstr "مطلوب حقول النوع."
+
+#: inc/localization.php:215
+msgid "The working hours field is required."
+msgstr "حقل ساعات العمل مطلوب."
+
+#: inc/localization.php:216
+msgid "The skype field is required."
+msgstr "حقل سكايب مطلوب."
+
+#: inc/localization.php:217
+msgid "The position field is required."
+msgstr "حقل الموضع مطلوب."
+
+#: inc/nav.php:314 inc/nav.php:334
+msgid "Select Option"
+msgstr "‫الرجاء الاختيار"
+
+#: inc/nav.php:314
+msgid "Simple Menu"
+msgstr "القائمة البسيطة"
+
+#: inc/nav.php:314
+msgid "Mega Menu"
+msgstr "القائمة الضخمة"
+
+#: inc/nav.php:327
+msgid "Column size "
+msgstr "حجم العمود"
+
+#: inc/nav.php:334
+msgid "Left to Right"
+msgstr "من اليسار إلى اليمين"
+
+#: inc/nav.php:334
+msgid "Right to Left"
+msgstr "اليمين الى اليسار"
+
+#: inc/nav.php:346 inc/nav.php:356
+msgid "Select Option - (No Offset)"
+msgstr "حدد خياراً - (بدون إزاحة)"
+
+#: inc/nav.php:349
+msgid "Column Offset "
+msgstr "أزاحه العمود"
+
+#: inc/nav.php:359
+msgid "Vertical Offset"
+msgstr "أزاحه عموديه"
+
+#: inc/nav.php:432
+msgid ""
+"If you want to hide column name in mega menu just write {HideMe} in  "
+"Navigation Label"
+msgstr ""
+"إذا كنت ترغب في إخفاء اسم العمود في القائمة الضخمة فقط اكتب {HideMe} في تسمية"
+
+#: inc/nav.php:437
+msgid "Lebel Color"
+msgstr "لون الخانة"
+
+#: inc/nav.php:443
+msgid "Lebel Text"
+msgstr "نص الخانة"
+
+#: inc/nav.php:445
+msgid "Enter some text"
+msgstr "أدخل نصا"
+
+#: inc/nav.php:450
+msgid "This select option is only for 1st level menu"
+msgstr "هذا الخيار هو اختيار فقط للمستوي الأول من القائمة"
+
+#: inc/nav.php:456
+msgid "In parent add bigger value and in 2nd level add small value"
+msgstr "في الأصل أضافه قيمه أكبر وفي المستوي الثاني أضافه قيمه صغيره"
+
+#: inc/nav.php:462
+msgid "Menu Icons (Font Awesome Icons). "
+msgstr "أيقونات القائمة (الخط أيقونات رهيبه)."
+
+#: inc/nav.php:469
+msgid "Select Options - For simple menu only"
+msgstr "اختر الخيارات-للقائمة البسيطة فقط"
+
+#: inc/options.php:22 inc/options.php:23
+msgid "Propertya Options"
+msgstr "خيارات الملكية(أ)"
+
+#: inc/options.php:106
+msgid "Theme Settings"
+msgstr "اعدادات القالب"
+
+#: inc/options.php:108
+msgid "These are really basic fields to setup theme!"
+msgstr "هذه هي المجالات الاساسيه حقا لموضوع الاعداد!"
+
+#: inc/options.php:114 inc/options.php:4220
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+#: inc/options.php:123
+msgid "Show Site Preloader"
+msgstr "إظهار أداة التحميل المسبق للموقع"
+
+#: inc/options.php:125
+msgid "Trun on or off site loader."
+msgstr "Trun أو إيقاف تشغيل محمل الموقع."
+
+#: inc/options.php:131
+msgid "Theme Main (Primary) Color"
+msgstr "السمة الرئيسية (الاساسيه) اللون"
+
+#: inc/options.php:132
+msgid "Theme  main color (default: #2296f9) hover color as well."
+msgstr "اللون الرئيسي للسمة (الافتراضي: #2296f9) يحوم اللون أيضا."
+
+#: inc/options.php:140
+msgid "Theme Buttons Colors"
+msgstr "ألوان أزرار السمات"
+
+#: inc/options.php:150
+msgid "Demo Mode"
+msgstr "الوضع التجريبي"
+
+#: inc/options.php:152 inc/options.php:159
+msgid "Only for demo purpose don't enable on your site."
+msgstr "فقط لغرض العرض التوضيحي لا يتم تمكينه على موقعك."
+
+#: inc/options.php:157
+msgid "Dashboard Menu"
+msgstr "قائمة لوحة التحكم"
+
+#: inc/options.php:169
+msgid "Header Settings"
+msgstr "إعدادات الهيدر"
+
+#: inc/options.php:180
+msgid "Header Layout"
+msgstr "مخطط الرأس"
+
+#: inc/options.php:181
+msgid "Select Header Layout you want to show."
+msgstr "حدد تخطيط الرأس الذي تريد إظهاره."
+
+#: inc/options.php:184
+msgid "Header Layout 1"
+msgstr "تصميم رأس الصفحة 1"
+
+#: inc/options.php:188
+msgid "Header Layout 2"
+msgstr "تصميم رأس الصفحة 2"
+
+#: inc/options.php:198
+msgid "Logo"
+msgstr "الشعار"
+
+#: inc/options.php:200
+msgid "Upload main logo of your website."
+msgstr "قم بتحميل الشعار الرئيسي لموقع الويب الخاص بك."
+
+#: inc/options.php:209 inc/options.php:383
+msgid "Topbar Pages Link"
+msgstr "رابط صفحات الشريط العلوي"
+
+#: inc/options.php:217
+msgid "Transparent Logo"
+msgstr "شعار شفاف"
+
+#: inc/options.php:219
+msgid "Upload transparent logo of your website."
+msgstr "قم بتحميل شعار شفاف لموقع الويب الخاص بك."
+
+#: inc/options.php:227
+msgid "Small Logo For Mobile Devices"
+msgstr "شعار صغير للأجهزة المحمولة"
+
+#: inc/options.php:229
+msgid "Logo that shows at mobile resolution."
+msgstr "شعار يظهر بدقة الجوال."
+
+#: inc/options.php:237
+msgid "Show Search Button"
+msgstr "الزر \"إظهار البحث\""
+
+#: inc/options.php:243 inc/options.php:265 inc/options.php:273
+#: inc/options.php:2786
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: inc/options.php:244
+msgid "Search Properties"
+msgstr "البحث عن العقارات"
+
+#: inc/options.php:251
+msgid "Select Page Link"
+msgstr "حدد رابط الصفحة"
+
+#: inc/options.php:252 inc/options.php:3498 inc/options.php:3666
+msgid "Select page you want to show."
+msgstr "حدد الصفحة التي تريد عرضها."
+
+#: inc/options.php:259
+msgid "Show Add Property Button"
+msgstr "الزر \"إظهار إضافة خاصية\""
+
+#: inc/options.php:266
+msgid "Add property"
+msgstr "أضافه عقــار"
+
+#: inc/options.php:274
+msgid "Call us"
+msgstr "اتصل بنا"
+
+#: inc/options.php:280
+msgid "Contact Number/Anything"
+msgstr "رقم الاتصال / أي شيء"
+
+#: inc/options.php:281
+msgid "+92-123-4567"
+msgstr "+92-123-4567"
+
+#: inc/options.php:288
+msgid "Icon"
+msgstr "أيقونة"
+
+#: inc/options.php:290
+msgid "Icon for text. Recommended size 35x35"
+msgstr "أيقونة للنص. الحجم الموصى به 35x35"
+
+#: inc/options.php:301
+msgid "Topbar Settings"
+msgstr "Topbar Settings"
+
+#: inc/options.php:312
+msgid "Show Topbar"
+msgstr "اظهار  الشريط العلوي"
+
+#: inc/options.php:319
+msgid "Topbar Background Color"
+msgstr "لون خلفية شريط العلوي"
+
+#: inc/options.php:328
+msgid "Topbar Menu Color"
+msgstr "لون قائمة توببار"
+
+#: inc/options.php:337
+msgid "Topbar Layout"
+msgstr "تخطيط الشريط العلوي"
+
+#: inc/options.php:338
+msgid "Select Topbar Layout you want to show."
+msgstr "حدد تخطيط الشريط العلوي الذي تريد إظهاره."
+
+#: inc/options.php:348
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: inc/options.php:349
+msgid "xyz@email.com"
+msgstr "xyz@email.com"
+
+#: inc/options.php:359
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+#: inc/options.php:360
+msgid "+55 45 2458651"
+msgstr "+55 45 2458651"
+
+#: inc/options.php:371
+msgid "Monday - Saturday 8AM - 7PM"
+msgstr "الاثنين - السبت 8 صباحا - 7 مساء"
+
+#: inc/options.php:397
+msgid "Breadcrumbs"
+msgstr "شريط التسلسل"
+
+#: inc/options.php:406
+msgid "Breadcrumb Type"
+msgstr "نوع الشريط التفصيلي"
+
+#: inc/options.php:407
+msgid "Select breadcrumb Layout you want to show."
+msgstr "حدد تخطيط مسار التنقل الذي تريد إظهاره."
+
+#: inc/options.php:410
+msgid "Minimal"
+msgstr "الحد الادنى"
+
+#: inc/options.php:414 inc/options.php:1914
+msgid "Classic"
+msgstr "كلاسيك"
+
+#: inc/options.php:424
+msgid "Breadcrumb Background Image"
+msgstr "Breadcrumb Background Image"
+
+#: inc/options.php:434
+msgid "Dashboard Settings"
+msgstr "اعدادات لوحة التحكم"
+
+#: inc/options.php:436
+msgid "Here you can setup the dashboard settings"
+msgstr "هنا يمكنك إعداد إعدادات لوحة المعلومات"
+
+#: inc/options.php:444
+msgid "Agency Profile Fields"
+msgstr "حقول ملف تعريف الوكالة"
+
+#: inc/options.php:454 inc/options.php:508 inc/options.php:569
+#: inc/options.php:4351
+msgid "Form Required Fields"
+msgstr "حقول النموذج المطلوبة"
+
+#: inc/options.php:455 inc/options.php:456
+msgid "Select the Mandatory Fields for agency."
+msgstr "حدد الحقول الإلزامية للوكالة."
+
+#: inc/options.php:499
+msgid "Agent Profile Fields"
+msgstr "حقول ملف تعريف الوكيل"
+
+#: inc/options.php:509 inc/options.php:510
+msgid "Select the Mandatory Fields for agent."
+msgstr "حدد الحقول الإلزامية للوكيل."
+
+#: inc/options.php:522 template-parts/dashboard/profile/agent.php:167
+msgid "Position"
+msgstr "الموضع"
+
+#: inc/options.php:560
+msgid "Buyer Profile Fields"
+msgstr "حقول ملف تعريف المشتري"
+
+#: inc/options.php:570 inc/options.php:571
+msgid "Select the Mandatory Fields for buyer."
+msgstr "حدد الحقول الإلزامية للمشتري."
+
+#: inc/options.php:600
+msgid "Detail Page General Settings"
+msgstr "الإعدادات العامة لصفحة التفاصيل"
+
+#: inc/options.php:609
+msgid "Menu Section Text"
+msgstr "نص قسم القائمة"
+
+#: inc/options.php:616
+msgid "Overview Menu"
+msgstr "قائمة نظرة عامة"
+
+#: inc/options.php:617 inc/options.php:661 inc/options.php:853
+#: inc/options.php:900 inc/options.php:945
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: inc/options.php:622
+msgid "Listings Menu"
+msgstr "قائمة القوائم"
+
+#: inc/options.php:623 inc/options.php:667
+msgid "Listings"
+msgstr "الإعلانات"
+
+#: inc/options.php:628
+msgid "Daily Views Menu"
+msgstr "قائمة المشاهدات اليومية"
+
+#: inc/options.php:629 inc/options.php:673
+msgid "Daily Views"
+msgstr "مشاهدات يومية"
+
+#: inc/options.php:634
+msgid "Agents Menu"
+msgstr "قائمة الوكلاء"
+
+#: inc/options.php:640
+msgid "Reviews Menu"
+msgstr "قائمة المراجعات"
+
+#: inc/options.php:641 inc/options.php:722 inc/options.php:857
+#: inc/options.php:903 inc/options.php:948 inc/options.php:1949
+#: inc/options.php:1981 woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "التقييمات"
+
+#: inc/options.php:646
+msgid "Write a Review Menu"
+msgstr "كتابة قائمة التعليقات"
+
+#: inc/options.php:653
+msgid "Sections Headings Text"
+msgstr "نص عناوين الأقسام"
+
+#: inc/options.php:660
+msgid "Overview Section"
+msgstr "قسم نظرة عامة"
+
+#: inc/options.php:666
+msgid "Listings Section"
+msgstr "قسم القوائم"
+
+#: inc/options.php:672
+msgid "Daily Views Section"
+msgstr "قسم المشاهدات اليومية"
+
+#: inc/options.php:678
+msgid "Agents Section"
+msgstr "قسم الوكلاء"
+
+#: inc/options.php:685
+msgid "Write a Review Section"
+msgstr "اكتب قسم المراجعة"
+
+#: inc/options.php:693
+msgid "Sidebar Generic Sections"
+msgstr "أقسام الشريط الجانبي العامة"
+
+#: inc/options.php:700
+msgid "Contact Info Widget"
+msgstr "ودجيت معلومات الاتصال"
+
+#: inc/options.php:701 inc/options.php:871 inc/options.php:917
+#: inc/options.php:962
+msgid "Contact Info"
+msgstr "معلومات الاتصال"
+
+#: inc/options.php:707
+msgid "Featured Listings Widget"
+msgstr "القطعة القوائم المميزة"
+
+#: inc/options.php:708 inc/options.php:872 inc/options.php:918
+#: inc/options.php:963 inc/options.php:2201 inc/options.php:2242
+msgid "Featured Listings"
+msgstr "الإعلانات المميزة"
+
+#: inc/options.php:714
+msgid "Advertizment Widget"
+msgstr "القطعة الإعلانية"
+
+#: inc/options.php:715 inc/options.php:2260
+msgid "Advertizment"
+msgstr "الاعلان"
+
+#: inc/options.php:721
+msgid "Reviews Widget"
+msgstr "استعراض القطعة"
+
+#: inc/options.php:728
+msgid "Most Viewed Widget"
+msgstr "الأكثر مشاهدة"
+
+#: inc/options.php:729
+msgid "Most Viewed Listings"
+msgstr "القوائم الأكثر مشاهده"
+
+#: inc/options.php:737
+msgid "Sidebar Contact Form Settings"
+msgstr "إعدادات نموذج جهة اتصال الشريط الجانبي"
+
+#: inc/options.php:743
+msgid "Contact Author Subject"
+msgstr "الاتصال بموضوع المؤلف"
+
+#: inc/options.php:744
+msgid "You have a new message from profile"
+msgstr "لديك رسالة جديدة من الملف الشخصي"
+
+#: inc/options.php:749
+msgid "Contact Author Message"
+msgstr "اتصل برسالة المؤلف"
+
+#: inc/options.php:755
+msgid ""
+"%site_name% , %display_name%, %sender_name%,  %sender_email% , "
+"%sender_message%, %profile_link% will be translated accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، %sender_name٪ ، %sender_email٪ ، "
+"%sender_message٪ ، %profile_link٪ وفقا لذلك."
+
+#: inc/options.php:840 inc/options.php:848
+msgid "Agency Detail Page"
+msgstr "صفحة تفاصيل الوكالة"
+
+#: inc/options.php:849 inc/options.php:896 inc/options.php:941
+msgid "Organize how you want the layout to appear on main site"
+msgstr "تنظيم الطريقة التي تريد أن يظهر بها التخطيط على الموقع الرئيسي"
+
+#: inc/options.php:854 inc/options.php:901 inc/options.php:946
+msgid "All Properties"
+msgstr "كل العقارات"
+
+#: inc/options.php:855
+msgid "All Agents"
+msgstr "كل الوكلاء"
+
+#: inc/options.php:858 inc/options.php:904 inc/options.php:949
+msgid "Write A Reviews"
+msgstr "أكتب رأيك"
+
+#: inc/options.php:866
+msgid "Agency Detail Page Sidebar"
+msgstr "الشريط الجانبي لصفحة تفاصيل الوكالة"
+
+#: inc/options.php:867 inc/options.php:913 inc/options.php:958
+#: inc/options.php:2194
+msgid "Organize how you want the layout to appear on sidebar"
+msgstr "تنظيم الطريقة التي تريد أن يظهر بها التخطيط على الشريط الجانبي"
+
+#: inc/options.php:873 inc/options.php:919 inc/options.php:964
+#: inc/options.php:2204
+msgid "Advertizment 300x250"
+msgstr "الإعلان 300x250"
+
+#: inc/options.php:874 inc/options.php:920 inc/options.php:965
+#: inc/options.php:1948 inc/options.php:1980
+msgid "Reviews Score"
+msgstr "نقاط التعليقات"
+
+#: inc/options.php:875 inc/options.php:921 inc/options.php:966
+#: inc/options.php:2248
+msgid "Contact Seller"
+msgstr "تواصل مع البائع"
+
+#: inc/options.php:876 inc/options.php:922 inc/options.php:967
+msgid "Most Viewed"
+msgstr "الأكثر مشاهدة"
+
+#: inc/options.php:877 inc/options.php:923 inc/options.php:968
+#: inc/options.php:2206
+msgid "Advertizment 300x600"
+msgstr "الإعلان 300x600"
+
+#: inc/options.php:887 inc/options.php:895
+msgid "Agent Detail Page"
+msgstr "صفحة تفاصيل الوكيل"
+
+#: inc/options.php:912
+msgid "Agent Detail Page Sidebar"
+msgstr "تفاصيل الوكيل الصفحة الشريط الجانبي"
+
+#: inc/options.php:932
+msgid "Buyer Detail Page"
+msgstr "صفحة تفاصيل المشتري"
+
+#: inc/options.php:940
+msgid "Buyer/Individual Profile Detail Page"
+msgstr "صفحة تفاصيل ملف تعريف المشتري / الفرد"
+
+#: inc/options.php:957
+msgid "Buyer/Individual Profile Detail Page Sidebar"
+msgstr "المشتري / الفرد تفاصيل الملف الشخصي الصفحة الشريط الجانبي"
+
+#: inc/options.php:979
+msgid "Reviews Settings"
+msgstr "استعراض الإعدادات"
+
+#: inc/options.php:987
+msgid "Allow Agencies & Agents?"
+msgstr "هل تسمح للوكالات والوكلاء؟"
+
+#: inc/options.php:989
+msgid "Allow Agencies & Agents To Post Reviews."
+msgstr "السماح للوكالات والوكلاء بنشر المراجعات."
+
+#: inc/options.php:994
+msgid "First Feild Text"
+msgstr "أول نص فيلد"
+
+#: inc/options.php:995
+msgid "Responsiveness"
+msgstr "إستجابة"
+
+#: inc/options.php:1000
+msgid "Second Field Text"
+msgstr "نص الحقل الثاني"
+
+#: inc/options.php:1001
+msgid "Professionalism & Communication"
+msgstr "الاحتراف والتواصل"
+
+#: inc/options.php:1006
+msgid "Third Field Text"
+msgstr "نص الحقل الثالث"
+
+#: inc/options.php:1007
+msgid "Market Expertise"
+msgstr "خبرة السوق"
+
+#: inc/options.php:1012
+msgid "Fourth Field Text"
+msgstr "نص الحقل الرابع"
+
+#: inc/options.php:1013
+msgid "Level of Services"
+msgstr "مستوى الخدمات"
+
+#: inc/options.php:1018
+msgid "Recommend Field Text"
+msgstr "التوصية بنص الحقل"
+
+#: inc/options.php:1019
+msgid "Would you recommend this agent(agency) to a friend?"
+msgstr "هل تنصح هذا الوكيل(وكالة) لصديق?"
+
+#: inc/options.php:1024
+msgid "Did You Purchase Field Text"
+msgstr "هل قمت بشراء نص الحقل"
+
+#: inc/options.php:1025
+msgid "Did you purchase a property from this agent(agency)?"
+msgstr "هل اشتريت عقارا من هذا الوكيل (الوكالة)؟"
+
+#: inc/options.php:1030
+msgid "Title Field Text"
+msgstr "نص حقل العنوان"
+
+#: inc/options.php:1031 inc/options.php:4859
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/options.php:1036
+msgid "Review Field Text"
+msgstr "مراجعة نص الحقل"
+
+#: inc/options.php:1043
+msgid "Number of recommendations badge"
+msgstr "شارة عدد التوصيات"
+
+#: inc/options.php:1044
+msgid ""
+"Show recommended badge on author profile after X numbers of recommendations "
+"by users"
+msgstr ""
+"إظهار الشارة الموصى بها في الملف الشخصي للمؤلف بعد X عدد من التوصيات من قبل "
+"المستخدمين"
+
+#: inc/options.php:1045 inc/options.php:1139 inc/options.php:1148
+#: inc/options.php:1157 inc/options.php:1167 inc/options.php:4230
+msgid "This must be numeric."
+msgstr "وهذا يجب أن تكون رقمية (لا px)."
+
+#: inc/options.php:1056
+msgid "Membership Settings"
+msgstr "إعدادات العضوية"
+
+#: inc/options.php:1058
+msgid "Here you can setup packages settings"
+msgstr "هنا يمكنك إعداد إعدادات الحزم"
+
+#: inc/options.php:1065
+msgid "Membership Type"
+msgstr "أنواع الاشتراكات"
+
+#: inc/options.php:1067
+msgid "Built In System"
+msgstr "نظام مدمج"
+
+#: inc/options.php:1068
+msgid "WooCommerce Packages"
+msgstr "باقات ووكومرس"
+
+#: inc/options.php:1076
+msgid "Select Packages Page"
+msgstr "حدد صفحة الحزم"
+
+#: inc/options.php:1083
+msgid "Package Type"
+msgstr "نوع الحزمة"
+
+#: inc/options.php:1085
+msgid "Free"
+msgstr "مجاني"
+
+#: inc/options.php:1086
+msgid "Per Listing"
+msgstr "لكل قائمة"
+
+#: inc/options.php:1094
+msgid "Packages Order Approved By"
+msgstr "ترتيب الحزم المعتمدة من قبل"
+
+#: inc/options.php:1096 inc/options.php:3148
+msgid "Auto Approve"
+msgstr "حزمه موافقه السيارات من أجل"
+
+#: inc/options.php:1097 inc/options.php:3149
+msgid "Admin Approve"
+msgstr "الاتصال بالمشرف"
+
+#: inc/options.php:1107
+msgid "Property Submission Approval"
+msgstr "الموافقة على تقديم العقار"
+
+#: inc/options.php:1114
+msgid "Property Edit/Update Approval"
+msgstr "الموافقة على تعديل / تحديث العقار"
+
+#: inc/options.php:1122
+msgid "Submission Approval After Payment"
+msgstr "الموافقة على التقديم بعد الدفع"
+
+#: inc/options.php:1129
+msgid "Currency For Paid Submission"
+msgstr "عملة التقديم المدفوع"
+
+#: inc/options.php:1138
+msgid "Price for Submission"
+msgstr "سعر التقديم"
+
+#: inc/options.php:1147
+msgid "Featured Listing Price"
+msgstr "سعر الإدراج المميز"
+
+#: inc/options.php:1156
+msgid "Featured Listing Expiry ( Days )"
+msgstr "انتهاء صلاحية القائمة المميزة ( أيام )"
+
+#: inc/options.php:1160 inc/options.php:1170
+msgid "Expiry in days, -1 means never expired."
+msgstr "انتهاء الصلاحية بالأيام--1 يعني أبدا انتهت."
+
+#: inc/options.php:1166
+msgid "Listing Expiry ( Days )"
+msgstr "انتهاء صلاحية الإدراج ( أيام )"
+
+#: inc/options.php:1179
+msgid "Stripe Settings"
+msgstr "إعدادات Stripe"
+
+#: inc/options.php:1187
+msgid "Enable Stripe?"
+msgstr "تمكين الشريط؟"
+
+#: inc/options.php:1189
+msgid "You can enable or disable Stripe payment buttons."
+msgstr "يمكنك تمكين أو تعطيل أزرار الدفع Stripe."
+
+#: inc/options.php:1195
+msgid "Stripe Publishable Key"
+msgstr "شريط النشر مفتاح"
+
+#: inc/options.php:1201
+msgid "Stripe Secret Key"
+msgstr "Stripe Secret Key"
+
+#: inc/options.php:1209
+msgid "Paypal Settings"
+msgstr "إعدادات Paypal"
+
+#: inc/options.php:1218
+msgid "Enable Paypal?"
+msgstr "هل تريد تفعيل Paypal؟"
+
+#: inc/options.php:1220
+msgid "You can enable or disable Paypal payment buttons."
+msgstr "يمكنك تمكين أو تعطيل أزرار الدفع PayPal."
+
+#: inc/options.php:1225
+msgid "Paypal Mode"
+msgstr "وضع البايبال"
+
+#: inc/options.php:1227
+msgid "Live"
+msgstr "مباشر"
+
+#: inc/options.php:1228
+msgid "Sandbox"
+msgstr "وضع الحماية"
+
+#: inc/options.php:1235
+msgid "Paypal Client Id"
+msgstr "PayPal معرف العميل"
+
+#: inc/options.php:1236
+msgid "Enter you paypal client id here"
+msgstr "أدخل معرف العميل PayPal هنا"
+
+#: inc/options.php:1242
+msgid "Paypal Secret"
+msgstr "سر PayPal"
+
+#: inc/options.php:1243
+msgid "Enter you paypal Secret id here"
+msgstr "أدخل لك PayPal معرف سري هنا"
+
+#: inc/options.php:1249
+msgid "Razorpay Settings"
+msgstr "إعدادات Razorpay"
+
+#: inc/options.php:1258
+msgid "Enable Razorpay?"
+msgstr "تمكين Razorpay؟"
+
+#: inc/options.php:1260
+msgid "You can enable or disable Razorpay payment buttons."
+msgstr "يمكنك تمكين أو تعطيل أزرار الدفع Razorpay."
+
+#: inc/options.php:1265
+msgid "Razorpay Key Id"
+msgstr "معرف مفتاح Razorpay"
+
+#: inc/options.php:1266
+msgid "Enter you Razorpay Key ID here"
+msgstr "أدخل معرف مفتاح Razorpay الخاص بك هنا"
+
+#: inc/options.php:1272
+msgid "Razorpay Key Secret"
+msgstr "رازورباي كي سيكريت"
+
+#: inc/options.php:1273
+msgid "Enter you Razorpay Secret id here"
+msgstr "أدخل لك معرف Razorpay السري هنا"
+
+#: inc/options.php:1279
+msgid "Order Page"
+msgstr "صفحة الطلب"
+
+#: inc/options.php:1288 inc/options.php:3554 inc/options.php:3627
+msgid "Main Title"
+msgstr "العنوان الرئيسي"
+
+#: inc/options.php:1289
+msgid "You listing have been posted!"
+msgstr "تم نشر قائمتك!"
+
+#: inc/options.php:1294
+msgid "Editor Text"
+msgstr "نص المحرر"
+
+#: inc/options.php:1295
+msgid "Subtitle text would go here."
+msgstr "عنوان النص الفرعي سوف يكون هنا."
+
+#: inc/options.php:1296
+msgid ""
+"We just sent your receipt to your email address, and your items will be on "
+"their way shortly.."
+msgstr ""
+"لقد أرسلنا للتو إيصالك إلى عنوان بريدك الإلكتروني ، وستكون العناصر الخاصة بك "
+"في طريقها قريبا .."
+
+#: inc/options.php:1309
+msgid "Featured Listing Expiry"
+msgstr "انتهاء صلاحية القائمة المميزة"
+
+#: inc/options.php:1318
+msgid "Featured Ad Expiry Subject"
+msgstr "موضوع انتهاء صلاحية الإعلان المميز"
+
+#: inc/options.php:1319
+msgid "Featured Property Expiry Notification"
+msgstr "إشعار انتهاء صلاحية العقار المميز"
+
+#: inc/options.php:1324
+msgid "Featured Ad Expiry Message"
+msgstr "رسالة انتهاء صلاحية الإعلان المميز"
+
+#: inc/options.php:1330 inc/options.php:2290
+msgid ""
+"%site_name% , %display_name%, %sender_name%,  %sender_email% , "
+"%sender_message%,  %listing_title%,  %listing_link% will be translated "
+"accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، %sender_name٪ ، %sender_email٪ ، "
+"%sender_message٪ ، %listing_title٪ ، %listing_link٪ وفقا لذلك."
+
+#: inc/options.php:1416
+msgid "Regular Listing Expiry"
+msgstr "انتهاء صلاحية الإدراج العادي"
+
+#: inc/options.php:1426
+msgid "Listing Expiry Type"
+msgstr "نوع انتهاء صلاحية الإدراج"
+
+#: inc/options.php:1428
+msgid "Trash"
+msgstr "سلة المهملات"
+
+#: inc/options.php:1432
+msgid "Trash will delete the listing from the site permanently."
+msgstr "ستقوم المهملات بحذف القائمة من الموقع بشكل دائم."
+
+#: inc/options.php:1438
+msgid "Regular Listing Expiry Subject"
+msgstr "موضوع انتهاء صلاحية الإدراج العادي"
+
+#: inc/options.php:1439
+msgid "Regular Listing Expiry Notification"
+msgstr "إشعار انتهاء صلاحية الإدراج المنتظم"
+
+#: inc/options.php:1444
+msgid "Regular Listing Expiry Message"
+msgstr "رسالة انتهاء صلاحية القائمة العادية"
+
+#: inc/options.php:1450
+msgid "%site_name% , %display_name%, will be translated accordingly."
+msgstr "%site_name% ،% display_name% ،% بريد الكتروني سيترجم وفقا لذلك."
+
+#: inc/options.php:1530
+msgid "Expiry Cron Jobs"
+msgstr "وظائف كرون منتهية الصلاحية"
+
+#: inc/options.php:1539
+msgid "Enable Regular Listings Cron Jobs"
+msgstr "تمكين القوائم العادية وظائف كرون"
+
+#: inc/options.php:1540 inc/options.php:1557
+msgid ""
+"Note : This functionality works hiddenly check all the listings and trash/"
+"expires old listings. This option takes a lot of loads so anyone who wishes "
+"to choose this option must have a good server."
+msgstr ""
+"ملاحظة: تعمل هذه الوظيفة بشكل مخفي للتحقق من جميع القوائم والمهملات / تنتهي "
+"صلاحية القوائم القديمة. يستغرق هذا الخيار الكثير من الأحمال ، لذا يجب أن "
+"يكون لدى أي شخص يرغب في اختيار هذا الخيار خادم جيد."
+
+#: inc/options.php:1547 inc/options.php:1565
+msgid "Cron Interval"
+msgstr "كرون الفاصل الزمني"
+
+#: inc/options.php:1548 inc/options.php:1566
+msgid "Cron job run after this Interval"
+msgstr "كرون تشغيل وظيفة بعد هذا الفاصل الزمني"
+
+#: inc/options.php:1556
+msgid "Enable Featured Listings Cron Jobs"
+msgstr "تمكين القوائم المميزة وظائف Cron"
+
+#: inc/options.php:1559
+msgid "Check featured listing expiry automatically"
+msgstr "التحقق من انتهاء صلاحية بطاقة البيانات المميزة تلقائيا"
+
+#: inc/options.php:1577
+msgid "Admin Options"
+msgstr "خيارات المدير"
+
+#: inc/options.php:1585
+msgid "Assign Free Package On Registration"
+msgstr "تعيين حزمه مجانية علي التسجيل"
+
+#: inc/options.php:1591
+msgid "Package Alert"
+msgstr "حزمه التنبيه"
+
+#: inc/options.php:1593
+msgid ""
+"This option will only work when ( WooCommerce Plugin ) is activeted & "
+"( Propertya Packages ) are created."
+msgstr ""
+"لن يعمل هذا الخيار إلا عند تنشيط ( البرنامج المساعد WooCommerce ) يتم تنشيط "
+"( Propertya Packages ) يتم إنشاؤه."
+
+#: inc/options.php:1614 inc/theme_utilities.php:1284
+msgid "Select Package"
+msgstr "‫اختيار باقة الاشتراك"
+
+#: inc/options.php:1621
+msgid "Show All Telephone Numbers"
+msgstr "إظهار جميع أرقام الهواتف"
+
+#: inc/options.php:1625
+msgid "Show all or selective country mobile number on listing contact forms."
+msgstr ""
+"إظهار رقم الهاتف المحمول الخاص بكل البلد أو رقم الهاتف المحمول الانتقائي في "
+"نماذج الاتصال الخاصة بالإدراج."
+
+#: inc/options.php:1630 inc/options.php:2436
+msgid "Chart Type"
+msgstr "نوع الرسم البياني"
+
+#: inc/options.php:1892
+msgid "Listing Detail"
+msgstr "تفاصيل المدونة"
+
+#: inc/options.php:1899
+msgid "Detail Page Settings"
+msgstr "إعدادات صفحة التفاصيل"
+
+#: inc/options.php:1907
+msgid "Listing detail Page Style"
+msgstr "تفاصيل القائمة نمط الصفحة"
+
+#: inc/options.php:1910
+msgid "Elegent"
+msgstr "Elegent"
+
+#: inc/options.php:1924 inc/options.php:1958
+msgid "Page Layout Manager"
+msgstr "مدير تخطيط الصفحة"
+
+#: inc/options.php:1925 inc/options.php:1959
+msgid "Organize how you want the layout to appear on the listing page"
+msgstr "تنظيم الطريقة التي تريد أن يظهر بها التخطيط في صفحة القائمة"
+
+#: inc/options.php:1930
+msgid "Slider"
+msgstr "إعدادات المنزلق المميزة"
+
+#: inc/options.php:1931 inc/options.php:1964
+msgid "Ad Slot 1"
+msgstr "فتحة الإعلان 1"
+
+#: inc/options.php:1932 inc/options.php:1965 inc/options.php:1998
+#: inc/options.php:5048
+msgid "Description"
+msgstr "الوصف"
+
+#: inc/options.php:1933 inc/options.php:1966 inc/options.php:2004
+msgid "Details"
+msgstr "تفاصيل"
+
+#: inc/options.php:1934 inc/options.php:1983
+msgid "Custom Field"
+msgstr "حقل مخصص"
+
+#: inc/options.php:1935 inc/options.php:1967 inc/options.php:2010
+msgid "Additional Details"
+msgstr "تفاصيل اضافية"
+
+#: inc/options.php:1936 inc/options.php:1968
+msgid "additional fields"
+msgstr "وظائف إضافية"
+
+#: inc/options.php:1938 inc/options.php:1970 inc/options.php:2022
+msgid "Features"
+msgstr "الميزات"
+
+#: inc/options.php:1941 inc/options.php:1973
+msgid "Nearby"
+msgstr "الأقرب"
+
+#: inc/options.php:1942 inc/options.php:1974
+msgid "WalkScore"
+msgstr "ووكسكور"
+
+#: inc/options.php:1943 inc/options.php:1975 inc/options.php:2052
+#: inc/options.php:4834
+msgid "360° Virtual Tour"
+msgstr "360 ° جولة افتراضية"
+
+#: inc/options.php:1944 inc/options.php:1976
+msgid "Page Views"
+msgstr "عدد مشاهدات الصفحة"
+
+#: inc/options.php:1945 inc/options.php:1977 inc/options.php:2064
+msgid "Schedule a Tour"
+msgstr "احجز موعدك لمعاينة العقار"
+
+#: inc/options.php:1946 inc/options.php:1978 inc/options.php:2070
+#: inc/options.php:2696
+msgid "Similar Listings"
+msgstr "عقارات مشابهة"
+
+#: inc/options.php:1947 inc/options.php:1979
+msgid "Ad Slot 2"
+msgstr "فتحة الإعلان 2"
+
+#: inc/options.php:1950 inc/options.php:1982
+msgid "Review Form"
+msgstr "نموذج المراجعة"
+
+#: inc/options.php:1991
+msgid "Listing Sections Text"
+msgstr "نص مقاطع القائمة"
+
+#: inc/options.php:1997
+msgid "Description Section"
+msgstr "قسم الوصف"
+
+#: inc/options.php:2003
+msgid "Details Section"
+msgstr "عنوان قسم التفاصيل"
+
+#: inc/options.php:2009
+msgid "Additional Details Section"
+msgstr "قسم التفاصيل الإضافية"
+
+#: inc/options.php:2015
+msgid "Address Section"
+msgstr "قسم العناوين"
+
+#: inc/options.php:2021
+msgid "Features Section"
+msgstr "قسم المزايا"
+
+#: inc/options.php:2027
+msgid "Floor Plans Section"
+msgstr "قسم مخططات الطوابق"
+
+#: inc/options.php:2033
+msgid "Attachments Section"
+msgstr "قسم المرفقات"
+
+#: inc/options.php:2039
+msgid "Nearby Section"
+msgstr "القسم المجاور"
+
+#: inc/options.php:2040
+msgid "What's NearBy"
+msgstr "ما هو قريب"
+
+#: inc/options.php:2045
+msgid "WalkScore Section"
+msgstr "قسم ووك سكور"
+
+#: inc/options.php:2046 inc/options.php:2561
+msgid "Walkscore"
+msgstr "مجموع نقاط مشي"
+
+#: inc/options.php:2051
+msgid "360° Virtual Tour Section"
+msgstr "قسم جولة افتراضية 360 درجة"
+
+#: inc/options.php:2057
+msgid "Page Views Section"
+msgstr "قسم مشاهدات الصفحة"
+
+#: inc/options.php:2058 inc/options.php:4303
+msgid "Statistics"
+msgstr "إحصائيات"
+
+#: inc/options.php:2063
+msgid "Schedule a Tour Section"
+msgstr "جدولة قسم جولة"
+
+#: inc/options.php:2069
+msgid "Similar Listings Section"
+msgstr "قسم القوائم المشابهة"
+
+#: inc/options.php:2075
+msgid "Review Forms Section"
+msgstr "قسم نماذج المراجعة"
+
+#: inc/options.php:2081
+msgid "Custom Fields Section"
+msgstr "بحث الحقول المخصصة"
+
+#: inc/options.php:2082
+msgid "Custom info"
+msgstr "معلومات مخصصة"
+
+#: inc/options.php:2088 inc/options.php:2094
+msgid "m&sup2;"
+msgstr "م²"
+
+#: inc/options.php:2099
+msgid "Property Floor Name"
+msgstr "اسم طابق العقار"
+
+#: inc/options.php:2100 inc/options.php:4967
+msgid "Ground Floor"
+msgstr "الطابق الأرضي"
+
+#: inc/options.php:2105
+msgid "Property Floor Price"
+msgstr "سعر طابق العقار"
+
+#: inc/options.php:2106
+msgid "2500"
+msgstr "2500"
+
+#: inc/options.php:2111 inc/options.php:4986
+msgid "Price Postfix"
+msgstr "نص يسبق السعر"
+
+#: inc/options.php:2112
+msgid "Per Month"
+msgstr "شهريًا"
+
+#: inc/options.php:2117
+msgid "Floor Size"
+msgstr "حجم الطابق"
+
+#: inc/options.php:2118
+msgid "1500"
+msgstr "1500"
+
+#: inc/options.php:2123 inc/options.php:5011
+msgid "Size Postfix"
+msgstr "نص يسبق الحجم"
+
+#: inc/options.php:2124
+msgid "Squre Foot"
+msgstr "سكور فوت"
+
+#: inc/options.php:2129
+msgid "Floor Bedrooms"
+msgstr "غرف النوم في الطابق"
+
+#: inc/options.php:2130 inc/options.php:2136
+msgid "2"
+msgstr "2"
+
+#: inc/options.php:2135
+msgid "Floor Bathrooms"
+msgstr "الحمامات الأرضية"
+
+#: inc/options.php:2148
+msgid "Near by Listing"
+msgstr "بالقرب من القائمة"
+
+#: inc/options.php:2156 inc/options.php:2158
+msgid "Add Distance for Nearby Location"
+msgstr "إضافة مسافة للموقع القريب"
+
+#: inc/options.php:2157
+msgid "Enter only numberic values. Do not add distance units here"
+msgstr "أدخل القيم الأرقامية فقط. لا تقم بإضافة وحدات المسافة هنا"
+
+#: inc/options.php:2164
+msgid "Destination in "
+msgstr "الوجهة في"
+
+#: inc/options.php:2165
+msgid "Nearby Destination Calculate in"
+msgstr "حساب الوجهة القريبة في"
+
+#: inc/options.php:2166
+msgid "Nearby Destination"
+msgstr "الوجهة القريبة"
+
+#: inc/options.php:2176 inc/options.php:2178
+msgid "No. of Nearby Listings"
+msgstr "لا. من القوائم القريبة"
+
+#: inc/options.php:2177
+msgid "Enter only numberic values"
+msgstr "إدخال القيم الترقيمية فقط"
+
+#: inc/options.php:2185 inc/options.php:2193
+msgid "Listing Page Sidebar"
+msgstr "الشريط الجانبي لصفحة القائمة"
+
+#: inc/options.php:2198
+msgid "Profile Card"
+msgstr "شكل الملف الشخصي"
+
+#: inc/options.php:2199 inc/options.php:2230
+msgid "Listing Address"
+msgstr "عنوان الإعلان"
+
+#: inc/options.php:2200
+msgid "Listing Stats"
+msgstr "إحصائيات الأنشطه"
+
+#: inc/options.php:2202
+msgid "Contact Form"
+msgstr "نموذج الاتصال"
+
+#: inc/options.php:2203
+msgid "Listing Nearby"
+msgstr "قائمة قريبة"
+
+#: inc/options.php:2205 inc/options.php:2266
+msgid "Recently Listed"
+msgstr "مدرج مؤخرا"
+
+#: inc/options.php:2207 inc/options.php:2272 inc/options.php:2715
+msgid "Mortgage Calculator"
+msgstr "حاسبة القرض العقاري"
+
+#: inc/options.php:2215
+msgid "Enable whatsapp button on detail page"
+msgstr "تمكين زر whatsapp في صفحة التفاصيل"
+
+#: inc/options.php:2221
+msgid "message"
+msgstr "رسالة"
+
+#: inc/options.php:2222
+msgid "Hello i am intrested in [ Rent Home ]"
+msgstr "مرحبا أنا مهتم في [ إيجار المنزل ]"
+
+#: inc/options.php:2223
+msgid "Default message you want to show"
+msgstr "الرسالة الافتراضية التي تريد إظهارها"
+
+#: inc/options.php:2229
+msgid "Listing Address Section"
+msgstr "قسم عنوان الإدراج"
+
+#: inc/options.php:2235
+msgid "Listing Stats Section"
+msgstr "قسم احصائيات القوائم"
+
+#: inc/options.php:2236
+msgid "Statics Info"
+msgstr "احصائيات المعلومات"
+
+#: inc/options.php:2241
+msgid "Featured Listings Section"
+msgstr "قسم القوائم المميزة"
+
+#: inc/options.php:2247
+msgid "Contact Seller Section"
+msgstr "اتصل بقسم البائع"
+
+#: inc/options.php:2253
+msgid "Near By Listings Section"
+msgstr "بالقرب من قسم القوائم"
+
+#: inc/options.php:2254
+msgid "Near By Listings"
+msgstr "قوائمي"
+
+#: inc/options.php:2259
+msgid "Advertizment Section"
+msgstr "قسم الإعلانات"
+
+#: inc/options.php:2265
+msgid "Recently Listed Section"
+msgstr "القسم المدرج مؤخرا"
+
+#: inc/options.php:2271
+msgid "Mortgage Calculator Section"
+msgstr "قسم حاسبة الرهن العقاري"
+
+#: inc/options.php:2278
+msgid "Contact Listing Author Subject"
+msgstr "قائمة الاتصال موضوع المؤلف"
+
+#: inc/options.php:2279
+msgid "You have a new message on  your listing"
+msgstr "لديك رسالة عرض جديدة في بطاقة بياناتك"
+
+#: inc/options.php:2284
+msgid "Contact Listing Author Message"
+msgstr "قائمة جهات الاتصال رسالة المؤلف"
+
+#: inc/options.php:2385
+msgid "Location Level Section"
+msgstr "قسم مستوى الموقع"
+
+#: inc/options.php:2386
+msgid "Location level text eg country,state town etc."
+msgstr "نص مستوى الموقع مثل البلد ومدينة الولاية وما إلى ذلك."
+
+#: inc/options.php:2393
+msgid "Location Level 1"
+msgstr "الموقع المستوى 1"
+
+#: inc/options.php:2394 inc/options.php:4940
+msgid "Country"
+msgstr "الدولة"
+
+#: inc/options.php:2400
+msgid "Location Level 2"
+msgstr "الموقع المستوى 2"
+
+#: inc/options.php:2401
+msgid "State"
+msgstr "المحافظة"
+
+#: inc/options.php:2406
+msgid "Location Level 3"
+msgstr "الموقع المستوى 3"
+
+#: inc/options.php:2407 woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr "المدينة"
+
+#: inc/options.php:2412
+msgid "Location Level 4"
+msgstr "الموقع المستوى 4"
+
+#: inc/options.php:2413
+msgid "Town "
+msgstr "المدينة"
+
+#: inc/options.php:2421
+msgid "Statistics Graph"
+msgstr "الرسم البياني الإحصائي"
+
+#: inc/options.php:2429
+msgid "Number Of Days"
+msgstr "عدد الأيام"
+
+#: inc/options.php:2430
+msgid "How many days will shown on the chart!: ."
+msgstr "كم يوما سيظهر على الرسم البياني!: ."
+
+#: inc/options.php:2438
+msgid "Bar Chart"
+msgstr "شريط الرسم البياني"
+
+#: inc/options.php:2439
+msgid "Line Chart"
+msgstr "خط الرسم البياني"
+
+#: inc/options.php:2447
+msgid "Background Color For Chart"
+msgstr "لون الخلفية للرسم البياني"
+
+#: inc/options.php:2453
+msgid "Defualt color: rgba(0, 174, 239, 0.2)"
+msgstr "ديفوالت اللون: rgba (0، 174، 239، 0.2)"
+
+#: inc/options.php:2459
+msgid "Border Color"
+msgstr "لون الحدود"
+
+#: inc/options.php:2460
+msgid "Graph Border Color (default: #00aeef)."
+msgstr "لون حدود الرسم البياني (افتراضي: #00aeef)."
+
+#: inc/options.php:2469
+msgid "Yelp Nearby Places"
+msgstr "Yelp الأماكن القريبة"
+
+#: inc/options.php:2477
+msgid "Yelp API Key"
+msgstr "مفتاح صرحة API"
+
+#: inc/options.php:2478 inc/options.php:2484
+msgid ""
+"How to Generate API Key! <a target=\"_blank\" href=\"//www.yelp.com/"
+"developers/v3/manage_app\">https://www.yelp.com/developers/v3/manage_app</a>"
+msgstr ""
+"كيفية إنشاء مفتاح API! <a target=\"_blank\" href=\"//www.yelp.com/developers/"
+"v3/manage_app\">https://www.yelp.com/developers/v3/manage_app</a>"
+
+#: inc/options.php:2483
+msgid "Yelp API Key Secret"
+msgstr "سر مفتاح واجهة برمجة تطبيقات الصرخة"
+
+#: inc/options.php:2490
+msgid "Select Yelp Terms"
+msgstr "حدد شروط Yelp"
+
+#: inc/options.php:2492 inc/theme_functions.php:427
+msgid "Active Life"
+msgstr "نشاطات متنوعة"
+
+#: inc/options.php:2493 inc/theme_functions.php:428
+msgid "Arts & Entertainment"
+msgstr "فنون&ترفيه"
+
+#: inc/options.php:2494 inc/theme_functions.php:429
+msgid "Automotive"
+msgstr "السيارات"
+
+#: inc/options.php:2495 inc/theme_functions.php:430
+msgid "Beauty & Spas"
+msgstr "الجمال &المنتجعات الصحية"
+
+#: inc/options.php:2496 inc/theme_functions.php:431
+msgid "Education"
+msgstr "التعليم"
+
+#: inc/options.php:2497 inc/theme_functions.php:432
+msgid "Event Planning & Services"
+msgstr "تخطيط الأحداث والخدمات"
+
+#: inc/options.php:2498 inc/theme_functions.php:433
+msgid "Financial Services"
+msgstr "الخدمات المالية"
+
+#: inc/options.php:2499 inc/theme_functions.php:434
+msgid "Food"
+msgstr "الطعام"
+
+#: inc/options.php:2500 inc/theme_functions.php:435
+msgid "Health & Medical"
+msgstr "الصحة &الطب"
+
+#: inc/options.php:2501 inc/theme_functions.php:436
+msgid "Home Services "
+msgstr "خدمات منزلية "
+
+#: inc/options.php:2502 inc/theme_functions.php:437
+msgid "Hotels & Travel"
+msgstr "الفنادق والسفر"
+
+#: inc/options.php:2503 inc/theme_functions.php:438
+msgid "Local Flavor"
+msgstr "نكهة محلية"
+
+#: inc/options.php:2504 inc/theme_functions.php:439
+msgid "Local Services"
+msgstr "الخدمات المحلية"
+
+#: inc/options.php:2505 inc/theme_functions.php:440
+msgid "Mass Media"
+msgstr "وسائل الاتصال الجماعي"
+
+#: inc/options.php:2506 inc/theme_functions.php:441
+msgid "Nightlife"
+msgstr "أماكن السهر"
+
+#: inc/options.php:2507 inc/theme_functions.php:442
+msgid "Pets"
+msgstr "الحيوانات ألاليفة"
+
+#: inc/options.php:2508 inc/theme_functions.php:443
+msgid "Professional Services"
+msgstr "الخدمات المهنية"
+
+#: inc/options.php:2509 inc/theme_functions.php:444
+msgid "Public Services & Government"
+msgstr "الخدمات العامة والحكومة"
+
+#: inc/options.php:2510 inc/theme_functions.php:445
+msgid "Real Estate"
+msgstr "العقارات"
+
+#: inc/options.php:2511 inc/theme_functions.php:446
+msgid "Religious Organizations"
+msgstr "المنظمات الدينية"
+
+#: inc/options.php:2512 inc/theme_functions.php:447
+msgid "Restaurants"
+msgstr "المطاعم"
+
+#: inc/options.php:2513 inc/theme_functions.php:448
+msgid "Shopping"
+msgstr "المشتريات"
+
+#: inc/options.php:2520
+msgid "Yelp Result Limit"
+msgstr "حد نتيجة الصرخة"
+
+#: inc/options.php:2527
+msgid "Yelp Distance Unit"
+msgstr "وحدة مسافة الصرخة"
+
+#: inc/options.php:2529 inc/theme_functions.php:493
+#: template-parts/listing-detial/sidebar/nearby.php:10
+msgid "Miles"
+msgstr "ميل"
+
+#: inc/options.php:2530 inc/theme_functions.php:494
+msgid "Feet"
+msgstr "أقدام"
+
+#: inc/options.php:2531 inc/theme_functions.php:495
+msgid "Yards"
+msgstr "ياردات"
+
+#: inc/options.php:2532 inc/theme_functions.php:496
+#: template-parts/listing-detial/sidebar/nearby.php:11
+msgid "Kilometers"
+msgstr "كيلومتر"
+
+#: inc/options.php:2541
+msgid "Yelp Fusion API Daily Access Limit!"
+msgstr "حد الوصول اليومي لواجهة برمجة تطبيقات Yelp Fusion!"
+
+#: inc/options.php:2543
+msgid ""
+"Yelp has daily 5,000 API calls per 24 hours limit. You can cache yelp data "
+"by selecting number of hours per call. It will improve your web speed and "
+"response. "
+msgstr ""
+"لدى Yelp 5,000 مكالمة API يوميا لكل 24 ساعة كحد أقصى. يمكنك تخزين بيانات "
+"yelp مؤقتا عن طريق تحديد عدد الساعات لكل مكالمة. سيؤدي ذلك إلى تحسين سرعة "
+"الويب والاستجابة الخاصة بك. "
+
+#: inc/options.php:2548
+msgid "Yelp Data Cache Hours"
+msgstr "ساعات ذاكرة التخزين المؤقت لبيانات Yelp"
+
+#: inc/options.php:2549
+msgid "Data will be cache for."
+msgstr "سيتم تخزين البيانات مؤقتا."
+
+#: inc/options.php:2550
+msgid ""
+"It means on a single API call data will be save for selected number of hours"
+msgstr ""
+"هذا يعني أنه سيتم حفظ بيانات استدعاء واجهة برمجة التطبيقات الفردية لعدد محدد "
+"من الساعات"
+
+#: inc/options.php:2569
+msgid "Yelp Walkscore API Key"
+msgstr "مفتاح Yelp Walkscore API"
+
+#: inc/options.php:2570
+msgid ""
+"Walk Score is supported in the United States, Canada, Australia, and New "
+"Zealand."
+msgstr "يتم دعم Walk Score في الولايات المتحدة وكندا وأستراليا ونيوزيلندا."
+
+#: inc/options.php:2571
+msgid ""
+"How to Generate API Key! <a target=\"_blank\" href=\"https://www.walkscore."
+"com/professional/api.php\">https://www.walkscore.com/professional/api.php</a>"
+msgstr ""
+"كيفية إنشاء مفتاح API! <a target=\"_blank\" href=\"https://www.walkscore.com/"
+"professional/api.php\">https://www.walkscore.com/professional/api.php</a>"
+
+#: inc/options.php:2576
+msgid "Schedule A Tour"
+msgstr "جدولة جولة"
+
+#: inc/options.php:2585
+msgid "Schedule a Tour Subject"
+msgstr "جدولة موضوع الجولة"
+
+#: inc/options.php:2586
+msgid "Schedule a meeting?"
+msgstr "هل تريد جدولة اجتماع؟"
+
+#: inc/options.php:2591
+msgid "Schedule a Tour Message"
+msgstr "جدولة رسالة جولة"
+
+#: inc/options.php:2597
+msgid ""
+"%site_name% , %display_name%, %meeting_date%, %sender_name%,  %sender_email"
+"% ,  %sender_contactno%,  %sender_message%,  %listing_title%,  %listing_link"
+"% will be translated accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، meeting_date٪ ، %sender_name٪ ، "
+"%sender_email٪ ، %sender_contactno٪ ، %sender_message٪ ، %listing_title٪ ، "
+"%listing_link٪ ، ٪ وفقا لذلك."
+
+#: inc/options.php:2704
+msgid "Similar Listing Limit"
+msgstr "حد مماثل للإدراج"
+
+#: inc/options.php:2705
+msgid "No of listings shown."
+msgstr "عدد القوائم المعروضة."
+
+#: inc/options.php:2723
+msgid "Default Currency Symbol"
+msgstr "رمز العملة الافتراضي"
+
+#: inc/options.php:2730
+msgid "Initial Value Field"
+msgstr "حقل القيمة الأولية"
+
+#: inc/options.php:2731
+msgid "Initial Value"
+msgstr "القيمة المبدئية"
+
+#: inc/options.php:2737
+msgid "Initial Value Field Hint"
+msgstr "تلميح حقل القيمة الأولية"
+
+#: inc/options.php:2738
+msgid "Estimated property value or loan amount"
+msgstr "القيمة التقديرية للعقار أو مبلغ القرض"
+
+#: inc/options.php:2744
+msgid "Down Payment Field"
+msgstr "عنوان حقل المالكين"
+
+#: inc/options.php:2745
+msgid "Down Payment"
+msgstr "المبلغ الإجمالي"
+
+#: inc/options.php:2751
+msgid "Down Payment Field Hint"
+msgstr "تلميح حقل الدفعة المقدمة"
+
+#: inc/options.php:2752
+msgid "Before the first payment period"
+msgstr "قبل فترة السداد الأولى"
+
+#: inc/options.php:2758
+msgid "Interest Rate Field"
+msgstr "عنوان حقل المالكين"
+
+#: inc/options.php:2759
+msgid "Interest Rate"
+msgstr "رابط بن ترست"
+
+#: inc/options.php:2765
+msgid "Interest Rate Field Hint"
+msgstr "تلميح حقل سعر الفائدة"
+
+#: inc/options.php:2766
+msgid "The average expected interest in % percentage"
+msgstr "متوسط الفائدة المتوقعة في % p"
+
+#: inc/options.php:2772
+msgid " Mortgage Term Field"
+msgstr " حقل مدة الرهن العقاري"
+
+#: inc/options.php:2773
+msgid "Loan or Mortgage term"
+msgstr "مدة القرض أو الرهن العقاري"
+
+#: inc/options.php:2779
+msgid "Mortgage Term Field Hint"
+msgstr "تلميح حقل مصطلح الرهن العقاري"
+
+#: inc/options.php:2780
+msgid "Repayment payment in years"
+msgstr "سداد السداد بالسنوات"
+
+#: inc/options.php:2787
+msgid "Generate Report"
+msgstr "انشاء تقرير"
+
+#: inc/options.php:2795
+msgid "Search Pages"
+msgstr "صفحات البحث"
+
+#: inc/options.php:2804
+msgid "Agency Search Page"
+msgstr "صفحة البحث عن وكالة"
+
+#: inc/options.php:2812
+msgid "Agency Layout Styles"
+msgstr "أنماط تخطيط الوكالة"
+
+#: inc/options.php:2815 inc/options.php:2863
+msgid "Grid 1"
+msgstr "عمود واحد"
+
+#: inc/options.php:2819 inc/options.php:2867
+msgid "Grid 2"
+msgstr "الشبكة 2"
+
+#: inc/options.php:2823
+msgid "Grid 3"
+msgstr "الشبكة 3"
+
+#: inc/options.php:2827
+msgid "Grid 4"
+msgstr "الشبكة 4"
+
+#: inc/options.php:2831 inc/options.php:2872
+msgid "List 1"
+msgstr "القائمة 1"
+
+#: inc/options.php:2835
+msgid "List 2"
+msgstr "قائمة 2"
+
+#: inc/options.php:2839
+msgid "List 3"
+msgstr "قائمة 3"
+
+#: inc/options.php:2852
+msgid "Agents Search Page"
+msgstr "صفحة البحث عن الوكلاء"
+
+#: inc/options.php:2860
+msgid "Agents Layout Styles"
+msgstr "أنماط تخطيط الوكلاء"
+
+#: inc/options.php:2883
+msgid "Property Search Page"
+msgstr "صفحة البحث عن عقار"
+
+#: inc/options.php:2892
+msgid "Search Page Layout"
+msgstr "تخطيط صفحة البحث"
+
+#: inc/options.php:2893 inc/options.php:2914
+msgid "Select search page layout type."
+msgstr "حدد نوع تخطيط صفحه البحث."
+
+#: inc/options.php:2896
+msgid "With Sidebar"
+msgstr "مع شريط جانبي"
+
+#: inc/options.php:2900
+msgid "With Map"
+msgstr "مع خريطة"
+
+#: inc/options.php:2904
+msgid "Modern"
+msgstr "عصري"
+
+#: inc/options.php:2913
+msgid "Select Layout Type"
+msgstr "تحديد نوع التخطيط"
+
+#: inc/options.php:2917
+msgid "Grid Style 1"
+msgstr "نمط الشبكة 1"
+
+#: inc/options.php:2921
+msgid "Grid Style 2"
+msgstr "نمط الشبكة 2"
+
+#: inc/options.php:2925
+msgid "Grid Style 3"
+msgstr "نمط الشبكة 3"
+
+#: inc/options.php:2929
+msgid "Grid Style 4"
+msgstr "نمط الشبكة 4"
+
+#: inc/options.php:2933
+msgid "Grid Style 5"
+msgstr "نمط الشبكة 5"
+
+#: inc/options.php:2937
+msgid "Grid Style 6"
+msgstr "نمط الشبكة 6"
+
+#: inc/options.php:2941
+msgid "Grid Style 7"
+msgstr "نمط الشبكة 7"
+
+#: inc/options.php:2945
+msgid "List Style 1"
+msgstr "القائمة 1"
+
+#: inc/options.php:2949
+msgid "List Style 2"
+msgstr "نمط القائمة 2"
+
+#: inc/options.php:2953
+msgid "List Style 3"
+msgstr "نمط القائمة 3"
+
+#: inc/options.php:2957
+msgid "List Style 4"
+msgstr "نمط القائمة 4"
+
+#: inc/options.php:2961
+msgid "List Style 5"
+msgstr "نمط القائمة 5"
+
+#: inc/options.php:2965
+msgid "List Style 6"
+msgstr "نمط القائمة 6"
+
+#: inc/options.php:2974
+msgid "Search By Near Me"
+msgstr "البحث عن طريق بالقرب مني"
+
+#: inc/options.php:2976 inc/options.php:2984 inc/options.php:2992
+#: inc/options.php:3000 inc/options.php:3008 inc/options.php:3016
+#: inc/options.php:3024 inc/options.php:3032 inc/options.php:3040
+#: inc/options.php:3048 inc/options.php:3056 inc/options.php:3064
+#: inc/options.php:3072 template-parts/dashboard/my-properties/create.php:476
+#: template-parts/dashboard/my-properties/create.php:673
+msgid "Enabled"
+msgstr "تمكين"
+
+#: inc/options.php:2977 inc/options.php:2985 inc/options.php:2993
+#: inc/options.php:3001 inc/options.php:3009 inc/options.php:3017
+#: inc/options.php:3025 inc/options.php:3033 inc/options.php:3041
+#: inc/options.php:3049 inc/options.php:3057 inc/options.php:3065
+#: inc/options.php:3073 template-parts/dashboard/my-properties/create.php:475
+#: template-parts/dashboard/my-properties/create.php:672
+msgid "Disabled"
+msgstr "معطل"
+
+#: inc/options.php:2982
+msgid "Search By Keyword"
+msgstr "البحث عن:"
+
+#: inc/options.php:2990
+#: template-parts/search/agent-search/search-with-sidebar.php:59
+msgid "Search By Type"
+msgstr "نوع خيارات البحث"
+
+#: inc/options.php:2998
+msgid "Search By Offer Type"
+msgstr "البحث حسب نوع العرض"
+
+#: inc/options.php:3006
+msgid "Search By Status"
+msgstr "البحث حسب الحالة"
+
+#: inc/options.php:3014
+#: template-parts/search/agency-search/search-with-sidebar.php:54
+#: template-parts/search/agent-search/search-with-sidebar.php:64
+msgid "Search By Location"
+msgstr "البحث حسب الموقع"
+
+#: inc/options.php:3022
+msgid "Search By ID"
+msgstr "البحث حسب معرف"
+
+#: inc/options.php:3030
+msgid "Search By Currency Type"
+msgstr "البحث حسب نوع العملة"
+
+#: inc/options.php:3038
+msgid "Search By Price"
+msgstr "صفحات البحث"
+
+#: inc/options.php:3046
+msgid "Search By Area"
+msgstr "البحث حسب المنطقة"
+
+#: inc/options.php:3054
+msgid "Search By Bedrooms"
+msgstr "البحث عن طريق غرف النوم"
+
+#: inc/options.php:3062
+msgid "Search By Bathrooms"
+msgstr "البحث عن طريق الحمامات"
+
+#: inc/options.php:3070
+msgid "Search By Features "
+msgstr "البحث حسب الميزات"
+
+#: inc/options.php:3081 inc/options.php:3089 inc/options.php:3092
+#: inc/options.php:3097 inc/options.php:3100 inc/options.php:3108
+#: inc/options.php:3116
+msgid "Advertisement"
+msgstr "إعلانات"
+
+#: inc/options.php:3090 inc/options.php:3098
+msgid "720x90 or 468x60"
+msgstr "720x90 أو 468x60"
+
+#: inc/options.php:3091
+msgid "Advertisement slot 1"
+msgstr "إعلان فتحه 1"
+
+#: inc/options.php:3099
+msgid "Advertisement slot 2"
+msgstr "إعلان فتحه 2"
+
+#: inc/options.php:3105
+msgid "Banner 300x250"
+msgstr "بانر 300x250"
+
+#: inc/options.php:3106
+msgid "300x250"
+msgstr "300x250"
+
+#: inc/options.php:3107
+msgid "Advertisement Banner 300x250"
+msgstr "لافتة إعلانية 300x250"
+
+#: inc/options.php:3113
+msgid "Banner 300x600"
+msgstr "بانر 300x600"
+
+#: inc/options.php:3114
+msgid "300x600"
+msgstr "300x600"
+
+#: inc/options.php:3115
+msgid "Advertisement Banner 300x600"
+msgstr "لافتة إعلانية 300x600"
+
+#: inc/options.php:3124
+msgid "Listing Reviews"
+msgstr "قائمه مراجعات"
+
+#: inc/options.php:3132
+msgid "Send Email On Review"
+msgstr "إرسال البريد الكتروني علي مراجعه"
+
+#: inc/options.php:3133
+msgid "Send email when there is a new comment"
+msgstr "إرسال البريد الكتروني عند وجود تعليق جديد"
+
+#: inc/options.php:3139
+msgid "Send Email On Review Reply"
+msgstr "إرسال البريد الكتروني علي مراجعه الرد"
+
+#: inc/options.php:3140
+msgid "Send email on reply"
+msgstr "إرسال البريد الكتروني عند الرد"
+
+#: inc/options.php:3146
+msgid "Reviews Approved By"
+msgstr "المراجعات المعتمدة من قبل"
+
+#: inc/options.php:3157
+msgid "Reviews Limit On Listing Page"
+msgstr "استعراض الحد علي صفحه الادراج"
+
+#: inc/options.php:3169
+msgid "Reviews Email Templates"
+msgstr "مراجعات قوالب البريد الإلكتروني"
+
+#: inc/options.php:3178
+msgid "Review Notification Subject"
+msgstr "مراجعة موضوع الإخطار"
+
+#: inc/options.php:3179
+msgid "New Review On Listing"
+msgstr "مراجعة جديدة على الإدراج"
+
+#: inc/options.php:3184
+msgid "Review Notification Message"
+msgstr "مراجعة رسالة الإشعار"
+
+#: inc/options.php:3190
+msgid ""
+"%site_name% , %display_name%, %sender_name%, %rating_stars%,  %sender_review"
+"%,  %listing_title%,  %listing_link% will be translated accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، %sender_name٪ ، rating_stars٪ ، "
+"%sender_review٪ ، %listing_title٪ ، %listing_link٪ وفقا لذلك."
+
+#: inc/options.php:3286
+msgid "URL Rewriting"
+msgstr "إعادة كتابة عنوان URL"
+
+#: inc/options.php:3294
+msgid "Property Ads"
+msgstr "إعلانات العقارات"
+
+#: inc/options.php:3300
+msgid "Property ad slug"
+msgstr "سبيكة إعلانية للممتلكات"
+
+#: inc/options.php:3307
+msgid "Ads Category"
+msgstr "فئة الإعلانات"
+
+#: inc/options.php:3313
+msgid "Property category slug"
+msgstr "سبيكة فئة الملكية"
+
+#: inc/options.php:3314 inc/options.php:3329 inc/options.php:3344
+msgid "Make it final before go live"
+msgstr "اجعله نهائيًا قبل بدء البث المباشر"
+
+#: inc/options.php:3315 inc/options.php:3330 inc/options.php:3345
+msgid "After changing slug the pervious link will be throw 404 page not found."
+msgstr "بعد تغيير سبيكة سيتم رمي الرابط pervious 404 صفحة لم يتم العثور عليها."
+
+#: inc/options.php:3322
+msgid "Ads Location"
+msgstr "موقع الإعلانات"
+
+#: inc/options.php:3328
+msgid "Property Ad location slug"
+msgstr "سبيكة موقع إعلان الملكية"
+
+#: inc/options.php:3337
+msgid "Ads Tags"
+msgstr "علامات الإعلانات"
+
+#: inc/options.php:3343
+msgid "Property Ad Tags slug"
+msgstr "إعلان الملكية العلامات سبيكة"
+
+#: inc/options.php:3355
+msgid "Price & Currency"
+msgstr "السعر والعمله"
+
+#: inc/options.php:3363
+msgid "Currency Mode"
+msgstr "وضع العملة"
+
+#: inc/options.php:3364
+msgid "Select currency type."
+msgstr "تحديد نوع العملة"
+
+#: inc/options.php:3375
+msgid "Currency Symbol "
+msgstr "رمز العملة "
+
+#: inc/options.php:3376
+msgid "Use currency symbol only eg ($)"
+msgstr "استخدم رمز العملة فقط على سبيل المثال ($)"
+
+#: inc/options.php:3385
+msgid "Default Selected Currency"
+msgstr "العملة المحددة الافتراضية"
+
+#: inc/options.php:3386
+msgid "While posting ad in multi-currency"
+msgstr "أثناء نشر الإعلان بعملات متعددة"
+
+#: inc/options.php:3393
+msgid "Enable Currency Switcher"
+msgstr "تمكين مبدل العملات"
+
+#: inc/options.php:3399
+msgid "Default Currency Code"
+msgstr "رمز العملة الافتراضي"
+
+#: inc/options.php:3401
+msgid "Currency Code is required for currency switcher eg : USD"
+msgstr "رمز العملة مطلوب لمحول العملات على سبيل المثال: USD"
+
+#: inc/options.php:3406
+msgid "ExchangeRate-API Key"
+msgstr "مفتاح سعر الصرف - واجهة برمجة التطبيقات"
+
+#: inc/options.php:3409
+#, php-format
+msgid "<a href=\"%s\">Get API Key</a>"
+msgstr "<a href=\"%s\">الحصول على مفتاح واجهة برمجة التطبيقات</a>"
+
+#: inc/options.php:3414
+msgid "Select Currencies"
+msgstr "اختر العملات"
+
+#: inc/options.php:3417
+#, php-format
+msgid ""
+"Use | sign to ad more currencies eg: EUR|AUD|PKR|INR|TRY|BOB <a href=\"%s"
+"\">All Supported Currencies</a>"
+msgstr ""
+"استخدم | تسجيل الدخول إلى الإعلان المزيد من العملات على سبيل المثال: EUR| "
+"دولار أسترالي| PKR| روبية هندية| جرب| BOB <a href=\"%s\">جميع العملات "
+"المدعومة</a>"
+
+#: inc/options.php:3422
+msgid "Where to Show the currency?"
+msgstr "أين تظهر العملة؟"
+
+#: inc/options.php:3424
+msgid "Before"
+msgstr "قبل"
+
+#: inc/options.php:3425
+msgid "After"
+msgstr "بعد"
+
+#: inc/options.php:3432
+msgid "Number of decimal points?"
+msgstr "عدد النقاط العشرية؟ "
+
+#: inc/options.php:3451
+msgid "Decimals Separator"
+msgstr "فاصل الكسور العشرية"
+
+#: inc/options.php:3452
+msgid "Provide the decimal point separator eg: ."
+msgstr "أدخل فاصل الفاصلة العشرية على سبيل المثال: ."
+
+#: inc/options.php:3458
+msgid "Thousands Separator"
+msgstr "فاصلة الالف"
+
+#: inc/options.php:3459
+msgid "Provide the Thousands point separator eg: ,"
+msgstr "توفير فاصل النقاط الآلاف على سبيل المثال: ،"
+
+#: inc/options.php:3465
+msgid "Property Ref. No"
+msgstr "مرجع العقار لا"
+
+#: inc/options.php:3467
+msgid ""
+"Please use {ID} in your pattern as it will be replaced by the Property ID."
+msgstr "الرجاء استخدام {ID} في النمط الخاص بك الذي سيتم استبداله بمعرف العقار."
+
+#: inc/options.php:3474
+msgid "Authorization"
+msgstr "تسجيل دخول"
+
+#: inc/options.php:3476
+msgid "Here you can setup authorization page settings"
+msgstr "هنا يمكنك إعداد إعدادات صفحة التفويض"
+
+#: inc/options.php:3483
+msgid "Enable Frontend Registration"
+msgstr "تمكين تسجيل الواجهة الأمامية"
+
+#: inc/options.php:3489
+msgid "Enable Header & Footer"
+msgstr "تمكين الرأس والتذييل"
+
+#: inc/options.php:3491
+msgid "You can enable or disable header & footer on sign up/sign in page."
+msgstr "يمكنك تمكين الرأس والتذييل أو تعطيلهما في صفحة التسجيل/تسجيل الدخول."
+
+#: inc/options.php:3497
+msgid "Term of Services Page Link"
+msgstr "رابط صفحة مدة الخدمات"
+
+#: inc/options.php:3506
+msgid "Author Dashboard Page"
+msgstr "صفحة لوحة معلومات المؤلف"
+
+#: inc/options.php:3507
+msgid "Redirect user after successful login & registration."
+msgstr "إعادة توجيه المستخدم بعد تسجيل الدخول والتسجيل بنجاح."
+
+#: inc/options.php:3513
+msgid "Defualt Image"
+msgstr "صورة ديفوالت"
+
+#: inc/options.php:3523
+msgid "Sign Up Page"
+msgstr "صفحه التسجيل"
+
+#: inc/options.php:3533 inc/options.php:3606
+msgid "Background Image Section"
+msgstr "قسم صورة الخلفية"
+
+#: inc/options.php:3534 inc/options.php:3607
+msgid "Select background image & text."
+msgstr "حدد صورة الخلفية والنص."
+
+#: inc/options.php:3541 inc/options.php:3614
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: inc/options.php:3548 inc/options.php:3621
+msgid "Tagline Title"
+msgstr "عنوان الشعار"
+
+#: inc/options.php:3549 inc/options.php:3622
+msgid "Pakistan’s smarter"
+msgstr "باكستان أذكى"
+
+#: inc/options.php:3555 inc/options.php:3628
+msgid "Largest Property Buying & Selling Hub"
+msgstr "أكبر مركز بيع وشراء العقارات"
+
+#: inc/options.php:3566 inc/options.php:3639
+msgid "Form Section"
+msgstr "قسم النماذج"
+
+#: inc/options.php:3573 inc/options.php:3646
+msgid "Form Text"
+msgstr "نص النموذج"
+
+#: inc/options.php:3574
+msgid "Register With Us"
+msgstr "سجل معنا"
+
+#: inc/options.php:3579 inc/options.php:3652
+msgid "Slogan Text"
+msgstr "الشعار نص ( كتابة وليس صورة )"
+
+#: inc/options.php:3580 inc/options.php:3653
+msgid ""
+"Sign up to use your dashboard its fast and free. Showcase your brand, "
+"enhance your listings and much more."
+msgstr ""
+"قم بالتسجيل لاستخدام لوحة التحكم الخاصة بك بسرعة ومجانا. اعرض علامتك "
+"التجارية ، وعزز قوائمك وأكثر من ذلك بكثير."
+
+#: inc/options.php:3593
+msgid "Sign In Page"
+msgstr "صفحة تسجيل الدخول"
+
+#: inc/options.php:3647
+msgid "Sign In & Access Your Account"
+msgstr "تسجيل الدخول والوصول إلى حسابك"
+
+#: inc/options.php:3665
+msgid "Select Sign In Page"
+msgstr "حدد صفحة تسجيل الدخول"
+
+#: inc/options.php:3675
+msgid "Social Authentication"
+msgstr "المصادقة الاجتماعية"
+
+#: inc/options.php:3685
+msgid "Enable Social Login & Registration"
+msgstr "تمكين تسجيل الدخول والتسجيل الاجتماعي"
+
+#: inc/options.php:3691
+msgid "Facebook Client ID"
+msgstr "الفيسبوك معرف العميل"
+
+#: inc/options.php:3692 inc/options.php:3699
+#, php-format
+msgid "<a href=\"%s\">How to Make</a>"
+msgstr "<a href=\"%s\">كيف تصنع</a>"
+
+#: inc/options.php:3698
+msgid "Google Client ID"
+msgstr "Google Client ID"
+
+#: inc/options.php:3705
+msgid "Redirect URI"
+msgstr "تحويل التطبيق إلى رابط آخر"
+
+#: inc/options.php:3706
+msgid "Must be same URI while creating apps, it will be your web url."
+msgstr ""
+"يجب أن يكون نفس عنوان URI أثناء إنشاء التطبيقات ، وسيكون عنوان URL للويب "
+"الخاص بك."
+
+#: inc/options.php:3715
+msgid "Email Templates"
+msgstr "قالب البريد"
+
+#: inc/options.php:3725
+msgid "Send Email On Registration"
+msgstr "إرسال بريد إلكتروني عند التسجيل"
+
+#: inc/options.php:3727 inc/options.php:3734
+msgid "So you want to send email on the time of registration."
+msgstr "لذلك تريد إرسال بريد إلكتروني في وقت التسجيل."
+
+#: inc/options.php:3732
+msgid "Send Email To Admin On Registration"
+msgstr "إرسال بريد إلكتروني إلى المشرف عند التسجيل"
+
+#: inc/options.php:3740
+msgid "New User Email Template Subject For Admin"
+msgstr "جديد موضوع البريد الكتروني المستخدم القالب للاداره"
+
+#: inc/options.php:3741
+msgid "New User Registration"
+msgstr "تسجيل مستخدم جديد"
+
+#: inc/options.php:3747
+msgid "New User Email Template For Admin"
+msgstr "قالب بريد الكتروني مستخدم جديد للمشرف"
+
+#: inc/options.php:3754
+msgid "%site_name% , %display_name%, %email% will be translated accordingly."
+msgstr "%site_name% ،% display_name% ،% بريد الكتروني سيترجم وفقا لذلك."
+
+#: inc/options.php:3831
+msgid "Send Welocme Email To User On Registration"
+msgstr "إرسال بريد إلكتروني إلى المستخدم عند التسجيل"
+
+#: inc/options.php:3833
+msgid "So you want to send welcome eamil on the time of registration to user."
+msgstr "لذلك تريد إرسال ترحيب eamil في وقت التسجيل للمستخدم."
+
+#: inc/options.php:3840
+msgid "Welcome Email Template Subject For Users"
+msgstr "موضوع قالب البريد الإلكتروني الترحيبي للمستخدمين"
+
+#: inc/options.php:3841
+msgid "We're Happy To Have You With Us"
+msgstr "يسعدنا وجودك معنا"
+
+#: inc/options.php:3847
+msgid "Welcome Email Template For Users"
+msgstr "قالب البريد الإلكتروني الترحيبي للمستخدمين"
+
+#: inc/options.php:3854
+msgid ""
+"%site_name% , %display_name%, %email%, %password% will be translated "
+"accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، %eالبريد ٪ ، %p assword٪ وفقا لذلك."
+
+#: inc/options.php:3940
+msgid "Email Verification on Register"
+msgstr "التحقق من البريد الإلكتروني على السجل"
+
+#: inc/options.php:3942
+msgid ""
+"Turn on this option if you want to have email verified at the time of "
+"registration."
+msgstr ""
+"قم بتشغيل هذا الخيار إذا كنت تريد التحقق من البريد الإلكتروني في وقت التسجيل."
+
+#: inc/options.php:3947
+msgid "Email Verification Template Subject"
+msgstr "موضوع قالب التحقق من البريد الإلكتروني"
+
+#: inc/options.php:3948
+msgid "Email Verification Subject"
+msgstr "موضوع التحقق من البريد الإلكتروني"
+
+#: inc/options.php:3954
+msgid "Email Verification Template Body "
+msgstr "نص قالب التحقق من البريد الإلكتروني "
+
+#: inc/options.php:3961
+msgid ""
+"%site_name% , %display_name%, %verification_link% will be translated "
+"accordingly."
+msgstr ""
+"سيتم ترجمة %site_name٪ ، %display_name٪ ، verification_link٪ ، ٪ ٪ وفقا لذلك."
+
+#: inc/options.php:4093
+msgid "Reset Password Template Subject"
+msgstr "إعادة تعيين موضوع قالب كلمة المرور"
+
+#: inc/options.php:4094
+msgid "Forgot Your Password"
+msgstr "استرجع كلمة المرور"
+
+#: inc/options.php:4099
+msgid "Reset Password Template For Users"
+msgstr "إعادة تعيين قالب كلمة المرور للمستخدمين"
+
+#: inc/options.php:4105
+msgid ""
+"%site_name% , %display_name%, %reset_link% will be translated accordingly."
+msgstr "سيتم ترجمة %site_name٪ ، %display_name٪ ، reset_link٪ ، ٪ وفقا لذلك."
+
+#: inc/options.php:4212
+msgid "Submit Property"
+msgstr "أضافة عقار"
+
+#: inc/options.php:4229
+msgid "Title Limit During Submission"
+msgstr "حد العنوان أثناء التقديم"
+
+#: inc/options.php:4231
+msgid "Total number of characters"
+msgstr "العدد الإجمالي للأحرف"
+
+#: inc/options.php:4239
+msgid "Bad Words Filter"
+msgstr "تصفيه الكلمات السيئة"
+
+#: inc/options.php:4240
+msgid "comma separated"
+msgstr "مفصوله بفاصله"
+
+#: inc/options.php:4241
+msgid "word1,word2"
+msgstr "word1, word2"
+
+#: inc/options.php:4242
+msgid "This words will be removed from AD Title and Description"
+msgstr "سيتم إزالة هذه الكلمات من عنوان الإعلان، والوصف"
+
+#: inc/options.php:4248
+msgid "Bad Words Replace Word"
+msgstr "كلمات سيئة تستبدل الكلمة"
+
+#: inc/options.php:4249
+msgid ""
+"This words will be replace with above bad words list from AD Title and "
+"Description"
+msgstr ""
+"سيتم استبدال هذه الكلمات مع قائمه الكلمات السيئة أعلاه من عنوان الإعلان "
+"والوصف"
+
+#: inc/options.php:4259
+msgid "Show & Hide Fields"
+msgstr "إظهار الحقول وإخفاؤها"
+
+#: inc/options.php:4269
+msgid "Multi Checkbox Option"
+msgstr "خيار خانة اختيار متعددة"
+
+#: inc/options.php:4270
+msgid "No validation can be done on this field type"
+msgstr "لا يمكن التحقق من هدا الحقل"
+
+#: inc/options.php:4271 inc/options.php:5842
+msgid "This is the description field, again good for additional info."
+msgstr "هذا هو حقل الوصف ، ومرة أخرى جيد للحصول على معلومات إضافية."
+
+#: inc/options.php:4302 inc/options.php:4385 inc/options.php:5094
+msgid "Custom Fields"
+msgstr "الحقول المخصصة"
+
+#: inc/options.php:4341
+msgid "Required Form Fields"
+msgstr "حقول النموذج المطلوبة"
+
+#: inc/options.php:4352 inc/options.php:4353
+msgid "Select the Mandatory Fields for property submission."
+msgstr "حدد الحقول الإلزامية لتسليم الممتلكات."
+
+#: inc/options.php:4422
+msgid "Form Fields Text"
+msgstr "نص حقول النموذج"
+
+#: inc/options.php:4436
+msgid "Property Field Title"
+msgstr "عنوان حقل الخاصية"
+
+#: inc/options.php:4437
+msgid "Property Title"
+msgstr "عنوان العقار"
+
+#: inc/options.php:4442
+msgid "Property Field Placeholder"
+msgstr "العنصر النائب لحقل الخاصية"
+
+#: inc/options.php:4443
+msgid "Detached house for sale"
+msgstr "منزل منفصل للبيع"
+
+#: inc/options.php:4448
+msgid "Property Description Box"
+msgstr "صندوق وصف العقار"
+
+#: inc/options.php:4449
+msgid "Property Description"
+msgstr "وصف العقار"
+
+#: inc/options.php:4454
+msgid "1st Level Category Title"
+msgstr "1 المستوى عنوان الفئة"
+
+#: inc/options.php:4455
+msgid "Make"
+msgstr "الماركة"
+
+#: inc/options.php:4461
+msgid "2nd Level Category Title"
+msgstr "2 المستوى عنوان الفئة"
+
+#: inc/options.php:4462
+msgid "Area"
+msgstr "المنطقة"
+
+#: inc/options.php:4468
+msgid "3rd Level Category Title"
+msgstr "3 المستوى عنوان الفئة"
+
+#: inc/options.php:4469
+msgid "Varient"
+msgstr "متغير"
+
+#: inc/options.php:4475
+msgid "4th Level Category Title"
+msgstr "4th مستوى الفئة العنوان"
+
+#: inc/options.php:4476
+msgid "Trim"
+msgstr "الطراز"
+
+#: inc/options.php:4489 inc/options.php:5230
+msgid "Property Type Field"
+msgstr "حقل نوع الخاصية"
+
+#: inc/options.php:4503 inc/options.php:4527 inc/options.php:4550
+#: inc/options.php:4573 inc/options.php:4897
+msgid "Placeholder"
+msgstr "العنصر النائب"
+
+#: inc/options.php:4504
+msgid "Select Category"
+msgstr "اختر تصنيف"
+
+#: inc/options.php:4515 inc/options.php:5236
+msgid "Offer Type Field"
+msgstr "حقل نوع العرض"
+
+#: inc/options.php:4538
+msgid "Label Type Field"
+msgstr "حقل نوع التسمية"
+
+#: inc/options.php:4551
+msgid "Select Property Status"
+msgstr "اختر عرض الوحدة"
+
+#: inc/options.php:4561 inc/options.php:5248
+msgid "Currency Type Field"
+msgstr "حقل نوع العملة"
+
+#: inc/options.php:4574
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+#: inc/options.php:4586
+msgid "Property Price Section"
+msgstr "قسم أسعار العقارات"
+
+#: inc/options.php:4594
+msgid "Sale or Rent Price"
+msgstr "سعر البيع أو التأجير"
+
+#: inc/options.php:4599
+msgid "Hint Text"
+msgstr "نص تلميح"
+
+#: inc/options.php:4600
+msgid "(Eg: 75000)"
+msgstr "(مثال: 75000)"
+
+#: inc/options.php:4605
+msgid "Second Price Field Label"
+msgstr "تسمية حقل السعر الثاني"
+
+#: inc/options.php:4606
+msgid "Second Price"
+msgstr "السعر الثاني"
+
+#: inc/options.php:4611
+msgid "Second Price Field Hint"
+msgstr "تلميح حقل السعر الثاني"
+
+#: inc/options.php:4612
+msgid "(Optional)"
+msgstr "(اختياري)"
+
+#: inc/options.php:4623
+msgid "After Price Field Hint"
+msgstr "تلميح بعد حقل السعر"
+
+#: inc/options.php:4624
+msgid "(Eg: Per Month)"
+msgstr "(على سبيل المثال: شهريا)"
+
+#: inc/options.php:4630
+msgid "Price Prefix"
+msgstr "بادئة السعر"
+
+#: inc/options.php:4635
+msgid "Before Price Field Hint"
+msgstr "تلميح حقل السعر قبل السعر"
+
+#: inc/options.php:4636
+msgid "(Eg: Start From)"
+msgstr "(على سبيل المثال: ابدأ من)"
+
+#: inc/options.php:4646
+msgid "Area Size Field Section"
+msgstr "حجم المنطقة قسم الحقل"
+
+#: inc/options.php:4659
+msgid "Area Size Field Hint"
+msgstr "تلميح حقل حجم المنطقة"
+
+#: inc/options.php:4660 inc/options.php:4719
+msgid "( Only digits )"
+msgstr "( أرقام فقط )"
+
+#: inc/options.php:4666 inc/options.php:4725
+msgid "Placeholder Field"
+msgstr "حقل العنصر النائب"
+
+#: inc/options.php:4667
+msgid "Eg 2500"
+msgstr "على سبيل المثال 2500"
+
+#: inc/options.php:4680
+msgid "Area Prefix Field Section"
+msgstr "قسم حقل بادئة المنطقة"
+
+#: inc/options.php:4687
+msgid "Area Prefix"
+msgstr "بادئة المنطقة"
+
+#: inc/options.php:4688
+msgid "Area Size Prefix"
+msgstr "بادئة حجم المنطقة"
+
+#: inc/options.php:4693
+msgid "Area Prefix Field Hint"
+msgstr "تلميح حقل بادئة المنطقة"
+
+#: inc/options.php:4694 inc/options.php:4751
+msgid "( Eg: Sq Ft)"
+msgstr "(على سبيل المثال: قدم مربع)"
+
+#: inc/options.php:4705
+msgid "Land Area Field Section"
+msgstr "قسم حقل مساحة الأرض"
+
+#: inc/options.php:4718
+msgid "Land Area Field Hint"
+msgstr "تلميح حقل مساحة الأرض"
+
+#: inc/options.php:4726
+msgid "Eg 1300"
+msgstr "على سبيل المثال 1300"
+
+#: inc/options.php:4737
+msgid "Land Prefix Field Section"
+msgstr "قسم حقل بادئة الأرض"
+
+#: inc/options.php:4744
+msgid "Land Prefix"
+msgstr "بادئة الأرض"
+
+#: inc/options.php:4750
+msgid "Land Prefix Field Hint"
+msgstr "تلميح حقل بادئة الأرض"
+
+#: inc/options.php:4764
+msgid "Property detail Fields"
+msgstr "حقول تفاصيل العقار"
+
+#: inc/options.php:4771
+msgid "Bedrooms Field Title"
+msgstr "عنوان حقل غرف النوم"
+
+#: inc/options.php:4777
+msgid "Bedrooms Field Placeholder"
+msgstr "العنصر النائب الميداني لغرف النوم"
+
+#: inc/options.php:4778
+msgid "( Eg: 4)"
+msgstr "(على سبيل المثال: 4)"
+
+#: inc/options.php:4783
+msgid "Bedroom Field Title"
+msgstr "عنوان حقل غرفة النوم"
+
+#: inc/options.php:4789
+msgid "Bedroom Field Placeholder"
+msgstr "العنصر النائب لحقل غرفة النوم"
+
+#: inc/options.php:4790
+msgid "( Eg: 2)"
+msgstr "(على سبيل المثال: 2)"
+
+#: inc/options.php:4795
+msgid "Garage Field Title"
+msgstr "عنوان حقل المرآب"
+
+#: inc/options.php:4801
+msgid "Garages Field Placeholder"
+msgstr "عنصر نائب حقل المرائب"
+
+#: inc/options.php:4802
+msgid "( Eg: 1)"
+msgstr "(على سبيل المثال: 1)"
+
+#: inc/options.php:4807
+msgid "Year Field Title"
+msgstr "عنوان حقل السنة"
+
+#: inc/options.php:4808
+msgid "Year Built "
+msgstr "عام الإنشاء "
+
+#: inc/options.php:4813
+msgid "Year Field Placeholder"
+msgstr "العنصر النائب لحقل السنة"
+
+#: inc/options.php:4814
+msgid "Eg: November 2010"
+msgstr "على سبيل المثال: نوفمبر 2010"
+
+#: inc/options.php:4820
+msgid "Video Field Title"
+msgstr "عنوان حقل الفيديو"
+
+#: inc/options.php:4821
+msgid "Video Link"
+msgstr "رابط الفيديو"
+
+#: inc/options.php:4826
+msgid "Video Field Placeholder"
+msgstr "العنصر النائب لحقل الفيديو"
+
+#: inc/options.php:4827
+msgid "Youtube Video Link"
+msgstr "رابط فيديو يوتيوب"
+
+#: inc/options.php:4833
+msgid "Virtual Tour Field Title"
+msgstr "عنوان حقل الجولة الافتراضية"
+
+#: inc/options.php:4839
+msgid "Virtual Tour Field Placeholder"
+msgstr "العنصر النائب الميداني للجولة الافتراضية"
+
+#: inc/options.php:4840
+msgid "Copy/paste the iframe code of your 360° virtual tour."
+msgstr "انسخ / الصق رمز iframe لجولتك الافتراضية بزاوية 360 درجة."
+
+#: inc/options.php:4851
+msgid "Additional Fields Section"
+msgstr "قسم الحقول الإضافية"
+
+#: inc/options.php:4858
+msgid "Title Field"
+msgstr "حقل العنوان"
+
+#: inc/options.php:4864
+msgid "Value Field"
+msgstr "حقل القيمة"
+
+#: inc/options.php:4865
+msgid "Value"
+msgstr "القيمة"
+
+#: inc/options.php:4870
+msgid "Add More Button"
+msgstr "الزر \"إضافة المزيد\""
+
+#: inc/options.php:4871 inc/options.php:5062
+msgid "+ Add More"
+msgstr "+ إضافة المزيد"
+
+#: inc/options.php:4884
+msgid "Property Location Fields Section"
+msgstr "قسم حقول موقع العقار"
+
+#: inc/options.php:4891
+msgid "Address Field"
+msgstr "حقل العنوان"
+
+#: inc/options.php:4898
+msgid "Enter your property address"
+msgstr "أدخل عنوان العقار"
+
+#: inc/options.php:4904
+msgid "Coordinates Field Title"
+msgstr "عنوان حقل الإحداثيات"
+
+#: inc/options.php:4911 inc/options.php:4918
+msgid "Latitude (for Google Maps) Field Title"
+msgstr "عنوان حقل خط العرض (لخرائط Google)"
+
+#: inc/options.php:4912 inc/options.php:5468
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: inc/options.php:4919
+msgid "Longitude "
+msgstr "خط الطول "
+
+#: inc/options.php:4925
+msgid "Zip Code Field Title"
+msgstr "عنوان حقل الرمز البريدي"
+
+#: inc/options.php:4926
+msgid "Zip or Postal Code "
+msgstr "الرمز البريدي أو الرمز البريدي "
+
+#: inc/options.php:4932
+msgid "Zip Code Placeholder"
+msgstr "العنصر النائب للرمز البريدي"
+
+#: inc/options.php:4933
+msgid "Eg: 10048"
+msgstr "على سبيل المثال: 10048"
+
+#: inc/options.php:4939
+msgid "Neighborhood/Country Field Title"
+msgstr "عنوان حقل الحي/البلد"
+
+#: inc/options.php:4946
+msgid "Neighborhood/Country Placeholder"
+msgstr "العنصر النائب للحي/البلد"
+
+#: inc/options.php:4947
+msgid "Eg: England"
+msgstr "مثال: إنجلترا"
+
+#: inc/options.php:4953
+msgid "Floor Plan Field Section"
+msgstr "مخطط الطابق القسم الميداني"
+
+#: inc/options.php:4960
+msgid "Floor Name Title"
+msgstr "اسم الطابق العنوان"
+
+#: inc/options.php:4961
+msgid "Floor Name"
+msgstr "اسم الطابق"
+
+#: inc/options.php:4966
+msgid "Floor Name Placeholder"
+msgstr "العنصر النائب لاسم الطابق"
+
+#: inc/options.php:4973
+msgid "Floor Price Title"
+msgstr "عنوان سعر الطابق"
+
+#: inc/options.php:4974
+msgid "Floor Price ( Only digits )"
+msgstr "السعر (أرقام فقط)"
+
+#: inc/options.php:4979
+msgid "Floor Price Placeholder"
+msgstr "العنصر النائب لسعر الكلمة"
+
+#: inc/options.php:4980
+msgid "Eg: 2500"
+msgstr "على سبيل المثال: 2500"
+
+#: inc/options.php:4985
+msgid "Floor Price Prefix Title"
+msgstr "عنوان بادئة سعر الطابق"
+
+#: inc/options.php:4991
+msgid "Floor Price Prefix Placeholder"
+msgstr "العنصر النائب لبادئة سعر الكلمة"
+
+#: inc/options.php:4992
+msgid "Eg: Per Month"
+msgstr "علي سبيل المثال: شهر "
+
+#: inc/options.php:4998
+msgid "Floor Size Title"
+msgstr "عنوان حجم الطابق"
+
+#: inc/options.php:4999
+msgid "Floor Size ( Only digits )"
+msgstr "الحجم (أرقام فقط)"
+
+#: inc/options.php:5004
+msgid "Floor Size Placeholder"
+msgstr "العنصر النائب لحجم الأرضية"
+
+#: inc/options.php:5005
+msgid "Eg: 1500"
+msgstr "علي سبيل المثال : 1500"
+
+#: inc/options.php:5010
+msgid "Size Postfix Title"
+msgstr "بحجم عنوان بوست فيكس"
+
+#: inc/options.php:5016
+msgid "Size Postfix Placeholder"
+msgstr "تابع حجم Postfix"
+
+#: inc/options.php:5017
+msgid "Eg: Sq Ft"
+msgstr "مثال: قدم مربع"
+
+#: inc/options.php:5022
+msgid "Bedrooms Title"
+msgstr "عنوان غرف النوم"
+
+#: inc/options.php:5028
+msgid "Bedrooms Placeholder"
+msgstr "تابع غرف نوم"
+
+#: inc/options.php:5029
+msgid "Eg: 4"
+msgstr "علي سبيل المثال : 4"
+
+#: inc/options.php:5034
+msgid "Bathrooms Title"
+msgstr "عنوان الحمامات"
+
+#: inc/options.php:5040
+msgid "Bathrooms Placeholder"
+msgstr "تابع الحمامات"
+
+#: inc/options.php:5041
+msgid "Eg: 2"
+msgstr "على سبيل المثال: 2"
+
+#: inc/options.php:5047
+msgid "Floor Plan Description Title"
+msgstr "عنوان وصف مخطط الطابق"
+
+#: inc/options.php:5054
+msgid "Floor Plan Image Field Title"
+msgstr "عنوان حقل صورة مخطط الطابق"
+
+#: inc/options.php:5055
+msgid "Floor Plan Image"
+msgstr "صورة مخطط  الطابق"
+
+#: inc/options.php:5061
+msgid "Floor Plan Add More Button"
+msgstr "مخطط الطابق الزر \"إضافة المزيد\""
+
+#: inc/options.php:5067
+msgid "Floor Plan Delete Button"
+msgstr "زر حذف مخطط الطابق"
+
+#: inc/options.php:5068 inc/theme_functions.php:321
+#: template-parts/dashboard/my-properties/expired.php:143
+#: template-parts/dashboard/my-properties/favourites.php:134
+#: template-parts/dashboard/profile-reviews/submitted.php:79
+#: template-parts/dashboard/reviews/submitted.php:104
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/options.php:5074
+msgid "Form Section Titles"
+msgstr "عناوين أقسام النموذج"
+
+#: inc/options.php:5081
+msgid "Title & Description Section Heading"
+msgstr "العنوان والوصف عنوان القسم"
+
+#: inc/options.php:5082
+msgid "Add Property Page"
+msgstr "إضافة صفحة عقار"
+
+#: inc/options.php:5088
+msgid "Category & Type Section Heading"
+msgstr "عنوان قسم الفئة والنوع"
+
+#: inc/options.php:5089
+msgid "Property Type & Status"
+msgstr "نوع العقار وحالته"
+
+#: inc/options.php:5095
+msgid "Custom fields"
+msgstr "الحقول المخصصة"
+
+#: inc/options.php:5101
+msgid "Property Price Section Heading"
+msgstr "عنوان قسم أسعار العقارات"
+
+#: inc/options.php:5102
+msgid "Property Price & Currency"
+msgstr "سعر العقار والعملة"
+
+#: inc/options.php:5108
+msgid "Gallery Media Section Heading"
+msgstr "عنوان قسم وسائط المعرض"
+
+#: inc/options.php:5109
+msgid "Property Media"
+msgstr "الصور الخاصة بالعقار"
+
+#: inc/options.php:5115
+msgid "Gallery Media Note"
+msgstr "معرض الملاحظات الإعلامية"
+
+#: inc/options.php:5116
+msgid "You can select multiple images to upload at one time."
+msgstr "يمكنك اختيار صور متعددة للتحميل في وقت واحد."
+
+#: inc/options.php:5122
+msgid "Gallery Images Order"
+msgstr "ترتيب صور المعرض"
+
+#: inc/options.php:5123
+msgid "Change images order with Drag & Drop."
+msgstr "تغيير ترتيب الصور باستخدام السحب والإفلات."
+
+#: inc/options.php:5129
+msgid "Gallery Upload Button"
+msgstr "زر تحميل المعرض"
+
+#: inc/options.php:5130
+msgid "Select Images"
+msgstr "اختيار الصور"
+
+#: inc/options.php:5136
+msgid "Property Details Section Heading"
+msgstr "عنوان قسم تفاصيل العقار"
+
+#: inc/options.php:5137
+msgid "Property Details"
+msgstr "تفاصيل العقار"
+
+#: inc/options.php:5143
+msgid "Additional Fields Section Heading"
+msgstr "عنوان مقطع الحقول الإضافية"
+
+#: inc/options.php:5144
+msgid "Additional Features"
+msgstr "ميزات إضافية"
+
+#: inc/options.php:5149
+msgid "Amenities and Features Section Heading"
+msgstr "عنوان قسم وسائل الراحة والميزات"
+
+#: inc/options.php:5155
+msgid "Property Location Section Heading"
+msgstr "عنوان قسم موقع العقار"
+
+#: inc/options.php:5156
+msgid "Property Location"
+msgstr "موقع العقار"
+
+#: inc/options.php:5161
+msgid "Floor Plans Section Heading"
+msgstr "عنوان قسم مخططات الطوابق"
+
+#: inc/options.php:5167
+msgid "Video Section Heading"
+msgstr "عنوان مقطع الفيديو"
+
+#: inc/options.php:5168
+msgid "Video Option"
+msgstr "اضاقة فيديو"
+
+#: inc/options.php:5173
+msgid "Attachments Section Heading"
+msgstr "عنوان قسم المرفقات"
+
+#: inc/options.php:5179
+msgid "Attachments Note"
+msgstr "ملاحظة المرفقات"
+
+#: inc/options.php:5180
+msgid ""
+"You can attach PDF files, Map images OR other documents to provide further "
+"details related to property."
+msgstr ""
+"يمكنك إرفاق ملفات PDF، صور خريطة أو وثائق أخرى لتوفير مزيد من التفاصيل "
+"المتعلقة بالملكية. "
+
+#: inc/options.php:5185
+msgid "Attachments Button"
+msgstr "زر المرفقات"
+
+#: inc/options.php:5186
+msgid "+ Add Attachments"
+msgstr "+ إضافة مرفقات"
+
+#: inc/options.php:5191
+msgid "Contact Information Section Heading"
+msgstr "عنوان قسم معلومات الاتصال"
+
+#: inc/options.php:5192
+msgid "Contact Information"
+msgstr "معلومات المستخدم"
+
+#: inc/options.php:5198
+msgid "Form Submission Button"
+msgstr "زر إرسال النموذج"
+
+#: inc/options.php:5199
+msgid "Save & Preview"
+msgstr "الحفظ والمعاينة"
+
+#: inc/options.php:5215
+msgid "Required Fields Alerts"
+msgstr "تنبيهات الحقول المطلوبة"
+
+#: inc/options.php:5224
+msgid "Property Title Field"
+msgstr "حقل عنوان العقار"
+
+#: inc/options.php:5225
+msgid "Title is required."
+msgstr "العنوان مطلوب."
+
+#: inc/options.php:5231
+msgid "Property type is required."
+msgstr "نوع العقار مطلوب."
+
+#: inc/options.php:5237
+msgid "Offer type is not selected."
+msgstr "لم يتم تحديد نوع العرض."
+
+#: inc/options.php:5242
+msgid "Label Field"
+msgstr "حقل التسمية"
+
+#: inc/options.php:5243
+msgid "Status is required."
+msgstr "الحالة مطلوبة."
+
+#: inc/options.php:5249
+msgid "Select any currency."
+msgstr "حدد أي عملة."
+
+#: inc/options.php:5254
+msgid "Property Price Field"
+msgstr "حقل سعر العقار"
+
+#: inc/options.php:5255
+msgid "Only digits are allowed in price."
+msgstr "يسمح فقط بالأرقام في السعر."
+
+#: inc/options.php:5260
+msgid "Second Price Field"
+msgstr "حقل السعر الثاني"
+
+#: inc/options.php:5261
+msgid "Only digits are allowed in (optional) price."
+msgstr "يسمح فقط بالأرقام في السعر (الاختياري)."
+
+#: inc/options.php:5266
+msgid "After Price Field"
+msgstr "بعد حقل السعر"
+
+#: inc/options.php:5267
+msgid "Only characters are allowed in price postfix."
+msgstr "يسمح فقط بالأحرف في السعر postfix."
+
+#: inc/options.php:5272
+msgid "Before Price Field"
+msgstr "قبل حقل السعر"
+
+#: inc/options.php:5273
+msgid "Only characters are allowed in price prefix."
+msgstr "يسمح فقط بالأحرف في بادئة السعر."
+
+#: inc/options.php:5278
+msgid "Area Size Field"
+msgstr "حقل حجم المنطقة"
+
+#: inc/options.php:5279
+msgid "Only digits are allowed in area size."
+msgstr "يسمح فقط بالأرقام في حجم المنطقة."
+
+#: inc/options.php:5284
+msgid "Area Size Prefix Field"
+msgstr "حقل بادئة حجم المنطقة"
+
+#: inc/options.php:5285
+msgid "Area prefix is required."
+msgstr "بادئة المنطقة مطلوبة."
+
+#: inc/options.php:5290
+msgid "Land Area Field"
+msgstr "حقل مساحة الأرض"
+
+#: inc/options.php:5291
+msgid "Only digits are allowed in land area."
+msgstr "يسمح فقط بالأرقام في مساحة الأرض."
+
+#: inc/options.php:5296
+msgid "Land Area Prefix Field"
+msgstr "حقل بادئة مساحة الأرض"
+
+#: inc/options.php:5297
+msgid "Land prefix is required."
+msgstr "بادئة الأرض مطلوبة."
+
+#: inc/options.php:5302
+msgid "Bedrooms Field"
+msgstr "حقل غرف النوم"
+
+#: inc/options.php:5303
+msgid "Only digits are allowed in bedrooms."
+msgstr "يسمح فقط بالأرقام في غرف النوم."
+
+#: inc/options.php:5308
+msgid "Bathrooms Field"
+msgstr "مجال الحمامات"
+
+#: inc/options.php:5309
+msgid "Only digits are allowed in bathrooms."
+msgstr "يسمح فقط بالأرقام في الحمامات."
+
+#: inc/options.php:5314
+msgid "Garages Field"
+msgstr "حقل الكراجات"
+
+#: inc/options.php:5315
+msgid "Only digits are allowed in garage."
+msgstr "يسمح فقط بالأرقام في المرآب."
+
+#: inc/options.php:5320
+msgid "Year Built Field"
+msgstr "سنة البناء"
+
+#: inc/options.php:5321
+msgid "Built year is required."
+msgstr "السنة المبنية مطلوبة."
+
+#: inc/options.php:5326
+msgid "Video URL Field"
+msgstr "حقل عنوان URL للفيديو"
+
+#: inc/options.php:5327
+msgid "Youtube video is required."
+msgstr "مطلوب فيديو يوتيوب."
+
+#: inc/options.php:5332
+msgid "360 Virtual Tour Iframe Field"
+msgstr "360 جولة افتراضية حقل iframe"
+
+#: inc/options.php:5333
+msgid "Virtual tour iframe is required."
+msgstr "مطلوب إطار جولة افتراضية."
+
+#: inc/options.php:5338
+msgid "Zipcode Field"
+msgstr "حقل الرمز البريدي"
+
+#: inc/options.php:5339
+msgid "Zip or Postal code is required."
+msgstr "الرمز البريدي أو الرمز البريدي مطلوب."
+
+#: inc/options.php:5344
+msgid "Street Address Field"
+msgstr "حقل عنوان الشارع"
+
+#: inc/options.php:5345
+msgid "Street address is required."
+msgstr "عنوان الشارع مطلوب."
+
+#: inc/options.php:5350
+msgid "Coordinates Field"
+msgstr "عنوان حقل الإحداثيات"
+
+#: inc/options.php:5351
+msgid "Latitude and longitude are required."
+msgstr "خطوط الطول والعرض مطلوبة."
+
+#: inc/options.php:5356
+msgid "Location Field"
+msgstr "عرض حقل الموقع"
+
+#: inc/options.php:5357
+msgid "Neighborhood is required."
+msgstr "الحي مطلوب."
+
+#: inc/options.php:5362
+msgid "Gallery Media"
+msgstr "معرض الملاحظات الإعلامية"
+
+#: inc/options.php:5363
+msgid "Property images are required."
+msgstr "صور الممتلكات مطلوبة."
+
+#: inc/options.php:5368
+msgid "Attachments Fields"
+msgstr "حقول المرفقات"
+
+#: inc/options.php:5369
+msgid "Attachments are required."
+msgstr "المرفقات مطلوبة."
+
+#: inc/options.php:5375
+msgid "Map Settings"
+msgstr "للخريطة الافتراضية."
+
+#: inc/options.php:5383
+msgid "Enable Map"
+msgstr "تمكين الخريطة"
+
+#: inc/options.php:5385
+msgid "Trun on or off Maps."
+msgstr "Trun أو إيقاف تشغيل الخرائط."
+
+#: inc/options.php:5390
+msgid "Select Map Type "
+msgstr "حدد نوع الخريطة"
+
+#: inc/options.php:5404
+msgid "Layer "
+msgstr "طبقة "
+
+#: inc/options.php:5418 inc/options.php:5435
+msgid "for mapbox."
+msgstr "لصندوق الخرائط."
+
+#: inc/options.php:5427
+msgid "Zoom "
+msgstr "تكبير "
+
+#: inc/options.php:5444
+msgid "Google Notification."
+msgstr "اعلام Google."
+
+#: inc/options.php:5445
+msgid ""
+"Google <strong>maps & places</strong> will only works when you have an API "
+"key.<a href=\"https://developers.google.com/places/web-service/usage-and-"
+"billing\" target=\"_blank\">Google Notification</a>"
+msgstr ""
+"جوجل <strong> الخرائط والأماكن </strong> سيعمل فقط عندما يكون لديك مفتاح "
+"API. < a href = \"https://developers.google.com/places/web-service/usage-and-"
+"billing\" الهدف = \"_blank\" > اعلام google </a>"
+
+#: inc/options.php:5450
+msgid "Google Map API Key"
+msgstr ""
+"خرائط جوجل <strong>والأماكن</strong> لن يعمل إلا عندما يكون لديك مفتاح API. "
+"<a href=\"https://developers.google.com/places/web-service/usage-and-billing"
+"\" target=\"_blank\">إعلام جوجل</a>"
+
+#: inc/options.php:5451 inc/options.php:5460
+msgid "How to Find it"
+msgstr "مفتاح API  لخرائط جوجل"
+
+#: inc/options.php:5453
+msgid "Google Map & search only works when you entered Google API Key"
+msgstr "جوجل الخريطة والبحث يعمل فقط عندما قمت بإدخال جوجل API الرئيسية"
+
+#: inc/options.php:5459
+msgid "Mapbox Access Token"
+msgstr "رمز الوصول إلى مربع الخريطة"
+
+#: inc/options.php:5462
+msgid "Mapbox only works when you access Token Key"
+msgstr "يعمل Mapbox فقط عند الوصول إلى مفتاح الرمز المميز"
+
+#: inc/options.php:5469 inc/options.php:5477
+msgid "for default map."
+msgstr "للخريطة الافتراضية."
+
+#: inc/options.php:5476
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: inc/options.php:5486
+msgid "Geo IP Settings"
+msgstr "إعدادات IP الجغرافية"
+
+#: inc/options.php:5494
+msgid "Enable GeoLocation"
+msgstr "تمكين الجغرافية"
+
+#: inc/options.php:5496
+msgid "Trun on or off GeoLocation Api."
+msgstr "Trun أو إيقاف تشغيل واجهه برمجه التطبيقات الجغرافية."
+
+#: inc/options.php:5501
+msgid "Select API Type for Current location "
+msgstr "تحديد نوع API للموقع الحالي"
+
+#: inc/options.php:5502
+msgid "For location detection"
+msgstr "للكشف عن الموقع"
+
+#: inc/options.php:5503
+msgid ""
+"Above API options are used to identify visitors current location by their ip "
+"address."
+msgstr ""
+"وتستخدم خيارات API أعلاه لتحديد الزوار الموقع الحالي من قبل عنوان الملكية "
+"الفكرية."
+
+#: inc/options.php:5516
+msgid "Blog Settings"
+msgstr "المدونة"
+
+#: inc/options.php:5524
+msgid "Blog Page Title"
+msgstr "إعدادات ترقيم الصفحات"
+
+#: inc/options.php:5526
+msgid "Latest News & Trends"
+msgstr "آخر الاخبار والاتجاهات"
+
+#: inc/options.php:5556
+msgid "Packages Text"
+msgstr "نص الحزم"
+
+#: inc/options.php:5569
+msgid "Package Expiry Title"
+msgstr "عنوان انتهاء الحزمة"
+
+#: inc/options.php:5575
+msgid "Total Listings Title"
+msgstr "إجمالي عنوان القوائم"
+
+#: inc/options.php:5581
+msgid "Listing Expiry Title"
+msgstr "عنوان انتهاء صلاحية الإدراج"
+
+#: inc/options.php:5587
+msgid "Featured Listing Title"
+msgstr "عنوان القائمة المميز"
+
+#: inc/options.php:5593
+msgid "Featured For Title"
+msgstr "عنوان الإعلانات المميزة"
+
+#: inc/options.php:5599
+msgid "Days Option Text"
+msgstr "نص خيار الأيام"
+
+#: inc/options.php:5605
+msgid "Unlimited Option Text"
+msgstr "نص خيار غير محدود"
+
+#: inc/options.php:5611
+msgid "Never Expire Option Text"
+msgstr "عدم انتهاء صلاحيه نص الخيار"
+
+#: inc/options.php:5620
+msgid "Pagination Settings"
+msgstr "إعدادات ترقيم الصفحات"
+
+#: inc/options.php:5630
+msgid "User Personal Dashboard."
+msgstr "لوحة المعلومات الشخصية للمستخدم."
+
+#: inc/options.php:5631
+msgid "Pagination settings for user personal profile."
+msgstr "إعدادات ترقيم الصفحات لملف التعريف الشخصي للمستخدم."
+
+#: inc/options.php:5636
+msgid "Dashboad Listings"
+msgstr "قوائم داشبواد"
+
+#: inc/options.php:5637
+msgid "Number of listings shown per page."
+msgstr "عدد القوائم المعروضة لكل صفحة."
+
+#: inc/options.php:5646
+msgid "Dashboad Agents"
+msgstr "وكلاء داشبواد"
+
+#: inc/options.php:5647
+msgid "Number of agents shown per page."
+msgstr "عدد الوكلاء المعروضين لكل صفحة."
+
+#: inc/options.php:5657
+msgid "Placeholder Images"
+msgstr "صور العناصر النائبة"
+
+#: inc/options.php:5667
+msgid "Default Buyer/individual Image"
+msgstr "صورة افتراضية للمشتري / صورة فردية"
+
+#: inc/options.php:5669
+msgid "Select default Buyer/individual image."
+msgstr "حدد صورة المشتري/الصورة الفردية الافتراضية."
+
+#: inc/options.php:5676
+msgid "Agency Placeholder Image"
+msgstr "صورة العنصر النائب للوكالة"
+
+#: inc/options.php:5678
+msgid "Set default placeholder image for agencies."
+msgstr "قم بتعيين صورة العنصر النائب الافتراضية للوكالات."
+
+#: inc/options.php:5685
+msgid "Agent Placeholder Image"
+msgstr "صورة العنصر النائب للعامل"
+
+#: inc/options.php:5687
+msgid "Set default placeholder image for agents."
+msgstr "قم بتعيين صورة العنصر النائب الافتراضية للوكلاء."
+
+#: inc/options.php:5694
+msgid "Profile detail Cover Image"
+msgstr "تفاصيل الملف الشخصي صورة الغلاف"
+
+#: inc/options.php:5696
+msgid "Set default placeholder image for cover image."
+msgstr "قم بتعيين صورة العنصر النائب الافتراضية لصورة الغلاف."
+
+#: inc/options.php:5703
+msgid "Default Listing Image"
+msgstr "صوره القائمة الافتراضية"
+
+#: inc/options.php:5705
+msgid "If there is no image of listing then this will be shown."
+msgstr "إذا لم تكن هناك صورة للقائمة ، عرض ذلك."
+
+#: inc/options.php:5706
+msgid "Dimensions: 300 x 225"
+msgstr "الابعاد: 300 x 225"
+
+#: inc/options.php:5713
+msgid "Default Bed Icon"
+msgstr "أيقونة السرير الافتراضية"
+
+#: inc/options.php:5715
+msgid "Select default Room Icon."
+msgstr "حدد رمز الغرفة الافتراضي."
+
+#: inc/options.php:5722
+msgid "Default type Icon"
+msgstr "أيقونة النوع الافتراضي"
+
+#: inc/options.php:5724
+msgid "Select default Property Type Icon."
+msgstr "حدد رمز نوع الخاصية الافتراضي."
+
+#: inc/options.php:5731
+msgid "Default Bath Icon"
+msgstr "أيقونة الحمام الافتراضية"
+
+#: inc/options.php:5733
+msgid "Select default Bath Icon."
+msgstr "حدد رمز الحمام الافتراضي."
+
+#: inc/options.php:5740
+msgid "Default Garage Icon"
+msgstr "أيقونة المرآب الافتراضية"
+
+#: inc/options.php:5742
+msgid "Select default Garage Icon."
+msgstr "حدد رمز المرآب الافتراضي."
+
+#: inc/options.php:5749
+msgid "Default area Icon"
+msgstr "أيقونة المنطقة الافتراضية"
+
+#: inc/options.php:5751
+msgid "Select default area Icon."
+msgstr "حدد المنطقة الافتراضية أيقونة."
+
+#: inc/options.php:5758
+msgid "Default land Icon"
+msgstr "أيقونة الأرض الافتراضية"
+
+#: inc/options.php:5760
+msgid "Select default land Icon."
+msgstr "حدد رمز الأرض الافتراضي."
+
+#: inc/options.php:5767
+msgid "Compare Listings"
+msgstr "مقارنة العقارات"
+
+#: inc/options.php:5775
+msgid "Compare Listing Enable"
+msgstr "مقارنة تمكين القائمة"
+
+#: inc/options.php:5776
+msgid "Look, it's on!"
+msgstr "تحتاج إلى مظهر جديد ؟ جرب \"ستورفرنت\" الثيم الفرعي"
+
+#: inc/options.php:5782
+msgid "Tagline"
+msgstr "(الشعار) الخط"
+
+#: inc/options.php:5783
+msgid "Spot the difference"
+msgstr "بقعة الفرق"
+
+#: inc/options.php:5788
+msgid "Heading"
+msgstr "العنوان"
+
+#: inc/options.php:5789
+msgid "Compare Properties"
+msgstr "مقارنة العقارات"
+
+#: inc/options.php:5794
+msgid "Empty List Message"
+msgstr "رسالة قائمة فارغة"
+
+#: inc/options.php:5795
+msgid "Add properties to compare."
+msgstr "أضف خصائص للمقارنة."
+
+#: inc/options.php:5800
+msgid "Empty Page Message"
+msgstr "رسالة صفحة فارغة"
+
+#: inc/options.php:5801
+msgid "Please select more than one property to compare."
+msgstr "يرجى اختيار أكثر من عقار للمقارنة."
+
+#: inc/options.php:5810
+msgid "Footer Settings"
+msgstr "الإعدادات"
+
+#: inc/options.php:5818
+msgid "Footer Layout"
+msgstr "نموذج الفوتر"
+
+#: inc/options.php:5819
+msgid "Select footer Layout you want to show."
+msgstr "حدد تخطيط التذييل الذي تريد إظهاره."
+
+#: inc/options.php:5822
+msgid "Layout Type 1"
+msgstr "نوع التخطيط 1"
+
+#: inc/options.php:5832
+msgid "Footer Logo"
+msgstr "شعار تذييل"
+
+#: inc/options.php:5834
+msgid "Upload main logo of the website."
+msgstr "تحميل الشعار الرئيسي للموقع."
+
+#: inc/options.php:5840
+msgid "Footer Text"
+msgstr "نص الفوتر"
+
+#: inc/options.php:5841
+msgid "All HTML will be stripped"
+msgstr "سيتم تجريد جميع إتش تي أم ال"
+
+#: inc/options.php:5848 inc/options.php:5851
+msgid "Popular Locations"
+msgstr "الاماكن الأكثر شعبية"
+
+#: inc/options.php:5849 inc/options.php:5868 inc/options.php:5886
+msgid "Enter section title here"
+msgstr "ادخل عنوان اسئله وأجوبه التطبيق."
+
+#: inc/options.php:5856
+msgid "Select Locations"
+msgstr "حدد المواقع"
+
+#: inc/options.php:5867
+msgid "Top Categories"
+msgstr "أفضل التصنيفات"
+
+#: inc/options.php:5870
+msgid "Featured Categories"
+msgstr "التصنيفات المميزة"
+
+#: inc/options.php:5875 template-parts/dashboard/profile/agent.php:92
+#: template-parts/dashboard/role/assign-role.php:30
+msgid "Select Type"
+msgstr "حدد النوع"
+
+#: inc/options.php:5885
+msgid "Links Title"
+msgstr "عنوان الروابط"
+
+#: inc/options.php:5887
+msgid "Qucik Links"
+msgstr "روابط كوسيك"
+
+#: inc/options.php:5894
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+#: inc/options.php:5895
+msgid "Select the links for the footer."
+msgstr "تحديد ارتباطات الصفحة لتذييل"
+
+#: inc/options.php:5901
+msgid "Address Info"
+msgstr "العنوان"
+
+#: inc/options.php:5902
+msgid "Leave empty if you don' want to show."
+msgstr "اترك الفراغ إذا كنت لا تريد ان تظهر."
+
+#: inc/options.php:5910
+msgid "B-Floor,Arcade Model Town, USA"
+msgstr "[ب-فلوور], رواق نموذجيه مدينه, [اوسا]"
+
+#: inc/options.php:5910
+msgid "Mon - Sun: 8:00 - 16:00"
+msgstr "الاثنين-الأحد: 8:00-16:00"
+
+#: inc/options.php:5916
+msgid "Copy Rights Text"
+msgstr "إشعارات"
+
+#: inc/options.php:5917
+msgid ""
+"Copyright 2020 &copy; Theme Created By ScriptsBundle, All Rights Reserved."
+msgstr ""
+"حقوق الطبع والنشر 2020 © موضوع تم إنشاؤه بواسطة ScriptsBundle ، جميع الحقوق "
+"محفوظة."
+
+#: inc/options.php:5931
+msgid "Social Icons For Foter. You can sort it out as you want."
+msgstr "الأيقونات الاجتماعية لل foter. يمكنك ترتيب ذلك كما تريد."
+
+#: inc/options.php:5971
+msgid "WPML Settings"
+msgstr "إعدادات الرابطة"
+
+#: inc/options.php:5979
+msgid "Duplicate Posts"
+msgstr "تكرار المشاركات"
+
+#: inc/options.php:5980
+msgid ""
+"Enable this option to duplicate posts in all others languages after "
+"successfully publish."
+msgstr ""
+"تمكين هذا الخيار لتكرار المشاركات في كافة اللغات الأخرى بعد النشر بنجاح."
+
+#: inc/options.php:5981
+msgid "Note : Disable means the posts publish only in the current language."
+msgstr "ملاحظه: التعطيل يعني نشر المشاركات فقط باللغة الحالية."
+
+#: inc/options.php:5987
+msgid "Display Posts"
+msgstr "عرض المشاركات"
+
+#: inc/options.php:5988
+msgid ""
+"Enable this option to display all others languages posts in current language."
+msgstr "تمكين هذا الخيار لعرض كافة المشاركات اللغات الأخرى باللغة الحالية."
+
+#: inc/options.php:5989
+msgid "Note : Disable means to display only current language posts."
+msgstr "ملاحظه: تعطيل الوسائل لعرض الوظائف اللغوية الحالية فقط."
+
+#: inc/options.php:5995
+msgid "Language Switcher on Topbar"
+msgstr "الجلاد اللغة علي توب بار"
+
+#: inc/options.php:5996
+msgid "Enable this option to display language switcher on topbar."
+msgstr "تمكين هذا الخيار لعرض مبدل اللغة علي الشريط السطحي."
+
+#: inc/options.php:6002
+msgid "Language Switcher in Menu"
+msgstr "اللغة الجلاد في القائمة"
+
+#: inc/options.php:6003
+msgid "Enable this option to Show language switcher in menu."
+msgstr "تمكين هذا الخيار لإظهار مبدل اللغة في القائمة."
+
+#: inc/theme_functions.php:298
+#: template-parts/listing-detial/style-type/classic.php:469
+#: template-parts/listing-detial/style-type/elegent.php:195
+msgid "Mark As Featured"
+msgstr "انقر هنا لجعل هذا الإعلان مميزا."
+
+#: inc/theme_functions.php:303 woocommerce/checkout/thankyou.php:37
+msgid "Pay"
+msgstr "دفع"
+
+#: inc/theme_functions.php:307 template-parts/dashboard/invoices/invoice.php:80
+msgid "Paid"
+msgstr "مدفوع"
+
+#: inc/theme_functions.php:319
+#: template-parts/listing-detial/style-type/classic.php:461
+#: template-parts/listing-detial/style-type/elegent.php:187
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/theme_functions.php:493
+#: template-parts/listing-detial/sidebar/nearby.php:10
+msgid "mi"
+msgstr "ميل"
+
+#: inc/theme_functions.php:494
+msgid "ft"
+msgstr "قدم"
+
+#: inc/theme_functions.php:495
+msgid "yd"
+msgstr "ياردة"
+
+#: inc/theme_functions.php:496
+#: template-parts/listing-detial/sidebar/nearby.php:11
+msgid "km"
+msgstr "كم"
+
+#: inc/theme_functions.php:922
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: inc/theme_functions.php:922
+msgid "All Rights Reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: inc/theme_functions.php:952
+msgid "Package Expiry"
+msgstr "انتهاء صلاحية الباقة"
+
+#: inc/theme_functions.php:1042
+msgid "Back to results"
+msgstr "عودة إلى نتائج"
+
+#: inc/theme_settings.php:52
+msgid "Propertya Menu"
+msgstr "قائمة بروبرتي"
+
+#: inc/theme_settings.php:76
+msgid "Blog Sidebar"
+msgstr "الشريط الجانبي للمدونة"
+
+#: inc/theme_settings.php:90
+msgid "Agency Search Sidebar"
+msgstr "الشريط الجانبي للبحث في الوكالة"
+
+#: inc/theme_settings.php:100
+msgid "Agents Search Sidebar"
+msgstr "البحث عن الوكلاء في الشريط الجانبي"
+
+#: inc/theme_settings.php:110
+msgid "Property Search Sidebar"
+msgstr "الشريط الجانبي للبحث عن عقار"
+
+#: inc/theme_settings.php:120
+msgid "Home Ajax Search Sidebar"
+msgstr "الصفحة الرئيسية Ajax البحث في الشريط الجانبي"
+
+#: inc/theme_utilities.php:33
+msgid "Category"
+msgstr "التصنيف"
+
+#: inc/theme_utilities.php:37
+msgid "Listing Details"
+msgstr "تفاصيل القائمة"
+
+#: inc/theme_utilities.php:42
+msgid "Blog Details"
+msgstr "تفاصيل المدونة"
+
+#: inc/theme_utilities.php:59
+msgid "Page not Found"
+msgstr "الصفحة غير موجودة"
+
+#: inc/theme_utilities.php:63
+msgid "Author"
+msgstr "الكاتب"
+
+#: inc/theme_utilities.php:72
+msgid "Archive"
+msgstr "الأرشيف"
+
+#: inc/theme_utilities.php:82
+msgid "Product Details"
+msgstr "تفاصيل المنتج"
+
+#: inc/theme_utilities.php:86
+msgid "Cart"
+msgstr "سلة التسوق"
+
+#: inc/theme_utilities.php:90
+msgid "Checkout"
+msgstr "الدفع"
+
+#: inc/theme_utilities.php:102
+msgid "Shop"
+msgstr "المتجر"
+
+#: inc/theme_utilities.php:180
+msgid "No Comments"
+msgstr "لا يوجد تعليقات"
+
+#: inc/theme_utilities.php:183
+msgid " Comments"
+msgstr " تعليقات"
+
+#: inc/theme_utilities.php:186
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: inc/theme_utilities.php:203
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: inc/theme_utilities.php:260
+msgid "Sign in or register to sync your favorite properties across devices"
+msgstr "تسجيل الدخول أو التسجيل لمزامنة أماكن الإقامة المفضلة لديك عبر الأجهزة"
+
+#: inc/theme_utilities.php:262
+msgid "Create new account"
+msgstr "إنشاء حساب جديد"
+
+#: inc/theme_utilities.php:453
+#, php-format
+msgctxt "Human-readable time"
+msgid "%s ago"
+msgstr "منذ %s"
+
+#: inc/theme_utilities.php:467
+#, php-format
+msgctxt "Human-readable time"
+msgid "%s"
+msgstr "%s"
+
+#: inc/theme_utilities.php:852 inc/theme_utilities.php:855
+#: inc/theme_utilities.php:958 inc/theme_utilities.php:961
+msgid "Previous"
+msgstr "السابق"
+
+#: inc/theme_utilities.php:916 inc/theme_utilities.php:918
+#: inc/theme_utilities.php:1022 inc/theme_utilities.php:1024
+msgid "Next"
+msgstr "التالي"
+
+#: inc/theme_utilities.php:1054
+msgid "Pingback:"
+msgstr "تنبيه :"
+
+#: inc/theme_utilities.php:1054
+msgid "(Edit)"
+msgstr "(تعديل)"
+
+#: inc/theme_utilities.php:1080
+msgid "on "
+msgstr "على"
+
+#: inc/theme_utilities.php:1260
+#: template-parts/dashboard/my-properties/complete.php:119
+msgid "Whoops!"
+msgstr "يا للهول!"
+
+#: inc/theme_utilities.php:1292
+msgid "Package Expired"
+msgstr "انتهت مدة صلاحية الباقة الخاصة بك. "
+
+#: inc/theme_utilities.php:1294
+msgid ""
+"Your package is expired! You will not be able to continue listings unless "
+"you renew your package."
+msgstr ""
+"انتهت صلاحية الحزمة الخاصة بك! لن تتمكن من متابعة القوائم ما لم تقم بتجديد "
+"الحزمة الخاصة بك."
+
+#: inc/theme_utilities.php:1307 inc/theme_utilities.php:1322
+#: template-parts/dashboard/my-properties/expired.php:91
+msgid "Notification"
+msgstr "إشعارات"
+
+#: inc/theme_utilities.php:1309
+msgid ""
+"Your listings are expired! You will not be able to continue listings unless "
+"you renew your package."
+msgstr ""
+"انتهت صلاحية قوائمك! لن تتمكن من متابعة القوائم ما لم تقم بتجديد الحزمة "
+"الخاصة بك."
+
+#: inc/theme_utilities.php:1324 inc/theme_utilities.php:1378
+msgid "You dont have any package please select a package to submit listings."
+msgstr "ليس لديك أي حزمة يرجى تحديد حزمة لتقديم القوائم."
+
+#: inc/theme_utilities.php:1339
+msgid "You don't have any review yet!. Your review score will be here. "
+msgstr "ليس لديك أي مراجعة حتى الآن!. ستكون نقاط تقييمك هنا. "
+
+#: inc/theme_utilities.php:1352
+msgid "Your recent reviews or feedback will be shown here."
+msgstr "سيتم عرض تعليقاتك أو ملاحظاتك الأخيرة هنا."
+
+#: inc/theme_utilities.php:1365
+msgid ""
+"Sorry! You have no listing yet! Most viewed listings will be shown here."
+msgstr "معذرة! ليس لديك قائمة حتى الآن! سيتم عرض القوائم الأكثر مشاهدة هنا."
+
+#: inc/theme_utilities.php:1459
+msgid "Currency"
+msgstr "العملة"
+
+#: inc/wpml/wpml-functions.php:58
+msgid "All Languages"
+msgstr "كل اللغات"
+
+#: template-parts/agency-detial/listings/properties.php:27
+msgid "View All Properties"
+msgstr "عرض جميع الإعلانات"
+
+#: template-parts/agency-detial/style-type/classic.php:146
+#: template-parts/agent-detial/style-type/classic.php:126
+#: template-parts/buyer-detial/style-type/classic.php:126
+#, php-format
+msgid "(%d Ratings)"
+msgstr "(%d تقييمات )"
+
+#: template-parts/agency-detial/style-type/classic.php:158
+#: template-parts/agent-detial/style-type/classic.php:138
+#: template-parts/buyer-detial/style-type/classic.php:138
+msgid "View Listings"
+msgstr "اعرض العقارات "
+
+#: template-parts/authorization/password-reset.php:9
+msgid "Reset Your Password"
+msgstr "اعد ضبط كلمه السر"
+
+#: template-parts/authorization/signin.php:22
+msgid "Invalid security token."
+msgstr "رمز أمان غير صالح."
+
+#: template-parts/authorization/signin.php:26
+msgid "Your account has been verified."
+msgstr "تم التحقق من رقم الهاتف."
+
+#: template-parts/authorization/signin.php:80
+msgid "Forgot password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: template-parts/authorization/signin.php:104
+msgid "Don't have an account?"
+msgstr "ليس لديك حساب؟"
+
+#: template-parts/authorization/signin.php:104
+msgid "Sign up now!"
+msgstr "انشاء الحساب"
+
+#: template-parts/authorization/signin.php:118
+msgid "Forgot your password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: template-parts/authorization/signin.php:132
+msgid "Reset My Password"
+msgstr "إعادة تعيين كلمة المرور الخاصة بي"
+
+#: template-parts/authorization/signup.php:42
+#: template-parts/dashboard/role/assign-role.php:7
+#: template-parts/dashboard/role/assign-role.php:13
+msgid "Select User Type"
+msgstr "تحديد نوع المستخدم"
+
+#: template-parts/authorization/signup.php:43
+#: template-parts/dashboard/role/assign-role.php:14
+msgid "Agency"
+msgstr "وكالة"
+
+#: template-parts/authorization/signup.php:44
+#: template-parts/dashboard/role/assign-role.php:15
+msgid "Agent"
+msgstr "الوكلاء"
+
+#: template-parts/authorization/signup.php:45
+#: template-parts/dashboard/role/assign-role.php:16
+msgid "Buyer/Individual"
+msgstr "المشتري / الفرد"
+
+#: template-parts/authorization/signup.php:92
+#, php-format
+msgid "I agree to the <a href=\"%s\">terms of service</a>"
+msgstr "أوافق على <a href=\"%s\">شروط الخدمة</a>"
+
+#: template-parts/blog/blog-detial/content-area.php:9
+msgid "Post date"
+msgstr "تاريخ النشر"
+
+#: template-parts/blog/blog-detial/content-area.php:18
+msgid "Post author"
+msgstr "كاتب المقال"
+
+#: template-parts/blog/blog-detial/content-area.php:23
+#, php-format
+msgid "By %s"
+msgstr "بواسطة %s"
+
+#: template-parts/blog/blog-detial/content-area.php:29
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: template-parts/blog/blog-detial/content-area.php:33
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "في"
+
+#: template-parts/blog/content-none.php:13
+msgid "Sorry!!! No Record Found"
+msgstr "معذرة!!! لم يتم العثور على سجل"
+
+#: template-parts/blog/get-blog-posts.php:23
+msgid "Read More"
+msgstr "المزيد"
+
+#: template-parts/compare/compare-detial.php:17
+msgid "Specifications"
+msgstr "مواصفات"
+
+#: template-parts/compare/compare-detial.php:57
+msgid "Other Features"
+msgstr "مميزات أخرى"
+
+#: template-parts/compare/compare-listings.php:58
+#: template-parts/search/agency-search/search-with-sidebar.php:98
+#: template-parts/search/agent-search/search-with-sidebar.php:108
+#: template-parts/search/property-search/search-with-map.php:351
+#: template-parts/search/property-search/search-with-modern.php:401
+#: template-parts/search/property-search/search-with-sidebar.php:388
+msgid "Clear All"
+msgstr "محو الكل"
+
+#: template-parts/dashboard/agents/content-none.php:14
+#: template-parts/dashboard/my-properties/content-none-saved.php:14
+#: template-parts/dashboard/my-properties/content-none.php:14
+msgid "No Result Found."
+msgstr "لم يتم العثور على نتائج."
+
+#: template-parts/dashboard/agents/content-none.php:17
+msgid "Sorry, You haven't added any agent yet!"
+msgstr "عذرا ، لم تقم بإضافة أي وكيل حتى الآن!"
+
+#: template-parts/dashboard/agents/create.php:38
+msgid "Select Agent Type"
+msgstr "اختر نوع الوكيل"
+
+#: template-parts/dashboard/agents/create.php:113
+msgid "View"
+msgstr "عرض"
+
+#: template-parts/dashboard/agents/publish.php:38
+msgid "View All Agents"
+msgstr "عرض جميع الوكلاء"
+
+#: template-parts/dashboard/agents/publish.php:60
+msgid "N/A"
+msgstr "غير مطابق"
+
+#: template-parts/dashboard/agents/publish.php:94
+#, php-format
+msgid "Properties : %s"
+msgstr "الخصائص : %s"
+
+#: template-parts/dashboard/content-area/dashboard.php:312
+msgid "posted a review "
+msgstr "تم نشر المراجعة بنجاح"
+
+#: template-parts/dashboard/content-area/dashboard.php:316
+#: template-parts/listing-detial/sidebar/profile.php:135
+msgid "View More"
+msgstr "مشاهدة المزيد"
+
+#: template-parts/dashboard/content-area/dashboard.php:338
+msgid "Most Viewed Properties"
+msgstr "العقارات الأكثر مشاهدة"
+
+#: template-parts/dashboard/content-area/dashboard.php:407
+msgid "Plan Details"
+msgstr "تفاصيل الخطة"
+
+#: template-parts/dashboard/content-area/dashboard.php:418
+msgid "View Packages"
+msgstr "عرض الباقات"
+
+#: template-parts/dashboard/invoices/content-none.php:14
+msgid "No Order Found."
+msgstr "لم يتم العثور على طلب."
+
+#: template-parts/dashboard/invoices/content-none.php:17
+msgid "Sorry! There is no invoice generated yet!"
+msgstr "معذرة! لا توجد فاتورة تم إنشاؤها حتى الآن!"
+
+#: template-parts/dashboard/invoices/invoice.php:66
+msgid "View Property"
+msgstr "عرض العقار"
+
+#: template-parts/dashboard/invoices/invoice.php:72
+msgid "Purchase Date"
+msgstr "تاريخ الشراء"
+
+#: template-parts/dashboard/my-properties/complete.php:102
+msgid "Pay Per Listing"
+msgstr "لكل قائمة"
+
+#: template-parts/dashboard/my-properties/complete.php:122
+msgid "Sorry, something went wrong. Please try again, or refresh the page."
+msgstr "آسف ، حدث خطأ ما. يرجى المحاولة مرة أخرى، أو تحديث الصفحة."
+
+#: template-parts/dashboard/my-properties/content-none-saved.php:17
+msgid "There are no favorites"
+msgstr "لا توجد المفضلة"
+
+#: template-parts/dashboard/my-properties/content-none.php:17
+msgid "Sorry! You have no listing yet!"
+msgstr "معذرة! ليس لديك قائمه حتى الآن!"
+
+#: template-parts/dashboard/my-properties/create.php:778
+#: template-parts/dashboard/my-properties/create.php:892
+msgid "Delete Plan Image"
+msgstr "صورة العنصر النائب للوكيل"
+
+#: template-parts/dashboard/my-properties/create.php:786
+#: template-parts/dashboard/my-properties/create.php:885
+msgid "Select Plan Image"
+msgstr "حدد صورة الخطة"
+
+#: template-parts/dashboard/my-properties/create.php:1013
+#: template-parts/search/property-search/search-with-map.php:217
+#: template-parts/search/property-search/search-with-modern.php:231
+#: template-parts/search/property-search/search-with-modern.php:247
+#: template-parts/search/property-search/search-with-sidebar.php:223
+#: template-parts/search/property-search/search-with-sidebar.php:239
+msgid "Select an option"
+msgstr "حدد اختيارا"
+
+#: template-parts/dashboard/my-properties/create.php:1050
+msgid "Listing Settings"
+msgstr "إعدادات الادراج"
+
+#: template-parts/dashboard/my-properties/create.php:1059
+msgid "Mark This Listing As Featured!"
+msgstr "ضع علامة على هذه القائمة على أنها مميزة!"
+
+#: template-parts/dashboard/my-properties/create.php:1079
+msgid "Yes (Anyone can view my listing)"
+msgstr "نعم (يمكن لأي شخص عرض قائمتي)"
+
+#: template-parts/dashboard/my-properties/create.php:1087
+msgid "No (Only logged in user can view)"
+msgstr "لا (يمكن للمستخدم الذي قام بتسجيل الدخول فقط العرض)"
+
+#: template-parts/dashboard/my-properties/expired.php:94
+msgid ""
+"Properties were no longer visible for public view. It no longer appears in "
+"search or home."
+msgstr "لم تعد الخصائص مرئية للعرض العام. لم يعد يظهر في البحث أو المنزل."
+
+#: template-parts/dashboard/my-properties/expired.php:141
+msgid "Re Active"
+msgstr "أعاده نشطه"
+
+#: template-parts/dashboard/my-properties/order.php:28
+msgid "Submission Fee"
+msgstr "رسوم التقديم"
+
+#: template-parts/dashboard/my-properties/order.php:33
+msgid "Featured Fee"
+msgstr "رسوم المميزة"
+
+#: template-parts/dashboard/my-properties/order.php:73
+msgid "Submission Fee : "
+msgstr "رسوم التقديم : "
+
+#: template-parts/dashboard/my-properties/order.php:82
+msgid "Duration :"
+msgstr "المدة :"
+
+#: template-parts/dashboard/my-properties/order.php:82
+msgid "Never Expire"
+msgstr "نص الخيار لا تنتهي صلاحيته أبدا"
+
+#: template-parts/dashboard/my-properties/order.php:86
+#, php-format
+msgid "Duration : %s Days"
+msgstr "مدة التوصيل (تقريبي) : %s يوم"
+
+#: template-parts/dashboard/my-properties/order.php:94
+msgid "Featured For :"
+msgstr "عنوان الإعلانات المميزة"
+
+#: template-parts/dashboard/my-properties/order.php:94
+msgid "Forever"
+msgstr "إلى الأبد"
+
+#: template-parts/dashboard/my-properties/order.php:98
+#, php-format
+msgid "Featured For : %s Days"
+msgstr "متميز ل : %s يوم"
+
+#: template-parts/dashboard/my-properties/order.php:106
+msgid "Featured Fee : "
+msgstr "الرسوم المميزة : "
+
+#: template-parts/dashboard/my-properties/order.php:126
+msgid "Select Payment"
+msgstr "حدد نوع الدفع"
+
+#: template-parts/dashboard/my-properties/order.php:134
+#: template-parts/dashboard/my-properties/order.php:147
+msgid "-- OR --"
+msgstr "-- أو --"
+
+#: template-parts/dashboard/profile-reviews/received.php:136
+msgid "posted a review on your profile"
+msgstr "نشر تعليق على ملفك الشخصي"
+
+#: template-parts/dashboard/profile-reviews/received.php:144
+#: template-parts/dashboard/profile-reviews/submitted.php:86
+msgid "Recommended You"
+msgstr "موصى بك"
+
+#: template-parts/dashboard/profile-reviews/received.php:149
+#: template-parts/dashboard/profile-reviews/submitted.php:91
+#: template-parts/generic-sections/reviews/reviews.php:66
+msgid "Not Recommended"
+msgstr "غير مستحسن"
+
+#: template-parts/dashboard/profile-reviews/received.php:259
+#: template-parts/dashboard/reviews/received.php:146
+msgid "Reply to this review"
+msgstr "الرد علي هذا الاستعراض"
+
+#: template-parts/dashboard/profile-reviews/received.php:264
+#: template-parts/dashboard/profile-reviews/submitted.php:374
+#: template-parts/dashboard/reviews/received.php:150
+#: template-parts/dashboard/reviews/submitted.php:176
+msgid "Write a reply to this review"
+msgstr "اكتب ردا علي هذا التعليق"
+
+#: template-parts/dashboard/profile-reviews/received.php:272
+#: template-parts/dashboard/profile-reviews/submitted.php:384
+#: template-parts/dashboard/reviews/received.php:157
+#: template-parts/dashboard/reviews/submitted.php:183
+msgid "Submit Reply"
+msgstr "إرسال"
+
+#: template-parts/dashboard/profile-reviews/received.php:288
+#: template-parts/dashboard/reviews/received.php:172
+msgid "No Review Received!"
+msgstr "لم يتم الحصول علي مراجعه!"
+
+#: template-parts/dashboard/profile-reviews/received.php:289
+#: template-parts/dashboard/profile-reviews/submitted.php:406
+#: template-parts/dashboard/reviews/received.php:173
+#: template-parts/dashboard/reviews/submitted.php:199
+msgid "All notification will be shown here."
+msgstr "سيتم عرض جميع الإشعارات هنا."
+
+#: template-parts/dashboard/profile-reviews/submitted.php:77
+#: template-parts/dashboard/reviews/submitted.php:102
+msgid "You have posted a review on"
+msgstr "تم نشر المراجعة بنجاح"
+
+#: template-parts/dashboard/profile-reviews/submitted.php:201
+#: template-parts/dashboard/reviews/submitted.php:137
+msgid "Edit Review"
+msgstr "تحرير مراجعة"
+
+#: template-parts/dashboard/profile-reviews/submitted.php:334
+#: template-parts/dashboard/profile-reviews/submitted.php:354
+#: template-parts/generic-sections/reviews/form.php:157
+#: template-parts/generic-sections/reviews/form.php:177
+#: template-parts/listing-detial/custom-fields/custom-field.php:109
+msgid "Yes"
+msgstr "نعم"
+
+#: template-parts/dashboard/profile-reviews/submitted.php:340
+#: template-parts/dashboard/profile-reviews/submitted.php:360
+#: template-parts/generic-sections/reviews/form.php:163
+#: template-parts/generic-sections/reviews/form.php:183
+msgid "No"
+msgstr "لا"
+
+#: template-parts/dashboard/profile-reviews/submitted.php:405
+#: template-parts/dashboard/reviews/submitted.php:198
+msgid "No Review Submitted!"
+msgstr "لم يتم تقديم أي تعليق!"
+
+#: template-parts/dashboard/profile/agency.php:144
+#: template-parts/dashboard/profile/agent.php:102
+msgid "Select Location"
+msgstr "اختر الموقع الجغرافى"
+
+#: template-parts/dashboard/profile/agency.php:212
+#: template-parts/dashboard/profile/agent.php:243
+#: template-parts/dashboard/profile/buyer.php:168
+msgid "Street no 12,Cardiff"
+msgstr "شارع رقم 12، كارديف"
+
+#: template-parts/dashboard/profile/agency.php:225
+#: template-parts/dashboard/profile/agent.php:256
+#: template-parts/dashboard/profile/buyer.php:181
+msgid "Your location Latitude"
+msgstr "موقعك Latitude"
+
+#: template-parts/dashboard/profile/agency.php:233
+#: template-parts/dashboard/profile/agent.php:264
+#: template-parts/dashboard/profile/buyer.php:189
+msgid "Your location Longitude"
+msgstr "خط طول موقعك"
+
+#: template-parts/dashboard/profile/agent.php:153
+msgid "Eg: Monday - Friday, 9 AM - 9 PM"
+msgstr "على سبيل المثال: الاثنين - الجمعة، 9 صباحا - 9 مساء"
+
+#: template-parts/dashboard/profile/agent.php:169
+msgid "Eg: Founder & CEO."
+msgstr "على سبيل المثال: المؤسس والرئيس التنفيذي."
+
+#: template-parts/dashboard/profile/info.php:111
+msgid "Cover Image"
+msgstr "صورة الغلاف"
+
+#: template-parts/dashboard/profile/info.php:129
+#: template-parts/dashboard/profile/info.php:130
+msgid "Upload"
+msgstr "رفع"
+
+#: template-parts/dashboard/reviews/received.php:112
+msgid "posted a review on"
+msgstr "تم نشر المراجعة بنجاح"
+
+#: template-parts/dashboard/reviews/received.php:133
+#: template-parts/dashboard/reviews/submitted.php:124
+msgid "5"
+msgstr "الشبكة 5"
+
+#: template-parts/dashboard/role/assign-role.php:26
+msgid ""
+"<strong>Note:</strong> Please choose your type accordingly because you can't "
+"change your type after selection."
+msgstr ""
+"<strong>ملاحظه:</strong> يرجى اختيار النوع الخاص بك وفقا لذلك لأنه لا يمكنك "
+"تغيير النوع بعد التحديد."
+
+#: template-parts/generic-sections/reviews/form.php:206
+#: template-parts/listing-detial/reviews/form.php:55
+msgid "Submit Review"
+msgstr "أرسل تقييمك"
+
+#: template-parts/generic-sections/reviews/reviews.php:62
+#: tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "موصى به"
+
+#: template-parts/generic-sections/reviews/reviews.php:190
+#: template-parts/listing-detial/reviews/reviews.php:90
+msgid "Author responded on"
+msgstr "ورد صاحب البلاغ علي"
+
+#: template-parts/generic-sections/sidebar/contact/contact.php:7
+msgid "Contact"
+msgstr "اتصال"
+
+#: template-parts/generic-sections/sidebar/contact/contact.php:25
+#: template-parts/listing-detial/schedule/schedule.php:71
+#: template-parts/listing-detial/sidebar/contact.php:56
+#: template-parts/listing-detial/style-type/classic.php:269
+msgid "Your Message"
+msgstr "الرجاء إدخال رسالتك."
+
+#: template-parts/generic-sections/sidebar/contact/contact.php:32
+#: template-parts/listing-detial/schedule/schedule.php:80
+#: template-parts/listing-detial/sidebar/contact.php:63
+msgid "Send Email"
+msgstr "ارسل بريد الكتروني"
+
+#: template-parts/generic-sections/sidebar/info/info.php:103
+#: template-parts/listing-detial/sidebar/profile.php:129
+msgid "View Website"
+msgstr "عرض الموقع"
+
+#: template-parts/generic-sections/sidebar/score/score.php:65
+#, php-format
+msgid "View All %s"
+msgstr "عرض كل %s"
+
+#: template-parts/listing-detial/custom-fields/custom-field.php:99
+msgid "Link"
+msgstr "رابط فيديو يوتيوب"
+
+#: template-parts/listing-detial/details/detail.php:8
+msgid "Last Updated On"
+msgstr "تم آخر تحديث بتاريخ"
+
+#: template-parts/listing-detial/details/detail.php:8
+msgid "at"
+msgstr "في"
+
+#: template-parts/listing-detial/floorplans/plans.php:27
+msgid "Rooms"
+msgstr "الغرف"
+
+#: template-parts/listing-detial/floorplans/plans.php:28
+msgid "Bath"
+msgstr "حمام"
+
+#: template-parts/listing-detial/nearby/nearby.php:14
+#: template-parts/listing-detial/walkscore/walkscore.php:18
+msgid "Powered by"
+msgstr "بدعم من"
+
+#: template-parts/listing-detial/reviews/reviews.php:102
+msgid "Like"
+msgstr "إعجاب"
+
+#: template-parts/listing-detial/reviews/reviews.php:106
+msgid "Love"
+msgstr "أحببته"
+
+#: template-parts/listing-detial/reviews/reviews.php:114
+msgid "Dislike"
+msgstr "نپسندیدم"
+
+#: template-parts/listing-detial/reviews/score.php:12
+msgid "Average Based On"
+msgstr "نموذج التصنيفات"
+
+#: template-parts/listing-detial/reviews/score.php:12
+#: template-parts/listing-detial/style-type/classic.php:97
+#: template-parts/listing-detial/style-type/elegent.php:93
+msgid "Ratings"
+msgstr "التقييمات"
+
+#: template-parts/listing-detial/schedule/schedule.php:14
+#: tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "النوع"
+
+#: template-parts/listing-detial/schedule/schedule.php:25
+msgid "Date"
+msgstr "التاريخ"
+
+#: template-parts/listing-detial/schedule/schedule.php:33
+msgid "Time"
+msgstr "الوقت"
+
+#: template-parts/listing-detial/schedule/schedule.php:55
+msgid "Phone"
+msgstr "الهاتف"
+
+#: template-parts/listing-detial/sidebar/calculator.php:43
+msgid "Yearly"
+msgstr "سنوي"
+
+#: template-parts/listing-detial/sidebar/calculator.php:44
+msgid "Monthly"
+msgstr "شهري"
+
+#: template-parts/listing-detial/sidebar/calculator.php:46
+msgid "Enter Percentage"
+msgstr "أدخل النسبة المئوية"
+
+#: template-parts/listing-detial/sidebar/calculator.php:53
+msgid "Years"
+msgstr "سنوات"
+
+#: template-parts/listing-detial/sidebar/calculator.php:54
+msgid "Months"
+msgstr "أشهر"
+
+#: template-parts/listing-detial/sidebar/calculator.php:56
+msgid "Enter Duration"
+msgstr "أدخل المدة"
+
+#: template-parts/listing-detial/sidebar/calculator.php:64
+msgid "The remaining dept is"
+msgstr "القسم المتبقي هو"
+
+#: template-parts/listing-detial/sidebar/calculator.php:65
+msgid "The monthly rate is"
+msgstr "المعدل الشهري هو"
+
+#: template-parts/listing-detial/sidebar/calculator.php:66
+msgid "There are"
+msgstr "هناك"
+
+#: template-parts/listing-detial/sidebar/calculator.php:66
+msgid "Payment Periods"
+msgstr "فترات الدفع"
+
+#: template-parts/listing-detial/sidebar/calculator.php:67
+msgid "The Monthly Payment"
+msgstr "الدفعة الشهرية"
+
+#: template-parts/listing-detial/sidebar/calculator.php:68
+msgid "Total Payment"
+msgstr "المبلغ الإجمالي"
+
+#: template-parts/listing-detial/sidebar/calculator.php:69
+msgid "Total Interest Payment"
+msgstr "قيمة الفائدة"
+
+#: template-parts/listing-detial/sidebar/stats.php:28
+#: template-parts/listing-detial/sidebar/stats.php:32
+#, php-format
+msgid "%s Rating"
+msgstr "‫%s تقييم"
+
+#: template-parts/listing-detial/sidebar/stats.php:44
+#: template-parts/listing-detial/sidebar/stats.php:48
+#, php-format
+msgid "%s Favorites"
+msgstr "%s مفضلات"
+
+#: template-parts/listing-detial/sidebar/stats.php:67
+#: template-parts/listing-detial/sidebar/stats.php:71
+#, php-format
+msgid "%s Comments"
+msgstr "%s تعليقات"
+
+#: template-parts/listing-detial/sidebar/stats.php:83
+#: template-parts/listing-detial/sidebar/stats.php:87
+#, php-format
+msgid "%s Likes"
+msgstr "%s الاعجابات"
+
+#: template-parts/listing-detial/sidebar/stats.php:99
+#: template-parts/listing-detial/sidebar/stats.php:103
+#, php-format
+msgid "%s Love"
+msgstr "%s الحب"
+
+#: template-parts/listing-detial/sidebar/stats.php:115
+#: template-parts/listing-detial/sidebar/stats.php:119
+#, php-format
+msgid "%s Dislike"
+msgstr "%s لا يعجبني"
+
+#: template-parts/listing-detial/style-type/classic.php:50
+#: template-parts/listing-detial/style-type/elegent.php:43
+msgid "Notification!"
+msgstr "إشعارات"
+
+#: template-parts/listing-detial/style-type/classic.php:53
+#: template-parts/listing-detial/style-type/elegent.php:46
+msgid "This listing has been expired."
+msgstr "انتهت صلاحية الإدراج"
+
+#: template-parts/listing-detial/style-type/classic.php:102
+#, php-format
+msgid "Views : %s "
+msgstr "المشاهدات : %s"
+
+#: template-parts/listing-detial/style-type/classic.php:238
+msgid "This property is marketed by"
+msgstr "يتم تسويق هذا العقار من قبل"
+
+#: template-parts/listing-detial/style-type/classic.php:274
+msgid "Request Info"
+msgstr "طلب معلومات"
+
+#: template-parts/listing-detial/style-type/rearrange-notification.php:14
+msgid "Rearrange the ad photos."
+msgstr "أعد ترتيب صورك الإعلانية."
+
+#: template-parts/listing-detial/style-type/rearrange-notification.php:32
+msgid "Re-arrange your ad photo(s)."
+msgstr "أعد ترتيب صورك الإعلانية."
+
+#: template-parts/listing-detial/style-type/rearrange-notification.php:40
+msgid "*First image will be main display image of this ad."
+msgstr "* الصورة الاولي ستكون صوره العرض الرئيسية لهذا الإعلان."
+
+#: template-parts/listing-detial/style-type/rearrange-notification.php:44
+msgid "Ad photos has been re-arranged."
+msgstr "تمت إعادة ترتيب صور الإعلانات."
+
+#: template-parts/listing-detial/style-type/rearrange-notification.php:49
+msgid "Re-arrange"
+msgstr "إعادة الترتيب"
+
+#: template-parts/listing-detial/walkscore/walkscore.php:32
+msgid "Walk Scores"
+msgstr "نقاط المشي"
+
+#: template-parts/listing-detial/walkscore/walkscore.php:38
+msgid "View More details"
+msgstr "عرض المزيد من التفاصيل"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:26
+msgid "Find Agencies"
+msgstr "البحث عن وكالات"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:34
+#: template-parts/search/agent-search/search-with-sidebar.php:39
+#: template-parts/search/property-search/search-with-modern.php:180
+#: template-parts/search/property-search/search-with-sidebar.php:172
+msgid "Select Distance"
+msgstr "حدد المسافة"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:39
+#: template-parts/search/agent-search/search-with-sidebar.php:44
+#: template-parts/search/property-search/search-with-modern.php:185
+#: template-parts/search/property-search/search-with-sidebar.php:177
+msgid "KM"
+msgstr "اختر المسافة في (كم)"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:48
+#: template-parts/search/agent-search/search-with-sidebar.php:53
+msgid "Search By Name"
+msgstr "صفحات البحث"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:62
+#: template-parts/search/agent-search/search-with-sidebar.php:72
+#: template-parts/search/property-search/search-with-modern.php:350
+#: template-parts/search/property-search/search-with-sidebar.php:343
+msgid "Search"
+msgstr "بحث..."
+
+#: template-parts/search/agency-search/search-with-sidebar.php:79
+#: template-parts/search/agent-search/search-with-sidebar.php:89
+#: template-parts/search/property-search/search-with-modern.php:372
+#: template-parts/search/property-search/search-with-sidebar.php:360
+#, php-format
+msgid "<span class=\"clr-yal\"> %d </span> Results Found "
+msgstr "<span class=\"clr-yal\"> %d </span> النتائج التي تم العثور عليها "
+
+#: template-parts/search/agency-search/search-with-sidebar.php:82
+#: template-parts/search/agent-search/search-with-sidebar.php:92
+#: template-parts/search/property-search/search-with-map.php:326
+#: template-parts/search/property-search/search-with-modern.php:375
+#: template-parts/search/property-search/search-with-sidebar.php:363
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:85
+#: template-parts/search/agent-search/search-with-sidebar.php:95
+#: template-parts/search/property-search/search-with-map.php:329
+#: template-parts/search/property-search/search-with-modern.php:378
+#: template-parts/search/property-search/search-with-sidebar.php:366
+msgid "Newest To Oldest"
+msgstr "ابتدا جدیدتر"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:86
+#: template-parts/search/agent-search/search-with-sidebar.php:96
+#: template-parts/search/property-search/search-with-map.php:330
+#: template-parts/search/property-search/search-with-modern.php:379
+#: template-parts/search/property-search/search-with-sidebar.php:367
+msgid "Oldest To New"
+msgstr "الأقدم إلى الجديد"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:87
+#: template-parts/search/agent-search/search-with-sidebar.php:97
+#: template-parts/search/property-search/search-with-map.php:333
+#: template-parts/search/property-search/search-with-modern.php:382
+#: template-parts/search/property-search/search-with-sidebar.php:370
+msgid "Alphabetically [a-z]"
+msgstr "أبجديا [a-z]"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:88
+#: template-parts/search/agent-search/search-with-sidebar.php:98
+#: template-parts/search/property-search/search-with-map.php:334
+#: template-parts/search/property-search/search-with-modern.php:383
+#: template-parts/search/property-search/search-with-sidebar.php:371
+msgid "Alphabetically [z-a]"
+msgstr "أبجديا [z-a]"
+
+#: template-parts/search/agency-search/search-with-sidebar.php:98
+#: template-parts/search/agent-search/search-with-sidebar.php:108
+#: template-parts/search/property-search/search-with-map.php:351
+#: template-parts/search/property-search/search-with-modern.php:401
+#: template-parts/search/property-search/search-with-sidebar.php:388
+msgid "Filters"
+msgstr "الفلاتر"
+
+#: template-parts/search/agent-search/search-with-sidebar.php:31
+msgid "Find Agents"
+msgstr "البحث عن وكلاء"
+
+#: template-parts/search/property-search/search-with-map.php:184
+#: template-parts/search/property-search/search-with-modern.php:197
+#: template-parts/search/property-search/search-with-sidebar.php:189
+msgid "Keyword (e.g 'office')"
+msgstr "الكلمة الرئيسية (مثل \"المكتب\")"
+
+#: template-parts/search/property-search/search-with-map.php:207
+#: template-parts/search/property-search/search-with-modern.php:229
+#: template-parts/search/property-search/search-with-modern.php:230
+#: template-parts/search/property-search/search-with-sidebar.php:221
+#: template-parts/search/property-search/search-with-sidebar.php:222
+msgid "Location"
+msgstr " الموقع"
+
+#: template-parts/search/property-search/search-with-map.php:238
+#: template-parts/search/property-search/search-with-modern.php:257
+#: template-parts/search/property-search/search-with-sidebar.php:249
+msgid "Price From"
+msgstr "من سعر"
+
+#: template-parts/search/property-search/search-with-map.php:242
+#: template-parts/search/property-search/search-with-modern.php:261
+#: template-parts/search/property-search/search-with-sidebar.php:253
+msgid "Price To"
+msgstr "الى السعر"
+
+#: template-parts/search/property-search/search-with-map.php:251
+#: template-parts/search/property-search/search-with-modern.php:267
+#: template-parts/search/property-search/search-with-sidebar.php:259
+msgid "(Sqft)"
+msgstr "(قدم مربع)"
+
+#: template-parts/search/property-search/search-with-map.php:253
+#: template-parts/search/property-search/search-with-modern.php:269
+#: template-parts/search/property-search/search-with-sidebar.php:261
+msgid "Area From"
+msgstr "تبدأ المساحة من"
+
+#: template-parts/search/property-search/search-with-map.php:257
+#: template-parts/search/property-search/search-with-modern.php:273
+#: template-parts/search/property-search/search-with-sidebar.php:265
+msgid "Area To"
+msgstr "المساحة إلى"
+
+#: template-parts/search/property-search/search-with-map.php:268
+#: template-parts/search/property-search/search-with-map.php:287
+#: template-parts/search/property-search/search-with-modern.php:282
+#: template-parts/search/property-search/search-with-modern.php:301
+#: template-parts/search/property-search/search-with-sidebar.php:274
+#: template-parts/search/property-search/search-with-sidebar.php:293
+msgid "Any"
+msgstr "اي"
+
+#: template-parts/search/property-search/search-with-map.php:270
+#: template-parts/search/property-search/search-with-map.php:289
+#: template-parts/search/property-search/search-with-modern.php:284
+#: template-parts/search/property-search/search-with-modern.php:303
+#: template-parts/search/property-search/search-with-sidebar.php:276
+#: template-parts/search/property-search/search-with-sidebar.php:295
+msgid "1+"
+msgstr "1+"
+
+#: template-parts/search/property-search/search-with-map.php:272
+#: template-parts/search/property-search/search-with-map.php:291
+#: template-parts/search/property-search/search-with-modern.php:286
+#: template-parts/search/property-search/search-with-modern.php:305
+#: template-parts/search/property-search/search-with-sidebar.php:278
+#: template-parts/search/property-search/search-with-sidebar.php:297
+msgid "2+"
+msgstr "2+"
+
+#: template-parts/search/property-search/search-with-map.php:274
+#: template-parts/search/property-search/search-with-map.php:293
+#: template-parts/search/property-search/search-with-modern.php:288
+#: template-parts/search/property-search/search-with-modern.php:307
+#: template-parts/search/property-search/search-with-sidebar.php:280
+#: template-parts/search/property-search/search-with-sidebar.php:299
+msgid "3+"
+msgstr "3+"
+
+#: template-parts/search/property-search/search-with-map.php:276
+#: template-parts/search/property-search/search-with-map.php:295
+#: template-parts/search/property-search/search-with-modern.php:290
+#: template-parts/search/property-search/search-with-modern.php:309
+#: template-parts/search/property-search/search-with-sidebar.php:282
+#: template-parts/search/property-search/search-with-sidebar.php:301
+msgid "4+"
+msgstr "4+"
+
+#: template-parts/search/property-search/search-with-map.php:278
+#: template-parts/search/property-search/search-with-map.php:297
+#: template-parts/search/property-search/search-with-modern.php:292
+#: template-parts/search/property-search/search-with-modern.php:311
+#: template-parts/search/property-search/search-with-sidebar.php:284
+#: template-parts/search/property-search/search-with-sidebar.php:303
+msgid "5+"
+msgstr "5+"
+
+#: template-parts/search/property-search/search-with-map.php:305
+msgid "Apply Filters"
+msgstr "تطبيق الفرز"
+
+#: template-parts/search/property-search/search-with-map.php:323
+#, php-format
+msgid "Showing 1 - %s of <span class=\"clr-yal\"> %d Listings </span>"
+msgstr "عرض 1 - %s من <span class=\"clr-yal\"> %d القوائم </span>"
+
+#: template-parts/search/property-search/search-with-map.php:331
+#: template-parts/search/property-search/search-with-modern.php:380
+#: template-parts/search/property-search/search-with-sidebar.php:368
+msgid "High to Low Price"
+msgstr "من الاعلى الى الادنى السعر"
+
+#: template-parts/search/property-search/search-with-map.php:332
+#: template-parts/search/property-search/search-with-modern.php:381
+#: template-parts/search/property-search/search-with-sidebar.php:369
+msgid "Low to High Price"
+msgstr "سعر منخفض إلى مرتفع"
+
+#: template-parts/search/property-search/search-with-modern.php:171
+#: template-parts/search/property-search/search-with-sidebar.php:163
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: template-parts/search/property-search/search-with-modern.php:318
+#: template-parts/search/property-search/search-with-sidebar.php:310
+msgid "Filter By Features"
+msgstr "تصفية حسب الميزات"
+
+#: tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#. translators: %s: plugin name.
+#: tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت الإضافة : %s"
+
+#. translators: %s: plugin name.
+#: tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "تحديث الاضافة  %s"
+
+#: tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ مع API المساعد."
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا القالب يوصى بتركيب الإضافة التالية: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا القالب يوصي بتركيب الإضافة التالية: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"يحتاج البرنامج المساعد التالي إلى تحديث إلى أحدث إصدار لضمان أقصى قدر من "
+"التوافق مع هذا الموضوع: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "هناك تحديث متوفر لل: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "الإضافة المطلوبة التالية غير نشطة حاليا:%1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name(s).
+#: tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "البرنامج المساعد الموصى بها التالية غير نشط حاليا:%1$s."
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "بدأ تنصيب الاضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "البدء بتحديث الإضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "البدء بتفعيل الإضافة"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "البدء بتفعيل الإضافة"
+
+#: tgm/class-tgm-plugin-activation.php:393
+#: tgm/class-tgm-plugin-activation.php:912
+#: tgm/class-tgm-plugin-activation.php:2618
+#: tgm/class-tgm-plugin-activation.php:3648
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: tgm/class-tgm-plugin-activation.php:394
+#: tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل الإضافة بنجاح."
+
+#: tgm/class-tgm-plugin-activation.php:395
+#: tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "الإضافة التالية تم تنشيطها بنجاح:"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: plugin name.
+#: tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. الاضافات نشطه %1$s بالفعل نشط."
+
+#. translators: 1: plugin name.
+#: tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"لم يتم تفعيل الإضافة. إصدار أعلى من %s مطلوب لهذا القالب. يرجى تحديث الإضافة."
+
+#. translators: 1: dashboard link.
+#: tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الاضافات تم تفعيلها بنجاح . %1$s"
+
+#: tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "تجاهل هذا الاشعار"
+
+#: tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحدة او اكثر من الاضافات المطلوبة او الموصى بها لتثبيتها, تحديثها او "
+"تفعيلها."
+
+#: tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "الرجاء الاتصال بمسؤول هذا الموقع للحصول على المساعدة."
+
+#: tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "يحتاج هذا البرنامج المساعد لتحديث لتكون متوافقة مع الموضوع الخاص بك."
+
+#: tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+#: tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"تتكون مجموعة الاضافات النائية في أكثر من ملف و احد، ولكن لم يتم تعبئتها في "
+"لملفات المجلد ."
+
+#: tgm/class-tgm-plugin-activation.php:1019
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال بمبرمج السكربت | عبدالله محمد الحميضي | ‪+‬966505514171 |  ونطلب "
+"منهم الحزم المساعدة وفقا للمبادئ التوجيهية للووردبريس ."
+
+#: tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تتكون حزمة الإضافات على أكثر من ملف, لاكن لم يتم جمع الملفات في مجلد واحد."
+
+#: tgm/class-tgm-plugin-activation.php:1206
+#: tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#. translators: %s: version number
+#: tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "مطلوب"
+
+#: tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "المجموعة مجهزة مسبقا"
+
+#: tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "تم التثبيت ولكن لم يفعل"
+
+#: tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "نشط"
+
+#: tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "يتطلب تحديث"
+
+#: tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "تحديث موصى به"
+
+#. translators: 1: install status, 2: update status
+#: tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "الكل <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: number of plugins.
+#: tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "تنزيل حزمة التثبيت من <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: number of plugins.
+#: tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "تحديث متوفر <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: 1: number of plugins.
+#: tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "تفعيل <span class=“count”>(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "غير معروف"
+
+#: tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "الإصدار المثبت:"
+
+#: tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "الإصدار المثبت:"
+
+#: tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "الإصدار المتوفر:"
+
+#: tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "لا توجد إضافات للتثبيت أو التحديث أو التفعيل."
+
+#: tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "إضافة"
+
+#: tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "إضافة"
+
+#: tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "الإصدار"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "تحديث %2$s"
+
+#: tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "رسالة تحديث من مبرمج  الإضافة:"
+
+#: tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "تثبيت"
+
+#: tgm/class-tgm-plugin-activation.php:2808
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Update"
+msgstr "تحديث"
+
+#: tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "تفعيل"
+
+#: tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم تحديد أي إضافات للتثبيت. بناءاً على ذلك لم يتم إتخاذ أي إجراء."
+
+#: tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم تحديد إضافات للتحديث ، لن يتم اتخاذ أى إجراء."
+
+#: tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "لا يوجد اي اضافات للتثبيت في الوقت الحالي."
+
+#: tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "لا اضافات متاحة ليتم تحديتها في هذاالوقت"
+
+#: tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم تحديد أي إضافات للتفعيل. لم يتم إتخاذ أي إجراء."
+
+#: tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "لا يوجد اي اضافات للتفعيل في الوقت الحالي"
+
+#: tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل الاضافة"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: tgm/class-tgm-plugin-activation.php:3566
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث الإضافة %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: tgm/class-tgm-plugin-activation.php:3569
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء عملية التثبيت %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "فشل تثبيت %1$s."
+
+#: tgm/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"عملية التثبيت والتفعيل بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى "
+"التحلي بالصبر."
+
+#. translators: 1: plugin name.
+#: tgm/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تم التثبيت و التفعيل بنجاح ."
+
+#: tgm/class-tgm-plugin-activation.php:3577
+#: tgm/class-tgm-plugin-activation.php:3585
+msgid "Show Details"
+msgstr "إظهار التفاصيل"
+
+#: tgm/class-tgm-plugin-activation.php:3577
+#: tgm/class-tgm-plugin-activation.php:3585
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: tgm/class-tgm-plugin-activation.php:3578
+msgid "All installations and activations have been completed."
+msgstr "جميع التنزيلات والتفعيل اكتملت"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: tgm/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتفعيل الإضافة %1$s (%2$d/%3$d)"
+
+#: tgm/class-tgm-plugin-activation.php:3583
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت بدأت. قد تستغرق هذه العملية بعض الوقت، لذا يرجى الانتظار ."
+
+#. translators: 1: plugin name.
+#: tgm/class-tgm-plugin-activation.php:3585
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تم التثبيت بنجاح."
+
+#: tgm/class-tgm-plugin-activation.php:3586
+msgid "All installations have been completed."
+msgstr "تم اكتمال جميع عمليات تثبيت سكربت الرمز العبقري | Genius Icon ."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت الإضافة %1$s (%2$d/%3$d)"
+
+#: tgm/tgm-init.php:39
+msgid "Elementor"
+msgstr "مصمم الصفحات"
+
+#: tgm/tgm-init.php:51
+msgid "Redux Framework"
+msgstr "اطار العمل Redux"
+
+#: tgm/tgm-init.php:65
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: tgm/tgm-init.php:76
+msgid "Propertya Elementor Widgets"
+msgstr "Propertya Elementor Widgets"
+
+#: tgm/tgm-init.php:87
+msgid "Propertya Framework"
+msgstr "إطار عمل بروبرتي"
+
+#: tgm/tgm-init.php:98
+msgid "Contact Form 7"
+msgstr "نموذج الاتصال 7"
+
+#: woocommerce/cart/cart-empty.php:29
+msgid "Return to shop"
+msgstr "العودة الى المتجر"
+
+#: woocommerce/cart/cart-shipping.php:53
+#, php-format
+msgid "Shipping to %s."
+msgstr "يشحن إلى %s."
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Change address"
+msgstr "تغيير العنوان"
+
+#: woocommerce/cart/cart-shipping.php:56
+msgid "Shipping options will be updated during checkout."
+msgstr "سيتم تحديث خيارات الشحن أثناء إتمام الطلب."
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr "ادخل عنوانك لعرض خيارات الشحن."
+
+#: woocommerce/cart/cart-shipping.php:68
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"لا توجد خيارات شحن متاحة. يرجى التأكد أن عنوانك قد تم إدخاله بشكل صحيح، أو "
+"التواصل معنا للمساعدة."
+
+#: woocommerce/cart/cart-shipping.php:74
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "لم يتم العثور علي خيارات الشحن ل %s."
+
+#: woocommerce/cart/cart-shipping.php:78
+msgid "Enter a different address"
+msgstr "ادخل عنوانا مختلفا"
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr "اجمالي سلة التسوق"
+
+#: woocommerce/cart/cart-totals.php:31 woocommerce/cart/cart-totals.php:32
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:59
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(متوقع لـ %s)"
+
+#: woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart-totals.php:94
+msgid "Shipping"
+msgstr "الشحن"
+
+#: woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr "متوفر على لائحة الرد"
+
+#: woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr "الكمية"
+
+#: woocommerce/cart/cart.php:94 woocommerce/cart/cart.php:103
+msgctxt "front-end"
+msgid "Quantity"
+msgstr "الكمية"
+
+#: woocommerce/cart/cart.php:131
+msgid "Remove this item"
+msgstr "إزالة هذا العنصر"
+
+#: woocommerce/cart/cart.php:134
+msgid "Remove"
+msgstr "حذف"
+
+#: woocommerce/cart/cart.php:151 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr "كود الكوبون"
+
+#: woocommerce/cart/cart.php:153 woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr "استخدام الكوبون"
+
+#: woocommerce/cart/cart.php:160 woocommerce/cart/cart.php:161
+msgid "Update cart"
+msgstr "تحديث سلة المشتريات"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:25
+msgid "Proceed to checkout"
+msgstr "إتمام عملية الدفع"
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr "حساب الشحن"
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr "اختر الدولة&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:54
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / County"
+msgstr "ولاية / مقاطعة"
+
+#: woocommerce/cart/shipping-calculator.php:55
+msgid "Select an option&hellip;"
+msgstr "حدد اختيار&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / ZIP"
+msgstr "الرمز البريدي"
+
+#: woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr "يجب تسجيل الدخول لتتمكن من الدفع."
+
+#: woocommerce/checkout/form-checkout.php:44
+msgid "Your order"
+msgstr "طلبك"
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Have a coupon?"
+msgstr "لديك كوبون؟"
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Click here to enter your code"
+msgstr "اضغط هنا لإدخال كود الكوبون"
+
+#: woocommerce/checkout/form-coupon.php:30
+msgid "If you have a coupon code, please apply it below."
+msgstr "إذا كان لديك رمز خصم، من فضلك أدخله هنا."
+
+#: woocommerce/checkout/thankyou.php:34
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"للأسف، لا يمكن معالجة طلبك نظرا لأن المصرف / التاجر الأصلي قد رفض معاملتك. "
+"الرجاء محاولة الشراء مرة أخرى."
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "My account"
+msgstr "حسابي"
+
+#: woocommerce/checkout/thankyou.php:47 woocommerce/checkout/thankyou.php:105
+msgid "Thank you. Your order has been received."
+msgstr "شكرا. تم استلام طلبك."
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Order number:"
+msgstr "رقم الطلب:"
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: woocommerce/checkout/thankyou.php:92
+msgid "Payment method:"
+msgstr "طريقة الدفع:"
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr "تفاصيل الطلب"
+
+#: woocommerce/order/order-details.php:51
+msgid "Product"
+msgstr "المنتج"
+
+#: woocommerce/order/order-details.php:93
+msgid "Note:"
+msgstr "ملاحظة:"
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s تقييم لـ %2$s"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr "التقييمات."
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr "اضف مراجعة"
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "كن أول من يقوم بتقييم &ldquo; %s &rdquo;"
+
+#. translators: %s is product title
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "اترك تعليق لـ %s"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr "إرسال"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr "الاسم"
+
+#. translators: %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "يجب أن تكون %1$slogged في%2$s لنشر تقيميك."
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr "تقييمك"
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr "تقييم&hellip;"
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr "ممتاز"
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr "جيد"
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr "متوسط"
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr "ليس سئ"
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr "سيء جداً"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr "اكتب تعليقك"
+
+#: woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "يسمح فقط للزبائن الذين إشتروا هذا المنتج وسجلوا دخولهم بكتابة رأيهم."
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr "هذا المنتج هو حاليا من المخزون وغير متوفرة."
+
+#: woocommerce/single-product/add-to-cart/variable.php:45
+msgid "Clear"
+msgstr "مسح"
+
+#. Theme Name of the plugin/theme
+msgid "Propertya"
+msgstr "بروبرتي(أ)"
+
+#. Theme URI of the plugin/theme
+msgid "https://listing.propertya-wp.com/"
+msgstr "https://listing.propertya-wp.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Propertya is a premium & responsive WordPress theme designed for Real Estate "
+"companies agencies & independent agents where modern aesthetics are "
+"combined. Propertya theme provides a complete property management system "
+"where users can complete online property marketplace for users and members, "
+"offering them their separate profile page, dashboards, and accepting "
+"different payment gateways."
+msgstr ""
+"بروبرتي هو موضوع ووردبريس متميز وسريع الاستجابة مصمم لوكالات الشركات "
+"العقارية والوكلاء المستقلين حيث يتم الجمع بين الجماليات الحديثة. يوفر موضوع "
+"بروبرتي نظاما كاملا لإدارة الممتلكات حيث يمكن للمستخدمين إكمال سوق العقارات "
+"عبر الإنترنت للمستخدمين والأعضاء، وتقديم صفحة ملفهم الشخصي المنفصلة، ولوحات "
+"المعلومات، وقبول بوابات الدفع المختلفة."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "حزمه مخطوطات"
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr "http://scriptsbundle.com/"
+
+#. Template Name of the plugin/theme
+msgid "Agencies Search */"
+msgstr "وكالات البحث */"
+
+#. Template Name of the plugin/theme
+msgid "Agents Search */"
+msgstr "البحث عن الوكلاء */"
+
+#. Template Name of the plugin/theme
+msgid "Compare Properties */"
+msgstr "قارن الخصائص */"
+
+#. Template Name of the plugin/theme
+msgid "Author Dashboard */"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#. Template Name of the plugin/theme
+msgid "Property Search */"
+msgstr "البحث عن عقار */"
+
+#. Template Name of the plugin/theme
+msgid "SignIn Page */"
+msgstr "صفحة تسجيل الدخول */"
+
+#. Template Name of the plugin/theme
+msgid "Registration Page */"
+msgstr "صفحة التسجيل */"

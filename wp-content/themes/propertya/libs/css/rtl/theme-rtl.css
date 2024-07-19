@@ -1,0 +1,857 @@
+.rtl .sb-header .logo , .rtl  .header-1 .sb-menu > ul.menu-items , .rtl  .ag-about .about-video .video-2 {
+    float: right;
+}
+.rtl .nhome-3 .call-us, .rtl .main-home-sec7 .apple-div , .rtl  .main-home-sec7 .and-div , .rtl .ag-about .about-content .cal-action ul li div.est , .rtl  .search-form-inner , .rtl .heading-dots .h-dot , .rtl  .main-dis-area .agent-title .agent-photo , .rtl .au-dp {
+    float: right;
+}
+.rtl  .nhome-3 .logo {
+    margin-left: inherit;
+    margin-right: 45px;
+}
+.rtl .nhome-3 .sb-menu > ul.menu-items {
+    float: right;
+    padding-left: inherit;
+    padding-right: 45px;
+}
+.rtl  .nhome-3 .call-us .call-image {
+    float: right;
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl   .nhome-3 .sb-menu ul.auth-elements {
+    float: left;
+    border-left:none;
+    border-right: 1px solid #e3e4e6;
+}
+.rtl  .sb-header .sb-header-container .sb-menu .auth-elements li.user-avatar-dp .my-custom-auth li a i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .sb-menu ul li.dropdown_menu > a > span::before {
+    margin-left: inherit;
+    margin-right: 5px;
+}
+.rtl  .sb-menu ul ul li > a::before {
+    content: "\f104";
+    float: right;
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .sb-menu li > ul ul {
+    left: inherit;
+    right: 100%;
+}
+.rtl  .header-1 .sb-header-container .logo {
+    padding-right: inherit;
+     padding-left: 20px;
+}
+.rtl  .header-1 .sb-menu ul.auth-elements , .rtl  .my-list5-info-meta .detail-button , .rtl  .ag-about .about-video .video-1 {
+    float: left;
+}
+.rtl  .auth-dropdown {
+    right: inherit;
+    left: 0;
+}
+.rtl  .header-1 ul.auth-elements .user-avatar a.my-auth, .nhome-3 ul.auth-elements .user-avatar a.my-auth {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .select2-container--classic .select2-selection--single .select2-selection__arrow b
+{
+    margin-left: 10px;
+}
+.rtl  .select2-container--classic .select2-selection--single .select2-selection__clear {
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .typeahead__list, .rtl   .typeahead__dropdown {
+    text-align: right;
+}
+.rtl .typeahead__cancel-button {
+    right: inherit;
+    left: 0;
+}
+.rtl  .typeahead__field .typeahead__hint, .rtl  .typeahead__field [contenteditable], .rtl  .typeahead__field input, .typeahead__field textarea {
+    padding: 15px 12px 15px 32px !important;
+}
+.rtl  .filter-sorting-bar .select2-container {
+    text-align: right;
+}
+.rtl .extrp span {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl .my-list2-img-cont .property-labels.absolute-yes, .rtl .my-list3-img-container .property-labels.absolute-yes {
+    left: inherit;
+    right: 10px;
+}
+.rtl .total-img-count {
+    right: inherit;
+    left: 0;
+}
+.rtl  .my-img-container {
+    width: 258px;
+    margin: 0 0 0 22px;
+}
+.rtl  .filter-sorting-bar span.sort-label {
+    padding-right: inherit;
+    padding-right: left;
+}
+.rtl  .home-statistics-features ul li.my-right {
+    float: left;
+    margin-left: inherit;
+    margin-right: 15px;
+}
+.rtl  .my-list5-container .my-list5-img , .rtl   .my-list5-info-meta ul{
+    float: right;
+}
+.rtl .my-list5-info-meta ul li
+{
+    margin-right: inherit;
+    margin-left: 14px;
+}
+.rtl  .my-list5-info-meta ul li i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .mygrid-type-1 .home-amenties {
+    padding-left: inherit;
+    padding-right: 1.25rem;
+}
+.rtl   .mygrid-type-1 .home-amenties > div {
+    padding: 0 0 0 14px;
+}
+.rtl  .mygrid-type-1 .home-amenties > div:last-child {
+    padding-right: inherit;
+     padding-left: 0;
+}
+.rtl  .card.ad-card-3 .author {
+    right: inherit;
+    left: 15px;
+}
+.rtl  .propert-type {
+    left: inherit;
+    right: 0;
+}
+.rtl  .card.ad-card-3 .property-meta {
+    right: inherit;
+    left: 0;
+}
+.rtl  .property-tools {
+    right: inherit;
+    left: 15px;
+}
+.rtl  .property-tools + .property-tools {
+    right: inherit;
+    left: 55px;
+}
+.rtl  .facilities-list li {
+    float: right;
+}
+.rtl  .card.ad-card-4 .prop-location i {
+    margin-right: inherit;
+    margin-left: 3px;
+}
+.rtl  .ad-card-4 .card-body ul .list-inline-item:not(:last-child) {
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl  .card.ad-card-4 .list-inline .list-inline-item i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .card5-author-thumb {
+    right: inherit;
+    left: 15px;
+}
+.rtl  .card.ad-card-5 .card-footer .property-tools {
+    right: inherit;
+    left: 15px;
+}
+.rtl  .card.ad-card-5 .card-footer .property-tools + .property-tools {
+    right: inherit;
+    left: 55px;
+}
+.rtl  .property-labels.absolute-yes {
+    padding: 0 10px 0 0;
+}
+.rtl  .typeahead__container.loading .typeahead__query:before, .rtl  .typeahead__container.loading .typeahead__query:after {
+    right: inherit;
+    left: 0.55em;
+}
+.rtl .prop-types-carsol.owl-carousel.owl-theme .owl-next {
+    right: inherit;
+     left: -170px;
+}
+.rtl .prop-types-carsol.owl-carousel.owl-theme .owl-prev {
+    left: inherit;
+    right: -25px;
+}
+.rtl .owl-carousel .fa-angle-left::before {
+    content: "\f105";
+}
+.rtl .owl-carousel .fa-angle-right::before {
+    content: "\f104";
+}
+.rtl .radius-dropdown {
+    right: inherit;
+    left: 124px;
+}
+.rtl  .city-property .text-over .arw ,.rtl  ul.category-list-data li a span {
+    float: left;
+}
+.rtl .city-property .text-over .fa-angle-right::before {
+    content: "\f104";
+}
+.rtl  .home-work .border-counter .counter-inner span img {
+    float: right;
+    margin-right: inherit;
+    margin-left: 13px;
+}
+.rtl blockquote::after {
+    content: '\201D';
+    left: inherit;
+    right: 24px;
+}
+.rtl  .testimonials-classic-1 .testimonialArrow {
+    margin-left: inherit;
+    margin-right: 48px;
+}
+.rtl .testimonials-classic-1 .user-avatar {
+    float: right;
+    margin-left: inherit;
+    margin-right: 25px;
+}
+.rtl .testimonials-classic-1 .author {
+    float: right;
+    margin: 30px 10px 0 0;
+}
+.rtl  .main-home-sec7 .and-div {
+    margin-left: inherit;
+    margin-right: 15px;
+}
+.rtl  .main-home-sec7 .btn.app-download-button1 i {
+    float: right;
+    padding: 0 0 0 14px;
+}
+.rtl  .main-home-sec7 .btn.app-download-button1 span.app-store-btn1 span {
+    text-align: right;
+}
+.rtl  .fa-long-arrow-alt-right::before {
+    content: "\f30a";
+}
+.rtl  .dark-footer .propertya-footer-widgets {
+    text-align: right;
+}
+.rtl  .social-icons ul li {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .fa-angle-right::before {
+    content: "\f104";
+}
+.rtl  .dark-footer .list li {
+    padding-left: inherit;
+    padding-right: 15px;
+}
+.rtl  .dark-footer .list li i {
+    left: inherit;
+    right: 0;
+}
+.rtl .listing-owner-social li {
+    margin-right: 0px;
+    margin-left: 6px;
+}
+.rtl .home-6-sec1 .btn-div .read-m {
+    margin-left: inherit;
+    margin-right: 20px;
+}
+.rtl .cat-type-img .img {
+    left: inherit;
+    right: 0;
+}
+.rtl  .cat-type-img {
+    padding-left: inherit;
+    padding-right: 75px;
+}
+.rtl  ul.category-list-data li a {
+    text-align: right;
+}
+.rtl .card-agent-4 .card-body .agent-info ul li i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl .testimonials-modern-1 .testimonials-item .client-info {
+    padding-left: 0;
+    padding-right: 110px;
+}
+.rtl .testimonials-modern-1 .testimonials-item .client-info .img {
+    left: inherit;
+    right: 0;
+}
+.rtl  .ag-hero .build-bg {
+    float: left;
+    right: inherit;
+    left: 0;
+}
+.rtl  .ag-hero .search-data {
+    padding-right: inherit;
+     padding-left: 40px;
+}
+.rtl .ag-hero .search-box button i {
+    margin-right: inherit;
+    margin-left: 3px;
+}
+.rtl .ag-hero .search-data .top-agencies .agencies ul li b {
+    padding-left: inherit;
+    padding-right: 56px;
+}
+.rtl .ag-hero .search-data .top-agencies .agencies ul li {
+    margin-left: 0;
+    margin-right: inherit;
+}
+.rtl  .ag-hero .search-data .top-agencies .agencies ul li img {
+    float: right;
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .ag-about .about-video .play-btn .play-inner {
+    right: 130px;
+}
+.rtl   .ag-about .about-video {
+    background-position-x: 365px;
+}
+.rtl  .ag-about .about-content .cal-action ul li i {
+    float: right;
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .ag-about .about-content .cal-action ul li {
+    margin-right: inherit;
+    margin-left: 20px;
+}
+.rtl  .mimimal-counter .border-counter .counter-inner {
+    border-right: none;
+     border-left: 1px solid #ebebeb;
+}
+.rtl  .mimimal-counter .border-counter .counter-inner span img {
+    float: right;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.rtl  .mimimal-counter .border-counter .counter-inner:last-child {
+    border-right: inherit;
+     border-left: none;
+}
+.rtl  .widget-inner-icon {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .brs a.btn {
+    margin-right: inherit;
+    margin-left: 20px;
+}
+.rtl .full-width-testimonials .owl-next {
+    right: inherit;
+    left: -25px;
+}
+.rtl  .home-6-sec4 .testi-home6 .testi-data .testi-text {
+    padding: 10px 35px 0 0;
+}
+.rtl  .classic-search-bar {
+    text-align: right;
+}
+.rtl  .classic-search-bar .input-field.second {
+    border-radius: 0 0 3px 3px;
+    border-left:none;
+    border-right: 1px solid #e5e5e5;
+    padding-right: 20px;
+     padding-left: 5px;
+}
+
+.rtl .classic-search-bar .typeahead__field input {
+    padding: 0 !important;
+}
+.rtl .hero-5-png img {
+    right: inherit;
+    left: 0;
+}
+.rtl .herosearch-form .search-form-inner {
+    width: calc(100% - 160px);
+}
+.rtl .intro-hero-1 .hero-content-1 .btn + .btn {
+    margin-left: inherit;
+    margin-right: 10px;
+}
+.rtl .property-main .images-link {
+    left: auto;
+    right: 10px;
+}
+.rtl .property-data .ul-text li:first-child {
+
+    padding-right: 15px;
+}
+.rtl .property-data .ul-text li {
+
+    padding-right: 10px;
+    margin-right: inherit;
+    margin-left: 0;
+    border-right: none;
+    border-left: 1px solid #e9e9e9;
+
+}
+.rtl  .property-data .ul-text li .text {
+    margin-left: inherit;
+     margin-right: 3px;
+}
+.rtl .property-data .ul-text li:last-child {
+    border-right: none;
+border-left: none;
+}
+
+.rtl  .entry-left::before {
+    right: auto;
+    left: calc(2% - 30px);
+    border-right:none;
+    border-left: 1px solid #e6e6e6;
+}
+.rtl  .blog-sidebar .widget {
+    padding: 35px 25px 25px 0;
+}
+.rtl  .blog-sidebar .widget ul li, .rtl  .wp-block-archives-list li, .rtl  .wp-block-rss li , .rtl  .blog-sidebar .widget ul li a {
+    text-align: right
+}
+.rtl  .blog-sidebar .widget ul {
+    padding-left: inherit;
+     padding-right: 0;
+}
+.rtl  .blog-sidebar .widget ul li a {
+    text-align: right;
+    float: right;
+    margin-left: 5px;
+    margin-right: 15px;
+    font-weight: 500;
+}
+.rtl  .blog-sidebar .widget ul li a::before {
+    text-align: right;
+    position: absolute;
+    left: auto;
+    right: 0;
+    content: '\f0d9';
+}
+.rtl  .post-detail-commenting-meta ul li .meta-icon {
+    margin-right: inherit;
+     margin-left: .2rem;
+}
+.rtl  .post-desc ul {
+    padding-left: inherit;
+    padding-right: 40px;
+}
+.rtl  .blog-sidebar .widget ul li.recentcomments span.comment-author-link {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.rtl  .widget-seprator h3.sec-title {
+    float: right;
+}
+.rtl  .agen-list-3 .ag-loc p {
+    margin-left: inherit;
+    margin-right: 17px;
+}
+.rtl  .ag-content::before {
+    left: auto;
+    right: calc(2% - 30px);
+    border-left: none;
+    border-right: 1px solid #e6e6e6;
+}
+.rtl  .agency-sidebar, .rtl  .agent-sidebar, .rtl  .listing-search-sidebar {
+    padding-right: inherit;
+    padding-left: 30px;
+}
+.rtl  .agen-card-area , .rtl  .agen-cards .agen-card-content {
+    left: inherit;
+    right: 0;
+}
+.rtl  .theme-custom-ribbon {
+    left: auto;
+    right: -5px;
+    border-radius: 5px 2px 2px 0;
+}
+.rtl  .theme-custom-ribbon::before {
+    left: auto;
+    right: 0;
+}
+.rtl  .theme-custom-ribbon::after {
+   left: auto;
+    right: 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px;
+    border-radius: 5px 5px 0 0;
+}
+.rtl .filter-tags-list {
+    margin-right: inherit;
+    margin-left: 30px;
+}
+.rtl .filter-reset-btn {
+    margin-left: inherit;
+     margin-right: 20px;
+}
+.rtl .agen-list-2 .short-desc li p {
+    margin-left: inherit;
+    margin-right: 30px;
+}
+.rtl .ag-short-detail .short-detail {
+    padding-left: inherit;
+    padding-right: 15px;
+}
+.rtl  .agency-agent-classic .list-meta ul li {
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl .list-meta li .list-posted-date i {
+    margin-right: inherit;
+     margin-left: 3px;
+}
+.rtl  .recently-added-desc {
+    float: right;
+    padding: 0 15px 0 0;
+}
+.rtl  .recently-added-desc h4 {
+    text-align: right;
+}
+.rtl .pretty input {
+    left: auto;
+    right: 0;
+}
+.rtl .pretty .state label::after, .rtl .pretty .state label::before {
+    left: auto;
+    right: 0;
+}
+.rtl .rating-group .rating-group-input {
+    left: auto;
+    right: -9999px !important;
+}
+.rtl .agent-list1 .thumb + .agent-list1-area {
+    padding-left: inherit;
+     padding-right: 20px;
+}
+.rtl .recent-ads .recent-ads-list-image-inner {
+    margin: 0 0 0 16px;
+}
+.rtl .list-meta-two ul li {
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl .padding-right-30 {
+    padding-right: 35px;
+}
+.rtl .iti--allow-dropdown .iti__flag-container, .rtl .iti--separate-dial-code .iti__flag-container {
+    right: 0;
+    left: auto;
+}
+.rtl .iti__selected-flag {
+    padding: 0 8px 0 6px;
+}
+.rtl .iti__arrow {
+    margin-left: inherit;
+    margin-right: 6px;
+}
+.rtl .iti__country-list {
+    text-align: right;
+    margin: 0 -1px 0 0;
+    box-shadow: 1px 1px 4px rgba(0,0,0,.2);
+}
+.rtl  .iti--allow-dropdown input, .rtl  .iti--allow-dropdown input[type="tel"], .rtl  .iti--allow-dropdown input[type="text"], .rtl  .iti--separate-dial-code input, .rtl  .iti--separate-dial-code input[type="tel"], .rtl  .iti--separate-dial-code input[type="text"] {
+    padding-right: 52px;
+    padding-left: 6px;
+    margin-left: inherit;
+    margin-right: 0;
+}
+.rtl .main-dis-area .agent-details {
+    margin-left: inherit;
+    margin-right: 92px;
+}
+.rtl .special-features .s-box .icon {
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl .attachments-container .attachment-type {
+    padding-right: inherit;
+     padding-left: 1rem;
+}
+.rtl .list-meta-two ul li::after {
+    margin-left: inherit;
+    margin-right: 15px;
+}
+.rtl .attachments-container .fize-size {
+    padding-right: inherit;
+    padding-left: 1.25rem;
+}
+.rtl .list-meta-two ul li a i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+
+.rtl .property-detail-page .flex-control-thumbs li{
+    float: right;
+}
+.rtl .project-price .feature i {
+    right: inherit;
+     left: 25px;
+}
+.rtl .sticky-button-edit {
+    right: inherit;
+    left: 80px;
+}
+.rtl .scroll-top {
+    right: inherit;
+    left: 25px;
+}
+.rtl #compare-toolbox {
+    right: auto;
+    left: -270px;
+}
+.rtl  #compare-toolbox .panel-heading {
+    margin-right: inherit;
+    margin-left: 30px;
+    right: auto;
+    left: 44px;
+}
+.rtl  #compare-toolbox .panel-icon {
+    padding-right: 13px;
+    padding-left: 20px;
+}
+.rtl  #compare-toolbox .panel-heading .panel-title {
+    padding-left: inherit;
+    padding-right: 40px;
+}
+.rtl   #compare-toolbox.toolbox-open {
+    right: auto;
+    left: 0;
+}
+.rtl  .dashboard-statistic-block .icon {
+    margin-right: inherit;
+    margin-left: 15px;
+}
+.rtl  .most-viewed-listings .card .media .media-body ul.list-inline li.list-inline-item i {
+    margin-right: inherit;
+    margin-left: 3px;
+}
+.rtl  .del-my-account i.fa-exclamation-triangle {
+    right: inherit;
+    left: 0;
+}
+.rtl  .toast-container {
+    right: auto;
+    left: 0;
+}
+.rtl  .toast[data-type] .close {
+    right: auto;
+     left: .25rem;
+}
+.rtl  .toast[data-type] .toast-body {
+    padding-left: inherit;
+     padding-right: 1rem;
+}
+.rtl  .toast[data-type] .toast-content {
+    padding-left: inherit;
+    padding-right: 1rem;
+}
+.rtl  .custom-tabel .listing-actions .dropdown .dropdown-menu a i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .sb-header.make-me-trans .call-us {
+    border-right:none;
+    border-left: 1px solid rgba(242,242,242,.4);
+}
+.rtl  .nhome-3 .call-us {
+    padding: 28px 15px 27px 30px;
+}
+.rtl  .featured-ribbon {
+    right: auto;
+    left: .25em;
+}
+.rtl .agency-grid-6 .ageny-6-label {
+    left: auto;
+    right: 20px;
+    
+}
+.rtl  .is_agen_recommended .btn
+{
+   right: auto;
+    left: 20px; 
+}
+.rtl .listing-rating {
+    left: auto;
+    right: 20px;
+}
+.rtl .marketed-by ul li.my-contact {
+    float: left;
+    margin-left: inherit;
+    margin-right: 15px;
+}
+.rtl .mygrid-type-1 .meta {
+    right: auto;
+    left: 15px;
+}
+.rtl .mygrid-type-1 .label-badges {
+    right: auto;
+    left: 10px;
+}
+.rtl .reviews-author-details {
+    margin: 0 8px 0 0;
+}
+.rtl .stv-radio-button + label {
+    float: right;
+    margin-right: inherit;
+    margin-left: -1px;
+   
+}
+.rtl  .ribbon span {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    right: auto;
+    left: -21px;
+}
+.rtl  .listing-info-content .main-dis-area .ribbon {
+    right: auto;
+    left: 12px;
+}
+.rtl  .main-dis-area .form-control {
+    text-align: right;
+}
+.rtl  .yelp-powered-by , .rtl  .widget-seprator.nearby .yelp-powered-by {
+    text-align: left;
+}
+.rtl  .yelp-powered {
+    padding-right: inherit;
+    padding-left: 5px;
+}
+.rtl  .yelp-custom-icons i {
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .yelp-stars {
+    float: left;
+}
+.rtl .yelp-inner-loop {
+    padding-left: inherit;
+    padding-right: 58px;
+}
+.rtl .yelp-place-distance {
+    margin-left: inherit;
+    margin-right: 5px;
+}
+.rtl .listing-specs .detail-type strong {
+    padding-right: inherit;
+    padding-left: 5px;
+}
+
+.rtl [data-rating^='1.5'] .star-2 {
+    border-left-color: inherit;
+    border-right-color: #cc8b1f;
+}
+.rtl [data-rating^='2.5'] .star-3 {
+    border-left-color: inherit;
+    border-right-color: #dcb228;
+}
+.rtl [data-rating^='3.5'] .star-4 {
+    border-left-color: inherit;
+    border-right-color: #f0991e;
+}
+.rtl [data-rating^='4.5'] .star-5 {
+    border-left-color: inherit;
+    border-right-color: #f26a2c;
+}
+.rtl .walkscore-container .walkscore-score-div {
+    padding-right: inherit;
+    padding-left: 1rem;
+}
+.rtl .walkscore-container .walkscore-score-div::after {
+    right: auto;
+    left: 9px;
+}
+.rtl .home-amenties > div {
+    padding: 0 12px;
+}
+.rtl  .ribbon {
+    right:auto;
+    left: -5px;
+    text-align: left;
+}
+.rtl .card.ad-card-2 .property-tools {
+    left: auto;
+    right: 15px;
+}
+.rtl  .card.ad-card-2 .property-tools + .property-tools {
+    left: auto;
+    right: 55px;
+}
+.rtl  .featured-slider-prop.owl-carousel .owl-nav .owl-prev {
+    right: auto;
+    left: 24px;
+}
+.rtl .featured-slider-prop.owl-carousel .owl-nav .owl-next {
+    right: auto;
+    left: -6px;
+}
+.rtl .nearby-listing .listing-list-img {
+    margin: 0 0 0 10px;
+}
+.rtl .wpcf7-form .form-control {
+    text-align: right;
+}
+.rtl  div.wpcf7 .ajax-loader {
+    float: left;
+}
+
+.rtl  .btn-face i {
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .btn-google img {
+    margin-right: inherit;
+    margin-left: 10px;
+}
+.rtl  .get-loc i.detect-me {
+    right: auto;
+    left: 20px;
+}
+.rtl  .my-agent-list .m-r-20 {
+    margin-right: inherit;
+     margin-left: 20px;
+}
+.rtl  .agency_agents .agency_agent_details li span {
+    margin-right: inherit;
+     margin-left: 3px;
+}
+.rtl  .profile-review-box img {
+    margin-right: inherit;
+    margin-left: 20px;
+}
+.rtl  .timehour-ago {
+    padding-left: inherit;
+    padding-right: 10px;
+}
+.rtl  .timehour-ago i {
+    padding-right: inherit;
+    padding-left: 5px;
+}
+.rtl  .profile-mark-as {
+    margin-left: inherit;
+    margin-right: 10px;
+}
+.rtl  .profile-review-box-info .profile-review-title .review-toggle-angle {
+    right: auto;
+    left: 15px
+        
+}
+.rtl  .profile-review-meta ul li i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.rtl  .profile-review-box-info .profile-review-meta ul li {
+    margin-right: inherit;
+    margin-left: 10px;
+}
